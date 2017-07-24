@@ -14,18 +14,28 @@ body {
     font-family: "CamberRegular";
 }
 
+
 /*****/
-.centered {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
+.col-wide {
+	width: 100%;
 }
 
-.row-eq-height {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
+.col-narrow {
+	width: 100%;
+}
+
+@media(min-width:768px) {
+	.col-wide {
+		width: 45%;
+	}
+
+	.col-med {
+		width: 25%;
+	}
+
+	.col-buffer {
+		width: 5%;
+	}
 }
 
 .halve {
@@ -41,15 +51,6 @@ body {
     display: block;
 	position: absolute;
 	top: 0; left: 0; bottom: 0; right: 0;
-}
-
-.row.is-flex {
-    display: flex;
-    flex-wrap: wrap;
-}
-.row.is-flex > [class*='col-'] {
-    display: flex;
-    flex-direction: column;
 }
 /*****/
 
@@ -130,9 +131,9 @@ h6 {
 }
 
 .navbar-brand>img {
-    height: 50px;
     max-width: 250px;
-    margin: -15px;
+    height: auto;
+    margin: -10px;
 }
 
 @media(min-width:768px) {
@@ -259,7 +260,7 @@ header .intro-text .intro-heading {
     text-transform: none;
     font-family: "CamberRegular";
     font-size: 20px;
-    font-weight: 400;
+    font-weight:400;
     line-height: 1.5em;
     max-width: 26em;
     text-align: center;
@@ -267,32 +268,23 @@ header .intro-text .intro-heading {
     margin-right: auto;
 }
 
-@media(min-width:768px) {
-    header .intro-text {
-        padding-top: 300px;
-        padding-bottom: 200px;
-    }
+header .intro-text .intro-lead-in {
+    margin-bottom: 25px;
+    font-family: "CamberRegular";
+    font-size: 30px;
+    font-style: normal;
+    line-height: 40px;
+}
 
-    header .intro-text .intro-lead-in {
-        margin-bottom: 25px;
-        font-family: "CamberRegular";
-        font-size: 30px;
-        font-style: normal;
-        line-height: 40px;
-    }
+/* Text sizing for mobile portrait (<=450px) */
+@media(max-width: 450px) {
+	header .intro-text .intro-lead-in {
+	    font-size: 6.2vw;
+	}
 
-    header .intro-text .intro-heading {
-        margin-bottom: 50px;
-        text-transform: none;
-        font-family: "CamberRegular";
-        font-size: 20px;
-        font-weight: 400;
-        line-height: 1.5em;
-        max-width: 26em;
-        text-align: center;
-        margin-left: auto;
-        margin-right: auto;
-    }
+	header .intro-text .intro-heading {
+	    font-size: 4.13333vw;
+	}
 }
 
 section {
