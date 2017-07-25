@@ -16,6 +16,22 @@ body {
 
 
 /*****/
+#Header
+{
+ overflow:hidden;
+ clear:both;
+}
+
+.image
+{
+ float:left;
+}
+
+.right
+{
+ margin-left:3em;
+}
+
 .col-wide {
 	width: 100%;
 }
@@ -29,7 +45,7 @@ body {
 		width: 45%;
 	}
 
-	.col-med {
+	.col-narrow {
 		width: 25%;
 	}
 
