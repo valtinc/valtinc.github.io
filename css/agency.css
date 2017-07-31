@@ -173,8 +173,8 @@ h6 {
 }
 
 .navbar-default .navbar-toggle {
-    border-color: #fed136;
-    background-color: #fed136;
+    border-color: transparent;
+    background-color: transparent;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
