@@ -183,7 +183,7 @@ h6 {
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #fed136;
+    background-color: transparent;
 }
 
 .navbar-default .nav li a {
