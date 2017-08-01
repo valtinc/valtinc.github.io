@@ -16,20 +16,9 @@ body {
 
 
 /*****/
-#Header
-{
- overflow:hidden;
- clear:both;
-}
-
-.image
-{
- float:left;
-}
-
-.right
-{
- margin-left:3em;
+.box {
+    width: 100%;
+    text-align: center;
 }
 
 .col-wide {
