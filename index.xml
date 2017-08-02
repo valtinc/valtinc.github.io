@@ -6,9 +6,20 @@
     <description>Recent content on Valt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 02 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://valtinc.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://valtinc.github.io/faq/</link>
+      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://valtinc.github.io/faq/</guid>
+      <description>With this theme, it is possible to add small sections that only contains one page like this. It will automatically appears in the header, at the end.
+Along with Ford Prefect, Dent barely escapes the Earth&amp;rsquo;s destruction as it is demolished to make way for a hyperspace bypass. Arthur spends the next several years, still wearing his dressing gown, helplessly launched from crisis to crisis while trying to straighten out his lifestyle.</description>
+    </item>
     
   </channel>
 </rss>
