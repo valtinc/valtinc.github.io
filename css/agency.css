@@ -16,6 +16,13 @@ body {
 
 
 /*****/
+@media(max-width: 768px) {
+    .responsive {
+        width: 300px;
+        height: auto;
+    }
+}
+
 .box {
     width: 100%;
     text-align: center;
