@@ -35,7 +35,7 @@ body {
     }
 
     .faqPad {
-        padding-top: 50px;
+        padding-top: 60px;
     }
 }
 
@@ -228,7 +228,7 @@ h6 {
     .navbar-default {
         padding: 25px 0;
         border: 0;
-        background-color: #000;
+        background-color: transparent;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
