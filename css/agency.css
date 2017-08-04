@@ -20,10 +20,6 @@ body {
     width: 55%;
 }
 
-.faqPad {
-    padding-top: 100px;
-}
-
 @media(max-width: 768px) {
     .responsive {
         width: 300px;
@@ -32,10 +28,6 @@ body {
 
     .faqWidth {
         width: 90%;
-    }
-
-    .faqPad {
-        padding-top: 60px;
     }
 }
 
