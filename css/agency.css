@@ -16,8 +16,12 @@ body {
 
 
 /*****/
-.faq {
+.faqWidth {
     width: 55%;
+}
+
+.faqPad {
+    padding-top: 100px;
 }
 
 @media(max-width: 768px) {
@@ -26,8 +30,12 @@ body {
         height: auto;
     }
 
-    .faq {
+    .faqWidth {
         width: 90%;
+    }
+
+    .faqPad {
+        padding-top: 50px;
     }
 }
 
