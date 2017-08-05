@@ -25,8 +25,8 @@ body {
 }
 @media(max-width: 768px) {
     .downloadIcons {
-        width: 97.5vw;
-        height: 15vw;
+        width: 91vw;
+        height: 14vw;
     }
 
     .responsive {
