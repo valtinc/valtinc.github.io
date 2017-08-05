@@ -19,8 +19,16 @@ body {
 .faqWidth {
     width: 55%;
 }
-
+.downloadIcons {
+    width: 390px;
+    height: 60px;
+}
 @media(max-width: 768px) {
+    .downloadIcons {
+        width: 97.5vw;
+        height: 15vw;
+    }
+
     .responsive {
         width: 300px;
         height: auto;
