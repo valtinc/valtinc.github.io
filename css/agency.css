@@ -16,6 +16,12 @@ body {
 
 
 /*****/
+.text {
+    width: 350px;
+    text-align: left;
+
+}
+
 .faqWidth {
     width: 55%;
 }
@@ -24,6 +30,10 @@ body {
     height: 60px;
 }
 @media(max-width: 768px) {
+    .text {
+        width: 80%;
+        text-align: center;
+    }
     .downloadIcons {
         width: 91vw;
         height: 14vw;
@@ -161,7 +171,7 @@ h6 {
 .navbar-brand>img {
     max-width: 250px;
     height: auto;
-    margin: -10px;
+    margin: -6px;
 }
 
 @media(min-width:768px) {
