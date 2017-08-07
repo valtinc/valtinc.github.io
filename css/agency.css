@@ -16,15 +16,28 @@ body {
 
 
 /*****/
+.row-fixed {
+    max-height: 535px;
+}
+
+.vertical-center {
+  display: flex;
+  align-items: center;
+}
+
+.about-block {
+    height: 600px;
+}
+
 .text {
     width: 350px;
     text-align: left;
-
 }
 
 .faqWidth {
     width: 55%;
 }
+
 .downloadIcons {
     width: 390px;
     height: 60px;
