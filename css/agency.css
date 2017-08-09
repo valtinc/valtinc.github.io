@@ -108,7 +108,7 @@ body {
 }
 
 .text-primary {
-    color: #fed136;
+    color: #474747;
 }
 
 p {
@@ -126,17 +126,6 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-}
-
-a {
-    color: #fed136;
-}
-
-a:hover,
-a:focus,
-a:active,
-a.active {
-    color: #fec503;
 }
 
 h1,
@@ -169,14 +158,6 @@ h6 {
 
 .navbar-default .navbar-brand {
     font-family: "CamberRegular";
-    color: #fed136;
-}
-
-.navbar-default .navbar-brand:hover,
-.navbar-default .navbar-brand:focus,
-.navbar-default .navbar-brand:active,
-.navbar-default .navbar-brand.active {
-    color: #fec503;
 }
 
 .navbar-brand>img {
@@ -225,24 +206,6 @@ h6 {
     font-weight: 400;
     letter-spacing: 1px;
     color: #fff;
-}
-
-.navbar-default .nav li a:hover,
-.navbar-default .nav li a:focus {
-    outline: 0;
-    color: #fed136;
-}
-
-.navbar-default .navbar-nav>.active>a {
-    border-radius: 0;
-    color: #fff;
-    background-color: #fed136;
-}
-
-.navbar-default .navbar-nav>.active>a:hover,
-.navbar-default .navbar-nav>.active>a:focus {
-    color: #fff;
-    background-color: #fec503;
 }
 
 @media(min-width:768px) {
@@ -528,7 +491,7 @@ section h3.section-subheading {
     border-radius: 100%;
     text-align: center;
     color: #fff;
-    background-color: #fed136;
+    /*background-color: #fed136;*/
 }
 
 .timeline>li .timeline-image h4 {
@@ -784,11 +747,6 @@ section#contact .form-group textarea.form-control {
     height: 236px;
 }
 
-section#contact .form-control:focus {
-    border-color: #fed136;
-    box-shadow: none;
-}
-
 section#contact::-webkit-input-placeholder {
     text-transform: none;
     font-family: "CamberRegular";
@@ -826,7 +784,7 @@ section#contact .text-success {
 }
 
 footer {
-    padding: 25px 0;
+    padding: 15px 0;
     text-align: center;
 }
 
@@ -922,16 +880,6 @@ footer ul.quicklinks {
     opacity: 0;
 }
 
-::-moz-selection {
-    text-shadow: none;
-    background: #fed136;
-}
-
-::selection {
-    text-shadow: none;
-    background: #fed136;
-}
-
 img::selection {
     background: 0 0;
 }
@@ -939,7 +887,3 @@ img::selection {
 img::-moz-selection {
     background: 0 0;
 }
-
-body {
-    webkit-tap-highlight-color: #fed136;
-}-
