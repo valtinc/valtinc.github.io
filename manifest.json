@@ -1,0 +1,14 @@
+{
+  "name": "Valt",
+  "short_name": "Valt",
+  "start_url": ".",
+  "background_color": "#14b57c",
+  "description": "Leverage visual memory to keep sensitive passwords secure.",
+  "related_applications": [{
+    "platform": "web"
+  }, {
+    "platform": "itunes",
+    "url": "",
+    "id": ""
+  }]
+}
