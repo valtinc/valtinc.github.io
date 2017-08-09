@@ -16,17 +16,18 @@ body {
 
 
 /*****/
-.row-fixed {
-    max-height: 535px;
+
+.responsive-pad {
+    height: auto;
+    overflow: hidden;
+    padding: 40px 0 40px 0;
 }
 
-.vertical-center {
-  display: flex;
-  align-items: center;
-}
-
-.about-block {
-    height: 600px;
+.parent {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    overflow: hidden;
 }
 
 .text {
@@ -34,15 +35,20 @@ body {
     text-align: left;
 }
 
-.faqWidth {
-    width: 55%;
-}
-
 .downloadIcons {
     width: 390px;
     height: 60px;
 }
-@media(max-width: 768px) {
+
+@media(max-width: 767px) {    
+    .responsive-img {
+        width: 90%;
+        height: auto;
+    }
+
+    .wrap { flex-direction: column; }
+    .wrap-rev {flex-direction: column-reverse;}
+
     .text {
         width: 80%;
         text-align: center;
@@ -65,28 +71,6 @@ body {
 .box {
     width: 100%;
     text-align: center;
-}
-
-.col-wide {
-	width: 100%;
-}
-
-.col-narrow {
-	width: 100%;
-}
-
-@media(min-width:768px) {
-	.col-wide {
-		width: 45%;
-	}
-
-	.col-narrow {
-		width: 25%;
-	}
-
-	.col-buffer {
-		width: 5%;
-	}
 }
 
 .halve {
