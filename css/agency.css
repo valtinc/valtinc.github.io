@@ -16,6 +16,9 @@ body {
 
 
 /*****/
+.faqWidth {
+    width: 55%;
+}
 
 .responsive-pad {
     height: auto;
@@ -41,6 +44,9 @@ body {
 }
 
 @media(max-width: 767px) {    
+    .faqWidth {
+        width: 90%
+    }
     .responsive-img {
         width: 90%;
         height: auto;
