@@ -51,8 +51,8 @@ body {
     width: 55%;
 }
 
-@media(max-width: 767px) {
-    section#contact .section-heading {
+@media (max-width: 767px) {
+    body section#contact .section-heading {
         font-size: 6vw;
     }
 
@@ -347,14 +347,11 @@ header .intro-text .intro-lead-in {
     line-height: 40px;
 }
 
-/* Text sizing for mobile portrait (<=450px) */
+/* Text sizing for mobile portrait in hero (<=450px) */
 @media(max-width: 450px) {
-	header .intro-text .intro-lead-in {
-	    font-size: 6.2vw;
-	}
-
 	header .intro-text .intro-heading {
-	    font-size: 4.13333vw;
+	    font-size: 5vw;
+        width: 85%;
 	}
 }
 
@@ -767,6 +764,7 @@ section#contact {
 
 section#contact .section-heading {
     color: #fff;
+    font-size: 30px;
 }
 
 section#contact .form-group {
@@ -837,6 +835,7 @@ footer span.copyright {
     text-transform: none;
     font-family: "CamberRegular";
     line-height: 40px;
+    color: #4c4c4c;
 }
 
 footer ul.quicklinks {
