@@ -16,12 +16,13 @@ body {
 
 
 /*****/
-.bg-dark {
-    color: #1e1e1e;
+.wrapped-img {
+    max-width: 100%;
+    max-height: 100%;
 }
 
-.faqWidth {
-    width: 55%;
+.bg-dark {
+    color: #1e1e1e;
 }
 
 .responsive-pad {
@@ -46,14 +47,19 @@ body {
     height: 60px;
 }
 
+.faq-width {
+    width: 55%;
+}
+
 @media(max-width: 767px) {
+    section#contact .section-heading {
+        font-size: 6vw;
+    }
+
     .responsive-header {
         min-height: 100px;
     }
 
-    .faqWidth {
-        width: 90%
-    }
     .responsive-img {
         width: 90%;
         height: auto;
@@ -62,6 +68,10 @@ body {
     .wrap { flex-direction: column; }
     .wrap-rev {flex-direction: column-reverse;}
 
+    .faq-width {
+        width: 90%;
+    }
+
     .text {
         width: 80%;
         text-align: center;
@@ -69,10 +79,6 @@ body {
     .downloadIcons {
         width: 91vw;
         height: 14vw;
-    }
-
-    .faqWidth {
-        width: 90%;
     }
 }
 
@@ -287,7 +293,11 @@ header {
 
 @media(min-width: 768px) {
     .hero-container {
-        min-height: 800px;
+        min-height: 675px;
+    }
+
+    .mobile-only {
+        display: none;
     }
 }
 
