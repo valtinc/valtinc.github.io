@@ -16,15 +16,8 @@ body {
 
 
 /*****/
-button[type="submit"]
-{
-    border: none;
-    outline:none;
-}
+button:focus {outline:0;}
 
-button[type=submit]:focus {
-  border: 0;
-} 
 
 .wrapped-img {
     max-width: 100%;
@@ -305,7 +298,6 @@ header .intro-text .intro-lead-in {
 }
 
 header .intro-text .intro-heading {
-    margin-bottom: 50px;
     text-transform: none;
     font-family: "CamberRegular";
     font-size: 20px;
