@@ -16,7 +16,6 @@
     color: #fff;
 }
 
-input[type=submit]:focus {
-  background-color: green;
-  outline: 0;
-} 
+.btn.active.focus, .btn.active:focus, .btn.focus, .btn:active.focus, .btn:active:focus, .btn:focus {
+    outline: 0;
+}
