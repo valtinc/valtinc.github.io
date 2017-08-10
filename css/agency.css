@@ -784,7 +784,7 @@ section#contact .text-success {
 }
 
 footer {
-    padding: 15px 0;
+    padding-top: 20px;
     text-align: center;
 }
 
@@ -794,6 +794,8 @@ footer span.copyright {
     font-family: "CamberRegular";
     line-height: 40px;
     color: #4c4c4c;
+    padding-top: 5px;
+    padding-bottom: 10px;
 }
 
 footer ul.quicklinks {
