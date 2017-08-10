@@ -14,10 +14,9 @@ body {
     font-family: "CamberRegular";
 }
 
-
 /*****/
-button:focus {outline:0;}
-
+.col-wide { width: 60%; }
+.col-narrow { width: 40%; }
 
 .wrapped-img {
     max-width: 100%;
@@ -55,6 +54,8 @@ button:focus {outline:0;}
 }
 
 @media (max-width: 767px) {
+    .col-wide, .col-narrow { width: 100%; }
+    
     body section#contact .section-heading {
         font-size: 6vw;
     }
