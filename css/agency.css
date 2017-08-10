@@ -16,6 +16,12 @@ body {
 
 
 /*****/
+button[type="submit"]
+{
+    border: none;
+    outline:none;
+}
+
 button[type=submit]:focus {
   border: 0;
 } 
