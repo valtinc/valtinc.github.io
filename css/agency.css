@@ -15,8 +15,8 @@ body {
 }
 
 /*****/
-.col-wide { width: 60%; }
-.col-narrow { width: 40%; }
+.col-wide { width: 70%; }
+.col-narrow { width: 30%; }
 
 .wrapped-img {
     max-width: 100%;
