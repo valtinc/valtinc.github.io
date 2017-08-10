@@ -55,7 +55,7 @@ body {
 
 @media (max-width: 767px) {
     .col-wide, .col-narrow { width: 100%; }
-    
+
     body section#contact .section-heading {
         font-size: 6vw;
     }
@@ -131,11 +131,6 @@ a:active,
 a.active {
     outline: 0;
 }
-
-a {
-    color: #fff;
-}
-
 
 h1,
 h2,
