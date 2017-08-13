@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Valt</title>
-    <link>https://valt.io/</link>
+    <link>https://valtinc.github.io/</link>
     <description>Recent content on Valt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Aug 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://valt.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://valtinc.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>FAQ</title>
-      <link>https://valt.io/faq/</link>
+      <link>https://valtinc.github.io/faq/</link>
       <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://valt.io/faq/</guid>
+      <guid>https://valtinc.github.io/faq/</guid>
       <description>Frequently Asked Questions
  What is Valt Visual Password Manager? Valt Visual Password Manager is an iPhone app that provides a new approach to password management. It leverages your visual memory to keep your sensitive passwords secure. The images you learn via specific prompts on each image translate into a master password, which is used to unlock your Valt where all of your passwords are stored.
 How do I use it?</description>
