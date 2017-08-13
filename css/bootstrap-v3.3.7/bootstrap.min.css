@@ -24,9 +24,7 @@ fieldset[disabled] .form-control {
   cursor: default;
 }
 
-@media(max-width:992px) {
-	.form-control {
-		max-width: 555px;
-		margin: 0 auto;
-	}
+
+.btn-xl {
+	width: 100%;
 }

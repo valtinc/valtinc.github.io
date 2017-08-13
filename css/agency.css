@@ -15,8 +15,15 @@ body {
 }
 
 /*****/
-.col-wide { width: 70%; }
-.col-narrow { width: 30%; }
+.input-form {
+    max-width: 555px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button#submit {
+    margin: 0 auto;
+}
 
 .wrapped-img {
     max-width: 100%;
@@ -51,6 +58,12 @@ body {
 
 .faq-width {
     width: 55%;
+}
+
+@media (min-width: 912px) {
+    .margin-responsive {
+        margin: 0 0 0 8vw;
+    }
 }
 
 @media (max-width: 480px) {
@@ -741,11 +754,7 @@ section#contact .form-group textarea {
     padding: 0;
 }
 
-section#contact .form-group input.form-control {
-    height: auto;
-}
-
-section#contact .form-group textarea.form-control {
+section#contact .form-group textarea.form-control{
     height: 236px;
 }
 
@@ -790,13 +799,10 @@ footer {
     text-align: center;
 }
 
-footer span.copyright {
-    text-transform: none;
-    text-transform: none;
+footer .copyright {
     font-family: "CamberRegular";
     line-height: 40px;
     color: #4c4c4c;
-    padding-top: 5px;
     padding-bottom: 10px;
 }
 

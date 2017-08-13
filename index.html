@@ -10,13 +10,13 @@
   <meta name="generator" content="Hugo 0.24.1" />
   <title>Valt</title>
   <!-- Stylesheets -->
-  <link href="https://valtinc.github.io/css/jquery.form-validator-v2.3.44/theme-default.min.css" rel="stylesheet">
-  <link href="https://valtinc.github.io/css/bootstrap-v3.3.7/bootstrap.min.css" rel="stylesheet">
-  <link href="https://valtinc.github.io/css/agency.css" rel="stylesheet">
+  <link href="https://valt.io/css/jquery.form-validator-v2.3.44/theme-default.min.css" rel="stylesheet">
+  <link href="https://valt.io/css/bootstrap-v3.3.7/bootstrap.min.css" rel="stylesheet">
+  <link href="https://valt.io/css/agency.css" rel="stylesheet">
   
 
   <!-- Custom Fonts -->
-  <link href="https://valtinc.github.io/font-awesome-v4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  <link href="https://valt.io/font-awesome-v4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
   
   <link rel="manifest" href="/manifest.json">
 
@@ -60,7 +60,7 @@
 
         
           <li>
-            <a class="page-scroll" href="https://valtinc.github.io/#about">About Valt</a>
+            <a class="page-scroll" href="https://valt.io/#about">About Valt</a>
           </li>
         
 
@@ -68,13 +68,13 @@
 
         
           <li>
-            <a class="page-scroll" href="https://valtinc.github.io/faq">FAQ</a>
+            <a class="page-scroll" href="https://valt.io/faq">FAQ</a>
           </li>
         
 
         
           <li>
-            <a class="page-scroll" href="https://valtinc.github.io/#contact">Get the beta</a>
+            <a class="page-scroll" href="https://valt.io/#contact">Get the beta</a>
           </li>
         
 
@@ -87,11 +87,11 @@
 </nav>
 
     	<!-- Hero -->
-<header>
- 	<div class="parent hero-container">
- 		<div class="parent" style="max-width: 450px; width: 70%;">
+<header class="parent" style="height: auto;">
+ 	<div class="parent hero-container" style="max-width: 100%; padding-left: 40px;">
+ 		<div class="parent" style="max-width: 450px;">
  			<div>
-		 		<div class="intro-text parent">
+		 		<div class="intro-text">
 		  	 		<div>
 						<div class="intro-lead-in desktop-only">Visual Password Manager</div>
 					    <div class="intro-heading">Valt Visual Password Manager is a new approach to password management. With Valt you get the security of locking your data behind a truly random master password without the hassle of having to memorize one.</div>
@@ -101,9 +101,9 @@
  			</div>
  		</div>
 
- 		<div class="parent desktop-only" style="width: 30%; min-width: 300px;">
- 			<div style="width: 350px; height: 595px;">
-				<img src="/img/phone@2x.png" style="width: 100%; margin-left: 100px; margin-top: 160px;">
+ 		<div class="desktop-only">
+ 			<div class="parent" style="max-width: 350px; max-height: 595px; width: 100%;">
+				<img class="wrapped-img margin-responsive" src="/img/phone@2x.png" style="margin-top: 260px;">
  			</div>
  		</div>
 
@@ -127,7 +127,6 @@
       </div>
     </div>
 
-    
     <div style="width: 50px; height: 20px;"></div>
 
     <div class="parent">
@@ -231,52 +230,25 @@
 
       </div>
     </div>
-    <div class="row">
-      <div class="col-lg-12">
-        <form id="contactform" action="//formspree.io/beta@valt.io" method="POST">
-
-          <fieldset>
-            <div class="row">
-              <div class="col-md-6" style="float: none; margin: 0 auto;">
-
-                
-                <div class="form-group">
-                  <input class="form-control" id="name" required="required" type="text" name="name" placeholder="Full name" data-validation-error-msg="Please enter your name." style="text-align: center; height: 50px; font-size: 15px;">
-                  <p class="help-block text-danger"></p>
-                </div>
-                
-
-                
-                <div class="form-group">
-                  <input class="form-control" id="email" required="required" type="email" name="email" placeholder="E-mail" data-validation-error-msg="Please enter your email address." style="text-align: center; height: 50px; margin-top: -10px; font-size: 15px;">
-                  <p class="help-block text-danger"></p>
-                </div>
-                
-
-                
-              </div>
-
-              
-              <div class="clearfix"></div>
-              <div class="col-md-6" style="float: none; margin: 0 auto; display: flex; justify-content: center;">
-                <div class="text-success" id="success" style="display:none;">
-                  
-                    Thank you for awesomely contacting us.
-                  
-                </div>
-                <div class="text-danger" id="error" style="display:none;">
-                  
-                    Message could not be send. Please contact us at feedback@valt.io instead.
-                  
-                </div>
-                <button type="submit" value="Submit" class="btn btn-xl" style="height: 50px; background-color: #14b57c; color: #fff; opacity: 1; font-size: 15px; margin-top: -10px; width: 555px;">Sign up</button>
-              </div>
-            </div>
-            
-          </fieldset>
-        </form>
+    <form id="contactform" action="//formspree.io/alexhan@valt.io" method="POST">
+      <div class="input-form">
+        
+        <input class="form-control" id="name" required="required" type="text" name="name" placeholder="Full name" data-validation-error-msg="Please enter your name." style="text-align: center; height: 50px; font-size: 15px;">
+        <p class="help-block text-danger"></p>
+        
       </div>
-    </div>
+
+      <div class="input-form">
+        
+        <input class="form-control" id="email" required="required" type="email" name="email" placeholder="E-mail" data-validation-error-msg="Please enter your email address." style="text-align: center; height: 50px; font-size: 15px;">
+        <p class="help-block text-danger"></p>
+        
+      </div>
+
+      <div class="input-form">
+        <button id="submit" class="btn btn-xl" style="height: 50px; background-color: #14b57c; color: #fff; opacity: 1; font-size: 15px;">Sign up</button>
+      </div>
+    </form>
   </div>
 </section>
 
@@ -285,18 +257,8 @@
     
       <!-- Footer section -->
 <footer style="background-color: #1e1e1e;">
-  <div class="parent" style="margin: 0 auto;">
-    <div style="padding-right: 10px;">
-      <div style="height: 42px; width: 42px;">
-        <a href="https://facebook.com/valt.incorporated"><img class="wrapped-img" src="/img/iconFacebook@2x.png"></a>
-      </div>
-    </div>
-
-    <div style="height: 42px; width: 42px;">
-      <a href="https://twitter.com/valt_inc"><img class="wrapped-img" src="/img/iconTwitter@2x.png"></a>
-    </div>
-  </div>
-  <span class="copyright">Copyright © 2017 Valt Inc. All rights reserved.</span>
+  
+  <div class="copyright">Copyright © 2017 Valt Inc. All rights reserved.</div>
 </footer>
 
     
@@ -304,16 +266,16 @@
     
 
     <!-- jQuery -->
-<script src="https://valtinc.github.io/js/jquery-v3.3.1/jquery.min.js"></script>
+<script src="https://valt.io/js/jquery-v3.3.1/jquery.min.js"></script>
 
 <!-- Bootstrap Core -->
-<script src="https://valtinc.github.io/js/bootstrap-v3.3.7/bootstrap.min.js"></script>
+<script src="https://valt.io/js/bootstrap-v3.3.7/bootstrap.min.js"></script>
 
 <!-- Form Validation -->
-<script src="https://valtinc.github.io/js/jquery.form-validator-v2.3.44/jquery.form-validator.min.js"></script>
+<script src="https://valt.io/js/jquery.form-validator-v2.3.44/jquery.form-validator.min.js"></script>
 
 <!-- Custom Theme -->
-<script src="https://valtinc.github.io/js/agency.js"></script>
+<script src="https://valt.io/js/agency.js"></script>
 
 
 
