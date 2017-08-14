@@ -6,10 +6,29 @@
     <description>Recent content on Valt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://valt.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Privacy</title>
+      <link>http://valt.io/privacy/</link>
+      <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://valt.io/privacy/</guid>
+      <description>Privacy policy This privacy policy governs your use of the software application Valt Visual Password Manager (&amp;ldquo;Application&amp;rdquo;) for mobile devices that was created by&amp;nbsp;Valt Inc.&amp;nbsp;The Application allows users to leverage their visual memory to keep sensitive information like passwords secure.
+What information does the Application obtain and how is it used? User Provided Information The Application obtains the information you provide when you download and register the Application.&amp;nbsp;Registration with us is optional.</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>http://valt.io/terms/</link>
+      <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://valt.io/terms/</guid>
+      <description>Terms of Service Valt Inc. (a Delaware Corporation) (&amp;ldquo;Valt&amp;rdquo;, &amp;ldquo;we&amp;rdquo;, &amp;ldquo;us&amp;rdquo;, or &amp;ldquo;our&amp;rdquo;) operates www.valt.io (the &amp;ldquo;Website&amp;rdquo;) and provides our users (each user, &amp;ldquo;you&amp;rdquo;) with the Valt password manager, (the &amp;ldquo;App&amp;rdquo;), as well as a number of related services enabled via the Website and App (collectively, the &amp;ldquo;Services&amp;rdquo;). The following terms and conditions (the &amp;ldquo;Agreement&amp;rdquo;) form a binding agreement between you and us regarding your use of the Website and Services.</description>
+    </item>
     
     <item>
       <title>FAQ</title>

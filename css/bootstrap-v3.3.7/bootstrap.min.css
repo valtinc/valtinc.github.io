@@ -28,3 +28,7 @@ fieldset[disabled] .form-control {
 .btn-xl {
 	width: 100%;
 }
+
+a {
+	color: #4c4c4c;
+}
