@@ -49,6 +49,7 @@ button#submit {
 .text {
     width: 350px;
     text-align: left;
+    margin: 0 auto;
 }
 
 .downloadIcons {
@@ -60,15 +61,14 @@ button#submit {
     width: 55%;
 }
 
-@media (min-width: 912px) {
-    .margin-responsive {
-        margin: 0 0 0 8vw;
+@media (max-width: 749px) {
+    .text {
+        text-align: center;
+        padding-top: 5px;
     }
 }
 
 @media (max-width: 480px) {
-    .col-wide, .col-narrow { width: 100%; }
-
     body section#contact .section-heading {
         font-size: 6vw;
     }
@@ -79,7 +79,6 @@ button#submit {
 
     .responsive-img {
         width: 90%;
-        height: auto;
     }
 
     .wrap { flex-direction: column; }
@@ -89,10 +88,6 @@ button#submit {
         width: 90%;
     }
 
-    .text {
-        width: 80%;
-        text-align: center;
-    }
     .downloadIcons {
         width: 91vw;
         height: 14vw;
@@ -284,6 +279,10 @@ header {
 @media(max-width: 767px) {
     .desktop-only {
         display: none;
+    }
+
+    .parent {
+        flex-wrap: wrap;
     }
 
     header {
@@ -797,13 +796,6 @@ section#contact .text-success {
 footer {
     padding-top: 20px;
     text-align: center;
-}
-
-footer .copyright {
-    font-family: "CamberRegular";
-    line-height: 40px;
-    color: #4c4c4c;
-    padding-bottom: 10px;
 }
 
 footer ul.quicklinks {
