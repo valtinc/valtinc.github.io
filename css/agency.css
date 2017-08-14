@@ -15,11 +15,31 @@ body {
 }
 
 /*****/
-#left-col { /*padding-right: 40px; padding-bottom: 15px;*/ }
+.text-left {
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.about-left {
+    width: 600px;
+    margin-right: 30px;
+}
+
+.about-right {
+    width: 600px;
+    margin-left: 30px;
+}
+
+[class*='col-'] {
+    width: initial;
+}
+
+/*.row > div {
+  background: lightgrey;
+  border: 1px solid;
+}*/
 
 .wrap-rev { flex-direction: column-reverse; }
-
-.container { max-width: 820px; min-width: 768px; }
 
 .input-form {
     max-width: 555px;
@@ -51,7 +71,6 @@ body {
 .text {
     max-width: 350px;
     text-align: left;
-    margin: 0 auto;
 }
 
 .downloadIcons {
@@ -64,11 +83,16 @@ body {
 }
 
 @media (max-width: 767px) {
-    .container { min-width: 100%; }
+    .about-right, .about-left { width: 95%; margin: 0 auto;}
+
+    .about-row { min-width: 100%; }
+
     .text {
         text-align: center;
-        width: 95%;
+        width: 90%;
     }
+
+    .text-left,.text-right { margin: 0 auto; }
 
     .parent { flex-wrap: wrap; }
 
