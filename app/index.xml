@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Valt</title>
-    <link>http://valt.io/</link>
-    <description>Recent content on Valt</description>
+    <title>Apps on Valt</title>
+    <link>http://valt.io/app/</link>
+    <description>Recent content in Apps on Valt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 14 Aug 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://valt.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://valt.io/app/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,16 +17,6 @@
       <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://valt.io/app/privacy/</guid>
-      <description>Privacy policy This privacy policy governs your use of the software application Valt Visual Password Manager (&amp;ldquo;Application&amp;rdquo;) for mobile devices that was created by&amp;nbsp;Valt Inc.&amp;nbsp;The Application allows users to leverage their visual memory to keep sensitive information like passwords secure.
-What information does the Application obtain and how is it used? User Provided Information The Application obtains the information you provide when you download and register the Application.&amp;nbsp;Registration with us is optional.</description>
-    </item>
-    
-    <item>
-      <title>Privacy</title>
-      <link>http://valt.io/privacy/</link>
-      <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://valt.io/privacy/</guid>
       <description>Privacy policy This privacy policy governs your use of the software application Valt Visual Password Manager (&amp;ldquo;Application&amp;rdquo;) for mobile devices that was created by&amp;nbsp;Valt Inc.&amp;nbsp;The Application allows users to leverage their visual memory to keep sensitive information like passwords secure.
 What information does the Application obtain and how is it used? User Provided Information The Application obtains the information you provide when you download and register the Application.&amp;nbsp;Registration with us is optional.</description>
     </item>
@@ -41,31 +31,11 @@ What information does the Application obtain and how is it used? User Provided I
     </item>
     
     <item>
-      <title>Terms</title>
-      <link>http://valt.io/terms/</link>
-      <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://valt.io/terms/</guid>
-      <description>Terms of Service Valt Inc. (a Delaware Corporation) (&amp;ldquo;Valt&amp;rdquo;, &amp;ldquo;we&amp;rdquo;, &amp;ldquo;us&amp;rdquo;, or &amp;ldquo;our&amp;rdquo;) operates www.valt.io (the &amp;ldquo;Website&amp;rdquo;) and provides our users (each user, &amp;ldquo;you&amp;rdquo;) with the Valt password manager, (the &amp;ldquo;App&amp;rdquo;), as well as a number of related services enabled via the Website and App (collectively, the &amp;ldquo;Services&amp;rdquo;). The following terms and conditions (the &amp;ldquo;Agreement&amp;rdquo;) form a binding agreement between you and us regarding your use of the Website and Services.</description>
-    </item>
-    
-    <item>
       <title>FAQ</title>
       <link>http://valt.io/app/faq/</link>
       <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://valt.io/app/faq/</guid>
-      <description>Frequently Asked Questions
- What is Valt Visual Password Manager? Valt Visual Password Manager is an iPhone app that provides a new approach to password management. It leverages your visual memory to keep your sensitive passwords secure. The images you learn via specific prompts on each image translate into a master password, which is used to unlock your Valt where all of your passwords are stored.
-How do I use it?</description>
-    </item>
-    
-    <item>
-      <title>FAQ</title>
-      <link>http://valt.io/faq/</link>
-      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://valt.io/faq/</guid>
       <description>Frequently Asked Questions
  What is Valt Visual Password Manager? Valt Visual Password Manager is an iPhone app that provides a new approach to password management. It leverages your visual memory to keep your sensitive passwords secure. The images you learn via specific prompts on each image translate into a master password, which is used to unlock your Valt where all of your passwords are stored.
 How do I use it?</description>

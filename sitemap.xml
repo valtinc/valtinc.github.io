@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://valt.io/app/privacy/</loc>
+    <lastmod>2017-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://valt.io/privacy/</loc>
+    <lastmod>2017-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://valt.io/app/terms/</loc>
     <lastmod>2017-08-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -13,8 +23,19 @@
   </url>
   
   <url>
+    <loc>http://valt.io/app/faq/</loc>
+    <lastmod>2017-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://valt.io/faq/</loc>
     <lastmod>2017-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://valt.io/app/</loc>
+    <lastmod>2017-08-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
