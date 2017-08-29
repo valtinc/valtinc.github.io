@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Valt</title>
+    <title>Valt - Passwords for People</title>
     <link>http://valt.io/</link>
-    <description>Recent content on Valt</description>
+    <description>Recent content on Valt - Passwords for People</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 14 Aug 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://valt.io/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="http://valt.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Privacy</title>
@@ -17,8 +15,78 @@
       <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://valt.io/app/privacy/</guid>
-      <description>Privacy policy This privacy policy governs your use of the software application Valt Visual Password Manager (&amp;ldquo;Application&amp;rdquo;) for mobile devices that was created by&amp;nbsp;Valt Inc.&amp;nbsp;The Application allows users to leverage their visual memory to keep sensitive information like passwords secure.
-What information does the Application obtain and how is it used? User Provided Information The Application obtains the information you provide when you download and register the Application.&amp;nbsp;Registration with us is optional.</description>
+      <description>
+
+&lt;h2 id=&#34;privacy-policy:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;Privacy policy&lt;/h2&gt;
+
+&lt;p&gt;This privacy policy governs your use of the software application Valt Visual Password Manager (&amp;ldquo;Application&amp;rdquo;) for mobile devices that was created by&amp;nbsp;Valt Inc.&amp;nbsp;The Application allows users to leverage their visual memory to keep  sensitive information like passwords secure.&lt;/p&gt;
+
+&lt;h3 id=&#34;what-information-does-the-application-obtain-and-how-is-it-used:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;What information does the Application obtain and how is it used?&lt;/h3&gt;
+
+&lt;h4 id=&#34;user-provided-information:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;User Provided Information&lt;/h4&gt;
+
+&lt;p&gt;The Application obtains the information you provide when you download and register the Application.&amp;nbsp;Registration with us is optional. However, please keep in mind that you may not be able to use some of the features offered by the Application unless you register with us.&lt;/p&gt;
+
+&lt;p&gt;When you register with us and use the Application, you generally provide&amp;nbsp;(a) your name, email address, age, user name, password and other registration information; (b) transaction-related information, such as when you make purchases, respond to any offers, or download or use applications from us; &amp;copy; information you provide us when you contact us for help; (d) credit card information for purchase and use of the Application, and; (e) information you enter into our system when using the Application, such as contact information and project management information.&lt;/p&gt;
+
+&lt;p&gt;We may also use the information you provided us to contact your from time to time to provide you with important information, required notices and marketing promotions.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;automatically-collected-information:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;Automatically Collected Information&lt;/h4&gt;
+
+&lt;p&gt;In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;does-the-application-collect-precise-real-time-location-information-of-the-device:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;Does the Application collect precise real time location information of the device?&lt;/h3&gt;
+
+&lt;p&gt;This Application does not collect precise information about the location of your mobile device.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;do-third-parties-see-and-or-have-access-to-information-obtained-by-the-application:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;Do third parties see and/or have access to information obtained by the Application?&lt;/h3&gt;
+
+&lt;p&gt;Only aggregated, anonymized data is periodically transmitted to external services to help us improve the Application and our service.&amp;nbsp;We will share your information with third parties only in the ways that are described in this privacy statement.&lt;/p&gt;
+
+&lt;p&gt;We may disclose User Provided and Automatically Collected Information:
+&lt;ul&gt;
+  &lt;li&gt;
+    as required by law, such as to comply with a subpoena, or similar legal process;
+  &lt;/li&gt;
+  &lt;li&gt;
+    when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a&amp;nbsp;government request;
+  &lt;/li&gt;
+  &lt;li&gt;
+    with our trusted services providers who work on our behalf, do not have an&amp;nbsp;independent use of the information we disclose to them, and have agreed to adhere&amp;nbsp;to the rules set forth in this privacy statement.
+  &lt;/li&gt;
+  &lt;li&gt;
+    if&amp;nbsp;Valt Inc.&amp;nbsp;is involved in a merger, acquisition, or sale of all or a&amp;nbsp;portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
+  &lt;/li&gt;
+&lt;/ul&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;what-are-my-opt-out-rights:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;What are my opt-out rights?&lt;/h4&gt;
+
+&lt;p&gt;You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;data-retention-policy-managing-your-information:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;Data Retention Policy, Managing Your Information&lt;/h4&gt;
+
+&lt;p&gt;We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 30 days&amp;nbsp;and thereafter may store it in aggregate. If you’d like us to delete User Provided Data that you have provided via the Application, please contact us at&amp;nbsp;&lt;a href=&#34;mailto:support@valt.io&#34;&gt;support@valt.io&lt;/a&gt; and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;children:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;Children&lt;/h4&gt;
+
+&lt;p&gt;We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at&amp;nbsp;&lt;a href=&#34;mailto:support@valt.io&#34;&gt;support@valt.io&lt;/a&gt;. We will delete such information from our files within a reasonable time.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;security:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;Security&lt;/h4&gt;
+
+&lt;p&gt;We are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our Application. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;changes:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;Changes&lt;/h4&gt;
+
+&lt;p&gt;This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy on this Web site. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;your-consent:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;Your Consent&lt;/h4&gt;
+
+&lt;p&gt;By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. &amp;quot;Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the United States&amp;nbsp;your information will be transferred, processed and stored there under United States&amp;nbsp;privacy standards.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;contact-us:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;Contact us&lt;/h4&gt;
+
+&lt;p&gt;If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at&amp;nbsp;&lt;a href=&#34;mailto:support@valt.io&#34;&gt;support@valt.io&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -27,8 +95,78 @@ What information does the Application obtain and how is it used? User Provided I
       <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://valt.io/privacy/</guid>
-      <description>Privacy policy This privacy policy governs your use of the software application Valt Visual Password Manager (&amp;ldquo;Application&amp;rdquo;) for mobile devices that was created by&amp;nbsp;Valt Inc.&amp;nbsp;The Application allows users to leverage their visual memory to keep sensitive information like passwords secure.
-What information does the Application obtain and how is it used? User Provided Information The Application obtains the information you provide when you download and register the Application.&amp;nbsp;Registration with us is optional.</description>
+      <description>
+
+&lt;h2 id=&#34;privacy-policy:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;Privacy policy&lt;/h2&gt;
+
+&lt;p&gt;This privacy policy governs your use of the software application Valt Visual Password Manager (&amp;ldquo;Application&amp;rdquo;) for mobile devices that was created by&amp;nbsp;Valt Inc.&amp;nbsp;The Application allows users to leverage their visual memory to keep  sensitive information like passwords secure.&lt;/p&gt;
+
+&lt;h3 id=&#34;what-information-does-the-application-obtain-and-how-is-it-used:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;What information does the Application obtain and how is it used?&lt;/h3&gt;
+
+&lt;h4 id=&#34;user-provided-information:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;User Provided Information&lt;/h4&gt;
+
+&lt;p&gt;The Application obtains the information you provide when you download and register the Application.&amp;nbsp;Registration with us is optional. However, please keep in mind that you may not be able to use some of the features offered by the Application unless you register with us.&lt;/p&gt;
+
+&lt;p&gt;When you register with us and use the Application, you generally provide&amp;nbsp;(a) your name, email address, age, user name, password and other registration information; (b) transaction-related information, such as when you make purchases, respond to any offers, or download or use applications from us; &amp;copy; information you provide us when you contact us for help; (d) credit card information for purchase and use of the Application, and; (e) information you enter into our system when using the Application, such as contact information and project management information.&lt;/p&gt;
+
+&lt;p&gt;We may also use the information you provided us to contact your from time to time to provide you with important information, required notices and marketing promotions.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;automatically-collected-information:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;Automatically Collected Information&lt;/h4&gt;
+
+&lt;p&gt;In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;does-the-application-collect-precise-real-time-location-information-of-the-device:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;Does the Application collect precise real time location information of the device?&lt;/h3&gt;
+
+&lt;p&gt;This Application does not collect precise information about the location of your mobile device.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;do-third-parties-see-and-or-have-access-to-information-obtained-by-the-application:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;Do third parties see and/or have access to information obtained by the Application?&lt;/h3&gt;
+
+&lt;p&gt;Only aggregated, anonymized data is periodically transmitted to external services to help us improve the Application and our service.&amp;nbsp;We will share your information with third parties only in the ways that are described in this privacy statement.&lt;/p&gt;
+
+&lt;p&gt;We may disclose User Provided and Automatically Collected Information:
+&lt;ul&gt;
+  &lt;li&gt;
+    as required by law, such as to comply with a subpoena, or similar legal process;
+  &lt;/li&gt;
+  &lt;li&gt;
+    when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a&amp;nbsp;government request;
+  &lt;/li&gt;
+  &lt;li&gt;
+    with our trusted services providers who work on our behalf, do not have an&amp;nbsp;independent use of the information we disclose to them, and have agreed to adhere&amp;nbsp;to the rules set forth in this privacy statement.
+  &lt;/li&gt;
+  &lt;li&gt;
+    if&amp;nbsp;Valt Inc.&amp;nbsp;is involved in a merger, acquisition, or sale of all or a&amp;nbsp;portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
+  &lt;/li&gt;
+&lt;/ul&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;what-are-my-opt-out-rights:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;What are my opt-out rights?&lt;/h4&gt;
+
+&lt;p&gt;You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;data-retention-policy-managing-your-information:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;Data Retention Policy, Managing Your Information&lt;/h4&gt;
+
+&lt;p&gt;We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 30 days&amp;nbsp;and thereafter may store it in aggregate. If you’d like us to delete User Provided Data that you have provided via the Application, please contact us at&amp;nbsp;&lt;a href=&#34;mailto:support@valt.io&#34;&gt;support@valt.io&lt;/a&gt; and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;children:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;Children&lt;/h4&gt;
+
+&lt;p&gt;We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at&amp;nbsp;&lt;a href=&#34;mailto:support@valt.io&#34;&gt;support@valt.io&lt;/a&gt;. We will delete such information from our files within a reasonable time.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;security:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;Security&lt;/h4&gt;
+
+&lt;p&gt;We are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our Application. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;changes:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;Changes&lt;/h4&gt;
+
+&lt;p&gt;This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy on this Web site. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;your-consent:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;Your Consent&lt;/h4&gt;
+
+&lt;p&gt;By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. &amp;quot;Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the United States&amp;nbsp;your information will be transferred, processed and stored there under United States&amp;nbsp;privacy standards.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;contact-us:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;Contact us&lt;/h4&gt;
+
+&lt;p&gt;If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at&amp;nbsp;&lt;a href=&#34;mailto:support@valt.io&#34;&gt;support@valt.io&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -37,7 +175,152 @@ What information does the Application obtain and how is it used? User Provided I
       <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://valt.io/app/terms/</guid>
-      <description>Terms of Service Valt Inc. (a Delaware Corporation) (&amp;ldquo;Valt&amp;rdquo;, &amp;ldquo;we&amp;rdquo;, &amp;ldquo;us&amp;rdquo;, or &amp;ldquo;our&amp;rdquo;) operates www.valt.io (the &amp;ldquo;Website&amp;rdquo;) and provides our users (each user, &amp;ldquo;you&amp;rdquo;) with the Valt password manager, (the &amp;ldquo;App&amp;rdquo;), as well as a number of related services enabled via the Website and App (collectively, the &amp;ldquo;Services&amp;rdquo;). The following terms and conditions (the &amp;ldquo;Agreement&amp;rdquo;) form a binding agreement between you and us regarding your use of the Website and Services.</description>
+      <description>
+
+&lt;h2 id=&#34;terms-of-service:9b10c1f64082d3869fd4cb1f85809430&#34;&gt;Terms of Service&lt;/h2&gt;
+
+&lt;p&gt;Valt Inc. (a Delaware Corporation) (&amp;ldquo;Valt&amp;rdquo;, &amp;ldquo;we&amp;rdquo;, &amp;ldquo;us&amp;rdquo;, or &amp;ldquo;our&amp;rdquo;) operates &lt;a href=&#34;http://valt.io&#34;&gt;www.valt.io&lt;/a&gt; (the &amp;ldquo;Website&amp;rdquo;) and provides our users (each user, &amp;ldquo;you&amp;rdquo;) with the Valt password manager, (the &amp;ldquo;App&amp;rdquo;), as well as a number of related services enabled via the Website and App (collectively, the &amp;ldquo;Services&amp;rdquo;). The following terms and conditions (the &amp;ldquo;Agreement&amp;rdquo;) form a binding agreement between you and us regarding your use of the Website and Services.&lt;/p&gt;
+
+&lt;p&gt;Please read this Agreement carefully before accessing or using our Services. By accessing or using any part of our services, you agree to become bound by the terms and conditions of this agreement. If you do not agree to all the terms and conditions of this agreement, then you may not access or use any of our services. If these terms and conditions are considered an offer by Valt, acceptance is expressly limited to these terms.&lt;/p&gt;
+
+&lt;p&gt;Our Services are not directed to children younger than 13, and access and use of our Services is only offered to users 13 years of age or older. If you are under 13 years old, please do not register to use our Services. Any person who registers as a user or provides their personal information to our Services represents that they are 13 years of age or older.&lt;/p&gt;
+
+&lt;p&gt;Use of our Services may require a Valt.io account. You agree to provide us with complete and accurate information when you register for an account. You will be solely responsible and liable for any activity that occurs under your username. You are responsible for keeping your password secure.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;1-valt-io:9b10c1f64082d3869fd4cb1f85809430&#34;&gt;1. Valt.io.&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    Your Valt.io Account and Website. To use our Services, you must download the App (unless the App has been pre-installed on your computer or mobile device), register online or through the App and set up an account (an &#34;Account&#34;) with us. Your Account will be linked to your App which is accessed separately by following the instructions in the App, and remembering your collection of images (the &#34;Images&#34;). Your Account may be for a free version, a &#34;freemium version&#34; (e.g., temporary access to premium features for free) or for a premium version. Each version may have different features enabled and you will only be enabled to use the features applicable to the version you have registered for. You agree to be responsible for any act or omission of any users that access the Site or Services under Your Account.
+  &lt;/li&gt;
+  &lt;li&gt;
+    Payment and Renewal.
+  &lt;/li&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      General Terms. Optional paid services such as device sync are available (any such services, an &#34;Upgrade&#34;). By selecting an Upgrade you agree to pay Valt the monthly or annual subscription fees indicated for that service. Payments will be charged on a pre-pay basis on the day you sign up for an Upgrade and will cover the use of that service for a monthly or annual subscription period as indicated.
+    &lt;/li&gt;
+    &lt;li&gt;
+      Automatic Renewal. Unless you notify Valt before the end of the applicable subscription period that you want to cancel an Upgrade, your Upgrade subscription will automatically renew and you authorize us to collect the then-applicable annual or monthly subscription fee for such Upgrade (as well as any taxes) using any credit card or other payment mechanism we have on record for you. 
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;2-valt-the-app:9b10c1f64082d3869fd4cb1f85809430&#34;&gt;2. Valt, the App.&lt;/h4&gt;
+
+&lt;p&gt;&lt;ul&gt;
+  &lt;li&gt;
+    Description. The App is a password manager that allows you to keep track of your passwords in a single location. Your passwords are automatically hidden upon exiting the App. Selecting your Images in the App reveals the passwords you stored. You may create passwords using the App (the &amp;ldquo;Password Generator&amp;rdquo;) that generate complex passwords that are less likely to be hacked than simple passwords people commonly use. However, we make no guarantees regarding the security of any password the Password Generator creates. Valt is not liable for your inability to use any site (or third party mobile app) resulting from your use of the App.
+  &lt;/li&gt;
+  &lt;li&gt;
+    Ownership. By using the App, you agree that Valt and its licensors own all rights, title and interest included in the Services, including all content, data, information, text, software, sound, photographs, graphics, video, messages, tags and/or other materials accessible through the App, excluding the images that are all in the public domain. You will not remove, alter, or obscure any copyright, trademark, service mark or other proprietary rights notices incorporated in or accompanying the App.
+  &lt;/li&gt;
+  &lt;li&gt;
+    Your Account. Notwithstanding anything to the contrary herein, you acknowledge and agree that you shall have no ownership or other property interest in your Account, and you further acknowledge and agree that all rights in and to your Account are and shall forever be owned by and inure to the benefit of Valt.
+  &lt;/li&gt;
+  &lt;li&gt;
+    Access. If you lose access to your Valt.io account or forget your Images, you may not be able to access your passwords. We are not responsible for any information lost in the App.
+  &lt;/li&gt;
+  &lt;li&gt;
+    Prohibited Uses. When using our Services, you agree not to:
+  &lt;/li&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      Publish material or engage in activity that is illegal under applicable law.
+    &lt;/li&gt;
+    &lt;li&gt;
+      Use the App in any way to compromise our Services, as determined by us in our sole discretion.
+    &lt;/li&gt;
+    &lt;li&gt;
+      Disclose the sensitive personal information of others.
+    &lt;/li&gt;
+    &lt;li&gt;
+      Send spam or bulk unsolicited messages.
+    &lt;/li&gt;
+    &lt;li&gt;
+      Interfere with, disrupt, or attack any service or network.
+    &lt;/li&gt;
+    &lt;li&gt;
+      Distribute material that is or enables malware, spyware, adware, or other malicious code.
+    &lt;/li&gt;
+    &lt;li&gt;
+      License, sell, rent, lease, reproduce, resell, transfer, assign, distribute host or otherwise commercially exploit any content found in our Services
+    &lt;/li&gt;
+    &lt;li&gt;
+      Conduct or promote any illegal activities while using our Services
+    &lt;/li&gt;
+    &lt;li&gt;
+      Reverse engineer, disassemble, decompile, or translate or jeopardize the correct functioning of our Services, or otherwise attempt to derive the source code of the software (including the tools, methods, processes, and infrastructure) that enables or underlies our Services
+    &lt;/li&gt;
+    &lt;li&gt;
+      Attempt to gain access to secured portions of our Services to which you do not possess access rights
+    &lt;/li&gt;
+    &lt;li&gt;
+      Use any automatic, electronic or manual process to harvest information from our Services (including without limitation robots, spiders or scripts)
+    &lt;/li&gt;
+    &lt;li&gt;
+      Impersonate any person or entity, or otherwise misrepresent your affiliation with a person or entity; or
+    &lt;/li&gt;
+    &lt;li&gt;
+      Mirror or frame the Website or any content, place pop-up windows over its pages, or otherwise affect the display of its pages.
+    &lt;/li&gt;
+    &lt;li&gt;
+      Substantially replicate products or services offered by Valt, including the republication of Valt.io content or the creation of a separate platform. You may not display, distribute, or otherwise make available content or data to governmental entities for intelligence gathering or surveillance purposes. If Valt believes, in its sole discretion, that you have violated or attempted to violate these conditions or the spirit of these terms, your ability to use and access our Services may be temporarily or permanently revoked, with or without notice.
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/ul&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;3-responsibility-of-users:9b10c1f64082d3869fd4cb1f85809430&#34;&gt;3. Responsibility of Users.&lt;/h4&gt;
+
+&lt;p&gt;Valt has not reviewed, and cannot review, all of the material, including computer software, posted to our Services, and cannot therefore be responsible for that material&amp;rsquo;s content, use or effects. By operating our Services, Valt does not represent or imply that it endorses the material there posted, or that it believes such material to be accurate, useful, or non-harmful. You are responsible for taking precautions as necessary to protect yourself and your computer systems from viruses, worms, Trojan horses, and other harmful or destructive content. Our Services may contain content that is offensive, indecent, or otherwise objectionable, as well as content containing technical inaccuracies, typographical mistakes, and other errors. Our Services may also contain material that violates the privacy or publicity rights, or infringes the intellectual property and other proprietary rights, of third parties, or the downloading, copying or use of which is subject to additional terms and conditions, stated or unstated. Valt disclaims any responsibility for any harm resulting from the use by visitors of our Services, or from any downloading by those visitors of content there posted.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;4-copyright-infringement-and-dmca-policy:9b10c1f64082d3869fd4cb1f85809430&#34;&gt;4. Copyright Infringement and DMCA Policy.&lt;/h4&gt;
+
+&lt;p&gt;As Valt asks others to respect its intellectual property rights, it respects the intellectual property rights of others. If you believe that material located on or linked to by Valt.io violates your copyright, you are encouraged to notify Valt. Valt will respond to all such notices, including as required or appropriate by removing the infringing material or disabling all links to the infringing material. Valt will terminate a visitor&amp;rsquo;s access to and use of the Website if, under appropriate circumstances, the visitor is determined to be a repeat infringer of the copyrights or other intellectual property rights of Valt or others. In the case of such termination, Valt will have no obligation to provide a refund of any amounts previously paid to Valt.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;5-intellectual-property:9b10c1f64082d3869fd4cb1f85809430&#34;&gt;5. Intellectual Property.&lt;/h4&gt;
+
+&lt;p&gt;This Agreement does not transfer from Valt to you any Valt or third party intellectual property, and all right, title, and interest in and to such property will remain (as between the parties) solely with Valt. Valt, Valt.io, the Valt logo, and all other trademarks, service marks, graphics and logos used in connection with our Services, are trademarks or registered trademarks of Valt or Valt&amp;rsquo;s licensors. Other trademarks, service marks, graphics and logos used in connection with our Services may be the trademarks of other third parties. Your use of our Services grants you no right or license to reproduce or otherwise use any Valt or third-party trademarks.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;6-changes:9b10c1f64082d3869fd4cb1f85809430&#34;&gt;6. Changes.&lt;/h4&gt;
+
+&lt;p&gt;We are constantly updating our Services, and that means sometimes we have to change the legal terms under which our Services are offered. If we make changes that are material, we will let you know by posting on one of our blogs, or by sending you an email or other communication before the changes take effect. The notice will designate a reasonable period of time after which the new terms will take effect. If you disagree with our changes, then you should stop using our Services within the designated notice period. Your continued use of our Services will be subject to the new terms. However, any dispute that arose before the changes shall be governed by the Terms (including the binding individual arbitration clause) that were in place when the dispute arose.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;7-termination:9b10c1f64082d3869fd4cb1f85809430&#34;&gt;7. Termination.&lt;/h4&gt;
+
+&lt;p&gt;Valt may terminate your access to all or any part of our Services at any time, with or without cause, with or without notice, effective immediately. If you wish to terminate this Agreement or your Valt.io account (if you have one), you may simply discontinue using our Services. All provisions of this Agreement which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;8-disclaimer-of-warranties:9b10c1f64082d3869fd4cb1f85809430&#34;&gt;8. Disclaimer of Warranties.&lt;/h4&gt;
+
+&lt;p&gt;Our Services are provided &amp;ldquo;as is.&amp;rdquo; Valt and its suppliers and licensors hereby disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. Neither Valt nor its suppliers and licensors, makes any warranty that our Services will be error free or that access thereto will be continuous or uninterrupted. You understand that you download from, or otherwise
+obtain content or services through, our Services at your own discretion and risk.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;9-limitation-of-liability:9b10c1f64082d3869fd4cb1f85809430&#34;&gt;9. Limitation of Liability.&lt;/h4&gt;
+
+&lt;p&gt;In no event will Valt, or its suppliers or licensors, be liable with respect to any subject matter of this Agreement under any contract, negligence, strict liability or other legal or equitable theory for: (i) any special, incidental or consequential damages; (ii) the cost of procurement for substitute products or services; (iii) for interruption of use or loss or corruption of data; or (iv) for any amounts that exceed the fees paid by you to Valt under this agreement during the twelve (12) month period prior to the cause of action. Valt shall have no liability for any failure or delay due to matters beyond their reasonable control. The foregoing shall not apply to the extent prohibited by applicable law.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;10-general-representation-and-warranty:9b10c1f64082d3869fd4cb1f85809430&#34;&gt;10. General Representation and Warranty.&lt;/h4&gt;
+
+&lt;p&gt;You represent and warrant that (i) your use of our Services will be in strict accordance with the Valt Privacy Policy, with this Agreement, and with all applicable laws and regulations (including without limitation any local laws or regulations in your country, state, city, or other governmental area, regarding online conduct and acceptable content, and including all applicable laws regarding the transmission of technical data exported from the United States or the country in which you reside) and (ii) your use of our Services will not infringe or misappropriate the intellectual property rights of any third party.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;11-us-economic-sanctions:9b10c1f64082d3869fd4cb1f85809430&#34;&gt;11. US Economic Sanctions.&lt;/h4&gt;
+
+&lt;p&gt;You expressly represent and warrant that your use of our Services and or associated services and products is not contrary to applicable U.S. Sanctions. Such use is prohibited, and Valt reserve the right to terminate accounts or access of those in the event of a breach of this condition.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;12-indemnification:9b10c1f64082d3869fd4cb1f85809430&#34;&gt;12. Indemnification.&lt;/h4&gt;
+
+&lt;p&gt;You agree to indemnify and hold harmless Valt, its contractors, and its licensors, and their respective directors, officers, employees, and agents from and against any and all claims and expenses, including attorneys&amp;rsquo; fees, arising out of your use of our Services, including but not limited to your violation of this Agreement.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;13-translation:9b10c1f64082d3869fd4cb1f85809430&#34;&gt;13. Translation.&lt;/h4&gt;
+
+&lt;p&gt;These Terms of Service were originally written in English (US). We may translate these terms into other languages. In the event of a conflict between a translated version of these Terms of Service and the English version, the English version will control.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;14-miscellaneous:9b10c1f64082d3869fd4cb1f85809430&#34;&gt;14. Miscellaneous.&lt;/h4&gt;
+
+&lt;p&gt;This Agreement constitutes the entire agreement between Valt and you concerning the subject matter hereof, and they may only be modified by a written amendment signed by an authorized executive of Valt, or by the posting by Valt of a revised version. Except to the extent applicable law, if any, provides otherwise, this Agreement, any access to or use of our Services will be governed by the laws of the state of Delaware, U.S.A., excluding its conflict of law provisions, and the proper venue for any disputes arising out of or relating to any of the same will be the state and federal courts located in Delaware. The prevailing party in any action or proceeding to enforce this Agreement shall be entitled to costs and attorneys&amp;rsquo; fees. If any part of this Agreement is held invalid or unenforceable, that part will be construed to reflect the parties&amp;rsquo; original intent, and the remaining portions will remain in full force and effect. A waiver by either party of any term or condition of this Agreement or any breach thereof, in any one instance, will not waive such term or condition or any subsequent breach thereof. You may assign your rights under this Agreement to any party that consents to, and agrees to be bound by, its terms and conditions; Valt may assign its rights under this Agreement without condition. This Agreement will be binding upon and will inure to the benefit of the parties, their successors and permitted assigns.&lt;/p&gt;
+
+&lt;p&gt;These Terms of Service have been written modelling WordPress&amp;rsquo;s Terms of Service licensed under Creative Commons Share-Alike.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -46,7 +329,152 @@ What information does the Application obtain and how is it used? User Provided I
       <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://valt.io/terms/</guid>
-      <description>Terms of Service Valt Inc. (a Delaware Corporation) (&amp;ldquo;Valt&amp;rdquo;, &amp;ldquo;we&amp;rdquo;, &amp;ldquo;us&amp;rdquo;, or &amp;ldquo;our&amp;rdquo;) operates www.valt.io (the &amp;ldquo;Website&amp;rdquo;) and provides our users (each user, &amp;ldquo;you&amp;rdquo;) with the Valt password manager, (the &amp;ldquo;App&amp;rdquo;), as well as a number of related services enabled via the Website and App (collectively, the &amp;ldquo;Services&amp;rdquo;). The following terms and conditions (the &amp;ldquo;Agreement&amp;rdquo;) form a binding agreement between you and us regarding your use of the Website and Services.</description>
+      <description>
+
+&lt;h2 id=&#34;terms-of-service:9b10c1f64082d3869fd4cb1f85809430&#34;&gt;Terms of Service&lt;/h2&gt;
+
+&lt;p&gt;Valt Inc. (a Delaware Corporation) (&amp;ldquo;Valt&amp;rdquo;, &amp;ldquo;we&amp;rdquo;, &amp;ldquo;us&amp;rdquo;, or &amp;ldquo;our&amp;rdquo;) operates &lt;a href=&#34;http://valt.io&#34;&gt;www.valt.io&lt;/a&gt; (the &amp;ldquo;Website&amp;rdquo;) and provides our users (each user, &amp;ldquo;you&amp;rdquo;) with the Valt password manager, (the &amp;ldquo;App&amp;rdquo;), as well as a number of related services enabled via the Website and App (collectively, the &amp;ldquo;Services&amp;rdquo;). The following terms and conditions (the &amp;ldquo;Agreement&amp;rdquo;) form a binding agreement between you and us regarding your use of the Website and Services.&lt;/p&gt;
+
+&lt;p&gt;Please read this Agreement carefully before accessing or using our Services. By accessing or using any part of our services, you agree to become bound by the terms and conditions of this agreement. If you do not agree to all the terms and conditions of this agreement, then you may not access or use any of our services. If these terms and conditions are considered an offer by Valt, acceptance is expressly limited to these terms.&lt;/p&gt;
+
+&lt;p&gt;Our Services are not directed to children younger than 13, and access and use of our Services is only offered to users 13 years of age or older. If you are under 13 years old, please do not register to use our Services. Any person who registers as a user or provides their personal information to our Services represents that they are 13 years of age or older.&lt;/p&gt;
+
+&lt;p&gt;Use of our Services may require a Valt.io account. You agree to provide us with complete and accurate information when you register for an account. You will be solely responsible and liable for any activity that occurs under your username. You are responsible for keeping your password secure.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;1-valt-io:9b10c1f64082d3869fd4cb1f85809430&#34;&gt;1. Valt.io.&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    Your Valt.io Account and Website. To use our Services, you must download the App (unless the App has been pre-installed on your computer or mobile device), register online or through the App and set up an account (an &#34;Account&#34;) with us. Your Account will be linked to your App which is accessed separately by following the instructions in the App, and remembering your collection of images (the &#34;Images&#34;). Your Account may be for a free version, a &#34;freemium version&#34; (e.g., temporary access to premium features for free) or for a premium version. Each version may have different features enabled and you will only be enabled to use the features applicable to the version you have registered for. You agree to be responsible for any act or omission of any users that access the Site or Services under Your Account.
+  &lt;/li&gt;
+  &lt;li&gt;
+    Payment and Renewal.
+  &lt;/li&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      General Terms. Optional paid services such as device sync are available (any such services, an &#34;Upgrade&#34;). By selecting an Upgrade you agree to pay Valt the monthly or annual subscription fees indicated for that service. Payments will be charged on a pre-pay basis on the day you sign up for an Upgrade and will cover the use of that service for a monthly or annual subscription period as indicated.
+    &lt;/li&gt;
+    &lt;li&gt;
+      Automatic Renewal. Unless you notify Valt before the end of the applicable subscription period that you want to cancel an Upgrade, your Upgrade subscription will automatically renew and you authorize us to collect the then-applicable annual or monthly subscription fee for such Upgrade (as well as any taxes) using any credit card or other payment mechanism we have on record for you. 
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;2-valt-the-app:9b10c1f64082d3869fd4cb1f85809430&#34;&gt;2. Valt, the App.&lt;/h4&gt;
+
+&lt;p&gt;&lt;ul&gt;
+  &lt;li&gt;
+    Description. The App is a password manager that allows you to keep track of your passwords in a single location. Your passwords are automatically hidden upon exiting the App. Selecting your Images in the App reveals the passwords you stored. You may create passwords using the App (the &amp;ldquo;Password Generator&amp;rdquo;) that generate complex passwords that are less likely to be hacked than simple passwords people commonly use. However, we make no guarantees regarding the security of any password the Password Generator creates. Valt is not liable for your inability to use any site (or third party mobile app) resulting from your use of the App.
+  &lt;/li&gt;
+  &lt;li&gt;
+    Ownership. By using the App, you agree that Valt and its licensors own all rights, title and interest included in the Services, including all content, data, information, text, software, sound, photographs, graphics, video, messages, tags and/or other materials accessible through the App, excluding the images that are all in the public domain. You will not remove, alter, or obscure any copyright, trademark, service mark or other proprietary rights notices incorporated in or accompanying the App.
+  &lt;/li&gt;
+  &lt;li&gt;
+    Your Account. Notwithstanding anything to the contrary herein, you acknowledge and agree that you shall have no ownership or other property interest in your Account, and you further acknowledge and agree that all rights in and to your Account are and shall forever be owned by and inure to the benefit of Valt.
+  &lt;/li&gt;
+  &lt;li&gt;
+    Access. If you lose access to your Valt.io account or forget your Images, you may not be able to access your passwords. We are not responsible for any information lost in the App.
+  &lt;/li&gt;
+  &lt;li&gt;
+    Prohibited Uses. When using our Services, you agree not to:
+  &lt;/li&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      Publish material or engage in activity that is illegal under applicable law.
+    &lt;/li&gt;
+    &lt;li&gt;
+      Use the App in any way to compromise our Services, as determined by us in our sole discretion.
+    &lt;/li&gt;
+    &lt;li&gt;
+      Disclose the sensitive personal information of others.
+    &lt;/li&gt;
+    &lt;li&gt;
+      Send spam or bulk unsolicited messages.
+    &lt;/li&gt;
+    &lt;li&gt;
+      Interfere with, disrupt, or attack any service or network.
+    &lt;/li&gt;
+    &lt;li&gt;
+      Distribute material that is or enables malware, spyware, adware, or other malicious code.
+    &lt;/li&gt;
+    &lt;li&gt;
+      License, sell, rent, lease, reproduce, resell, transfer, assign, distribute host or otherwise commercially exploit any content found in our Services
+    &lt;/li&gt;
+    &lt;li&gt;
+      Conduct or promote any illegal activities while using our Services
+    &lt;/li&gt;
+    &lt;li&gt;
+      Reverse engineer, disassemble, decompile, or translate or jeopardize the correct functioning of our Services, or otherwise attempt to derive the source code of the software (including the tools, methods, processes, and infrastructure) that enables or underlies our Services
+    &lt;/li&gt;
+    &lt;li&gt;
+      Attempt to gain access to secured portions of our Services to which you do not possess access rights
+    &lt;/li&gt;
+    &lt;li&gt;
+      Use any automatic, electronic or manual process to harvest information from our Services (including without limitation robots, spiders or scripts)
+    &lt;/li&gt;
+    &lt;li&gt;
+      Impersonate any person or entity, or otherwise misrepresent your affiliation with a person or entity; or
+    &lt;/li&gt;
+    &lt;li&gt;
+      Mirror or frame the Website or any content, place pop-up windows over its pages, or otherwise affect the display of its pages.
+    &lt;/li&gt;
+    &lt;li&gt;
+      Substantially replicate products or services offered by Valt, including the republication of Valt.io content or the creation of a separate platform. You may not display, distribute, or otherwise make available content or data to governmental entities for intelligence gathering or surveillance purposes. If Valt believes, in its sole discretion, that you have violated or attempted to violate these conditions or the spirit of these terms, your ability to use and access our Services may be temporarily or permanently revoked, with or without notice.
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/ul&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;3-responsibility-of-users:9b10c1f64082d3869fd4cb1f85809430&#34;&gt;3. Responsibility of Users.&lt;/h4&gt;
+
+&lt;p&gt;Valt has not reviewed, and cannot review, all of the material, including computer software, posted to our Services, and cannot therefore be responsible for that material&amp;rsquo;s content, use or effects. By operating our Services, Valt does not represent or imply that it endorses the material there posted, or that it believes such material to be accurate, useful, or non-harmful. You are responsible for taking precautions as necessary to protect yourself and your computer systems from viruses, worms, Trojan horses, and other harmful or destructive content. Our Services may contain content that is offensive, indecent, or otherwise objectionable, as well as content containing technical inaccuracies, typographical mistakes, and other errors. Our Services may also contain material that violates the privacy or publicity rights, or infringes the intellectual property and other proprietary rights, of third parties, or the downloading, copying or use of which is subject to additional terms and conditions, stated or unstated. Valt disclaims any responsibility for any harm resulting from the use by visitors of our Services, or from any downloading by those visitors of content there posted.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;4-copyright-infringement-and-dmca-policy:9b10c1f64082d3869fd4cb1f85809430&#34;&gt;4. Copyright Infringement and DMCA Policy.&lt;/h4&gt;
+
+&lt;p&gt;As Valt asks others to respect its intellectual property rights, it respects the intellectual property rights of others. If you believe that material located on or linked to by Valt.io violates your copyright, you are encouraged to notify Valt. Valt will respond to all such notices, including as required or appropriate by removing the infringing material or disabling all links to the infringing material. Valt will terminate a visitor&amp;rsquo;s access to and use of the Website if, under appropriate circumstances, the visitor is determined to be a repeat infringer of the copyrights or other intellectual property rights of Valt or others. In the case of such termination, Valt will have no obligation to provide a refund of any amounts previously paid to Valt.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;5-intellectual-property:9b10c1f64082d3869fd4cb1f85809430&#34;&gt;5. Intellectual Property.&lt;/h4&gt;
+
+&lt;p&gt;This Agreement does not transfer from Valt to you any Valt or third party intellectual property, and all right, title, and interest in and to such property will remain (as between the parties) solely with Valt. Valt, Valt.io, the Valt logo, and all other trademarks, service marks, graphics and logos used in connection with our Services, are trademarks or registered trademarks of Valt or Valt&amp;rsquo;s licensors. Other trademarks, service marks, graphics and logos used in connection with our Services may be the trademarks of other third parties. Your use of our Services grants you no right or license to reproduce or otherwise use any Valt or third-party trademarks.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;6-changes:9b10c1f64082d3869fd4cb1f85809430&#34;&gt;6. Changes.&lt;/h4&gt;
+
+&lt;p&gt;We are constantly updating our Services, and that means sometimes we have to change the legal terms under which our Services are offered. If we make changes that are material, we will let you know by posting on one of our blogs, or by sending you an email or other communication before the changes take effect. The notice will designate a reasonable period of time after which the new terms will take effect. If you disagree with our changes, then you should stop using our Services within the designated notice period. Your continued use of our Services will be subject to the new terms. However, any dispute that arose before the changes shall be governed by the Terms (including the binding individual arbitration clause) that were in place when the dispute arose.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;7-termination:9b10c1f64082d3869fd4cb1f85809430&#34;&gt;7. Termination.&lt;/h4&gt;
+
+&lt;p&gt;Valt may terminate your access to all or any part of our Services at any time, with or without cause, with or without notice, effective immediately. If you wish to terminate this Agreement or your Valt.io account (if you have one), you may simply discontinue using our Services. All provisions of this Agreement which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;8-disclaimer-of-warranties:9b10c1f64082d3869fd4cb1f85809430&#34;&gt;8. Disclaimer of Warranties.&lt;/h4&gt;
+
+&lt;p&gt;Our Services are provided &amp;ldquo;as is.&amp;rdquo; Valt and its suppliers and licensors hereby disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. Neither Valt nor its suppliers and licensors, makes any warranty that our Services will be error free or that access thereto will be continuous or uninterrupted. You understand that you download from, or otherwise
+obtain content or services through, our Services at your own discretion and risk.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;9-limitation-of-liability:9b10c1f64082d3869fd4cb1f85809430&#34;&gt;9. Limitation of Liability.&lt;/h4&gt;
+
+&lt;p&gt;In no event will Valt, or its suppliers or licensors, be liable with respect to any subject matter of this Agreement under any contract, negligence, strict liability or other legal or equitable theory for: (i) any special, incidental or consequential damages; (ii) the cost of procurement for substitute products or services; (iii) for interruption of use or loss or corruption of data; or (iv) for any amounts that exceed the fees paid by you to Valt under this agreement during the twelve (12) month period prior to the cause of action. Valt shall have no liability for any failure or delay due to matters beyond their reasonable control. The foregoing shall not apply to the extent prohibited by applicable law.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;10-general-representation-and-warranty:9b10c1f64082d3869fd4cb1f85809430&#34;&gt;10. General Representation and Warranty.&lt;/h4&gt;
+
+&lt;p&gt;You represent and warrant that (i) your use of our Services will be in strict accordance with the Valt Privacy Policy, with this Agreement, and with all applicable laws and regulations (including without limitation any local laws or regulations in your country, state, city, or other governmental area, regarding online conduct and acceptable content, and including all applicable laws regarding the transmission of technical data exported from the United States or the country in which you reside) and (ii) your use of our Services will not infringe or misappropriate the intellectual property rights of any third party.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;11-us-economic-sanctions:9b10c1f64082d3869fd4cb1f85809430&#34;&gt;11. US Economic Sanctions.&lt;/h4&gt;
+
+&lt;p&gt;You expressly represent and warrant that your use of our Services and or associated services and products is not contrary to applicable U.S. Sanctions. Such use is prohibited, and Valt reserve the right to terminate accounts or access of those in the event of a breach of this condition.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;12-indemnification:9b10c1f64082d3869fd4cb1f85809430&#34;&gt;12. Indemnification.&lt;/h4&gt;
+
+&lt;p&gt;You agree to indemnify and hold harmless Valt, its contractors, and its licensors, and their respective directors, officers, employees, and agents from and against any and all claims and expenses, including attorneys&amp;rsquo; fees, arising out of your use of our Services, including but not limited to your violation of this Agreement.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;13-translation:9b10c1f64082d3869fd4cb1f85809430&#34;&gt;13. Translation.&lt;/h4&gt;
+
+&lt;p&gt;These Terms of Service were originally written in English (US). We may translate these terms into other languages. In the event of a conflict between a translated version of these Terms of Service and the English version, the English version will control.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;14-miscellaneous:9b10c1f64082d3869fd4cb1f85809430&#34;&gt;14. Miscellaneous.&lt;/h4&gt;
+
+&lt;p&gt;This Agreement constitutes the entire agreement between Valt and you concerning the subject matter hereof, and they may only be modified by a written amendment signed by an authorized executive of Valt, or by the posting by Valt of a revised version. Except to the extent applicable law, if any, provides otherwise, this Agreement, any access to or use of our Services will be governed by the laws of the state of Delaware, U.S.A., excluding its conflict of law provisions, and the proper venue for any disputes arising out of or relating to any of the same will be the state and federal courts located in Delaware. The prevailing party in any action or proceeding to enforce this Agreement shall be entitled to costs and attorneys&amp;rsquo; fees. If any part of this Agreement is held invalid or unenforceable, that part will be construed to reflect the parties&amp;rsquo; original intent, and the remaining portions will remain in full force and effect. A waiver by either party of any term or condition of this Agreement or any breach thereof, in any one instance, will not waive such term or condition or any subsequent breach thereof. You may assign your rights under this Agreement to any party that consents to, and agrees to be bound by, its terms and conditions; Valt may assign its rights under this Agreement without condition. This Agreement will be binding upon and will inure to the benefit of the parties, their successors and permitted assigns.&lt;/p&gt;
+
+&lt;p&gt;These Terms of Service have been written modelling WordPress&amp;rsquo;s Terms of Service licensed under Creative Commons Share-Alike.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -55,9 +483,60 @@ What information does the Application obtain and how is it used? User Provided I
       <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://valt.io/app/faq/</guid>
-      <description>Frequently Asked Questions
- What is Valt Visual Password Manager? Valt Visual Password Manager is an iPhone app that provides a new approach to password management. It leverages your visual memory to keep your sensitive passwords secure. The images you learn via specific prompts on each image translate into a master password, which is used to unlock your Valt where all of your passwords are stored.
-How do I use it?</description>
+      <description>
+
+&lt;h2 id=&#34;frequently-asked-questions-br-br:4a1318da06786ac52626178ca960109e&#34;&gt;Frequently Asked Questions&lt;br&gt;&lt;br&gt;&lt;/h2&gt;
+
+&lt;h4 id=&#34;what-is-valt-visual-password-manager:4a1318da06786ac52626178ca960109e&#34;&gt;What is Valt Visual Password Manager?&lt;/h4&gt;
+
+&lt;p&gt;Valt Visual Password Manager is an iPhone app that provides a new approach to password management. It leverages your visual memory to keep your sensitive passwords secure. The images you learn via specific prompts on each image translate into a master password, which is used to unlock your Valt where all of your passwords are stored.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;how-do-i-use-it:4a1318da06786ac52626178ca960109e&#34;&gt;How do I use it?&lt;/h4&gt;
+
+&lt;p&gt;Step 1. Choose your Valt strength. Choose between minimum, standard and high.&lt;/p&gt;
+
+&lt;p&gt;Step 2. Valt Visual Password Manager will display a series of images when first using the app. Remember specific details in these images by following the prompts.&lt;/p&gt;
+
+&lt;p&gt;Step 3. Unlock your Valt by selecting the images you’ve just remembered during Step 2.&lt;/p&gt;
+
+&lt;p&gt;Step 4. Create new password entries by adding a title, username and password.&lt;/p&gt;
+
+&lt;p&gt;That’s it, when you return to the app later; you select the images you’ve remembered to display your password entries.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;how-many-images-do-i-have-to-remember:4a1318da06786ac52626178ca960109e&#34;&gt;How many images do I have to remember?&lt;/h4&gt;
+
+&lt;p&gt;It depends on your desired strength of your Valt. Users have the option of selecting between three levels: minimum (9 images), standard (12 images) and high (15 images). The more images you choose to remember, the higher the strength of your Valt.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;i-can-t-remember-so-many-images:4a1318da06786ac52626178ca960109e&#34;&gt;I can&amp;rsquo;t remember so many images!&lt;/h4&gt;
+
+&lt;p&gt;Yes, you can. In fact, there are decades of academic research (including our own) that say you can easily recall hundreds of images, even without seeing them for a month.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;what-if-i-forget-my-images:4a1318da06786ac52626178ca960109e&#34;&gt;What if I forget my images?&lt;/h4&gt;
+
+&lt;p&gt;Forgetting your images is extremely unlikely, but it is possible if you don’t use the app for a very long period of time. Unfortunately, there is currently no process for recovering password entries if all the images cannot be selected. We recommend refreshing your memory at least twice a week to prevent this from happening. Our tag-based image training process is designed so that if you do forget an image, remembering the tags associated with that image should be enough to remind you.&lt;/p&gt;
+
+&lt;p&gt;In future versions, Valt Visual Password Manager will also be able to correct some errors. With error correction, the correct passwords will still be revealed as long as you only forget one or two images.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;where-do-these-images-come-from:4a1318da06786ac52626178ca960109e&#34;&gt;Where do these images come from?&lt;/h4&gt;
+
+&lt;p&gt;We hand curated a set of 200 memorable images from the public domain. We will keep adding new images over time. At the moment, you can’t choose which images are yours or use your own images, but we’re considering these features for future versions.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;does-valt-visual-password-manager-store-my-passwords-on-a-server:4a1318da06786ac52626178ca960109e&#34;&gt;Does Valt Visual Password Manager store my passwords on a server?&lt;/h4&gt;
+
+&lt;p&gt;No. Valt Visual Password Manager only stores the image set, and how the images map to characters. The image set does not include any information about which images were assigned to you. The maps determine how each selection of images translates into a password.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;can-someone-get-my-passwords-if-they-have-my-phone:4a1318da06786ac52626178ca960109e&#34;&gt;Can someone get my passwords if they have my phone?&lt;/h4&gt;
+
+&lt;p&gt;No. Even if someone has your device, they would have to correctly select all your images to display your passwords. Selecting your images without knowing them ahead of time is equivalent to simply guessing what your password is.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;should-i-worry-about-hackers:4a1318da06786ac52626178ca960109e&#34;&gt;Should I worry about hackers?&lt;/h4&gt;
+
+&lt;p&gt;No. Your master password isn’t stored on a server; it’s in your memory, as a series of images. A hacker would have to ask you which images are included in your image set to gain access to your Valt.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;does-something-seem-odd-or-broken:4a1318da06786ac52626178ca960109e&#34;&gt;Does something seem odd or broken?&lt;/h4&gt;
+
+&lt;p&gt;Tell us about it by sending an email to &lt;a href=&#34;mailto:feedback@valt.io&#34;&gt;feedback@valt.io&lt;/a&gt;. The app is still in its early stages and all the feedback we receive will help us to improve it.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -66,9 +545,60 @@ How do I use it?</description>
       <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://valt.io/faq/</guid>
-      <description>Frequently Asked Questions
- What is Valt Visual Password Manager? Valt Visual Password Manager is an iPhone app that provides a new approach to password management. It leverages your visual memory to keep your sensitive passwords secure. The images you learn via specific prompts on each image translate into a master password, which is used to unlock your Valt where all of your passwords are stored.
-How do I use it?</description>
+      <description>
+
+&lt;h2 id=&#34;frequently-asked-questions-br-br:4a1318da06786ac52626178ca960109e&#34;&gt;Frequently Asked Questions&lt;br&gt;&lt;br&gt;&lt;/h2&gt;
+
+&lt;h4 id=&#34;what-is-valt-visual-password-manager:4a1318da06786ac52626178ca960109e&#34;&gt;What is Valt Visual Password Manager?&lt;/h4&gt;
+
+&lt;p&gt;Valt Visual Password Manager is an iPhone app that provides a new approach to password management. It leverages your visual memory to keep your sensitive passwords secure. The images you learn via specific prompts on each image translate into a master password, which is used to unlock your Valt where all of your passwords are stored.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;how-do-i-use-it:4a1318da06786ac52626178ca960109e&#34;&gt;How do I use it?&lt;/h4&gt;
+
+&lt;p&gt;Step 1. Choose your Valt strength. Choose between minimum, standard and high.&lt;/p&gt;
+
+&lt;p&gt;Step 2. Valt Visual Password Manager will display a series of images when first using the app. Remember specific details in these images by following the prompts.&lt;/p&gt;
+
+&lt;p&gt;Step 3. Unlock your Valt by selecting the images you’ve just remembered during Step 2.&lt;/p&gt;
+
+&lt;p&gt;Step 4. Create new password entries by adding a title, username and password.&lt;/p&gt;
+
+&lt;p&gt;That’s it, when you return to the app later; you select the images you’ve remembered to display your password entries.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;how-many-images-do-i-have-to-remember:4a1318da06786ac52626178ca960109e&#34;&gt;How many images do I have to remember?&lt;/h4&gt;
+
+&lt;p&gt;It depends on your desired strength of your Valt. Users have the option of selecting between three levels: minimum (9 images), standard (12 images) and high (15 images). The more images you choose to remember, the higher the strength of your Valt.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;i-can-t-remember-so-many-images:4a1318da06786ac52626178ca960109e&#34;&gt;I can&amp;rsquo;t remember so many images!&lt;/h4&gt;
+
+&lt;p&gt;Yes, you can. In fact, there are decades of academic research (including our own) that say you can easily recall hundreds of images, even without seeing them for a month.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;what-if-i-forget-my-images:4a1318da06786ac52626178ca960109e&#34;&gt;What if I forget my images?&lt;/h4&gt;
+
+&lt;p&gt;Forgetting your images is extremely unlikely, but it is possible if you don’t use the app for a very long period of time. Unfortunately, there is currently no process for recovering password entries if all the images cannot be selected. We recommend refreshing your memory at least twice a week to prevent this from happening. Our tag-based image training process is designed so that if you do forget an image, remembering the tags associated with that image should be enough to remind you.&lt;/p&gt;
+
+&lt;p&gt;In future versions, Valt Visual Password Manager will also be able to correct some errors. With error correction, the correct passwords will still be revealed as long as you only forget one or two images.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;where-do-these-images-come-from:4a1318da06786ac52626178ca960109e&#34;&gt;Where do these images come from?&lt;/h4&gt;
+
+&lt;p&gt;We hand curated a set of 200 memorable images from the public domain. We will keep adding new images over time. At the moment, you can’t choose which images are yours or use your own images, but we’re considering these features for future versions.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;does-valt-visual-password-manager-store-my-passwords-on-a-server:4a1318da06786ac52626178ca960109e&#34;&gt;Does Valt Visual Password Manager store my passwords on a server?&lt;/h4&gt;
+
+&lt;p&gt;No. Valt Visual Password Manager only stores the image set, and how the images map to characters. The image set does not include any information about which images were assigned to you. The maps determine how each selection of images translates into a password.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;can-someone-get-my-passwords-if-they-have-my-phone:4a1318da06786ac52626178ca960109e&#34;&gt;Can someone get my passwords if they have my phone?&lt;/h4&gt;
+
+&lt;p&gt;No. Even if someone has your device, they would have to correctly select all your images to display your passwords. Selecting your images without knowing them ahead of time is equivalent to simply guessing what your password is.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;should-i-worry-about-hackers:4a1318da06786ac52626178ca960109e&#34;&gt;Should I worry about hackers?&lt;/h4&gt;
+
+&lt;p&gt;No. Your master password isn’t stored on a server; it’s in your memory, as a series of images. A hacker would have to ask you which images are included in your image set to gain access to your Valt.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;does-something-seem-odd-or-broken:4a1318da06786ac52626178ca960109e&#34;&gt;Does something seem odd or broken?&lt;/h4&gt;
+
+&lt;p&gt;Tell us about it by sending an email to &lt;a href=&#34;mailto:feedback@valt.io&#34;&gt;feedback@valt.io&lt;/a&gt;. The app is still in its early stages and all the feedback we receive will help us to improve it.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
