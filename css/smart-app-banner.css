@@ -71,15 +71,13 @@
 				width:14px; 
 				height:14px; 
 				font-family:'ArialRoundedMTBold'; 
-				font-size:10px; 
+				font-size:14px; 
 				line-height:14px; 
 				text-align:center; 
 				color:#ccc; 
 				text-decoration:none; 
 				text-shadow:none; 
 				border-radius:14px; 
-				#box-shadow:0 2px 3px rgba(0,0,0,0.4); 
-				#-webkit-font-smoothing:subpixel-antialiased; 
 			}
 			#swb-close:active { color:#aaa; }			
 			#swb-info { 
