@@ -44,8 +44,8 @@ $(document).ready(function() {
           });
             
           $('.smart-banner').stop().animate({top:0},300);
-          $('.container').css({marginTop:78});
-          $('html').animate({marginTop:origHtmlMargin+78},300); 
+          //$('.container').css({marginTop:78});
+          $('body').animate({marginTop:origHtmlMargin+78},300); 
         }
       }); 
     }
