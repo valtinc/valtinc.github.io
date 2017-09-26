@@ -44,6 +44,7 @@ $(document).ready(function() {
           });
             
           $('.smart-banner').stop().animate({top:0},300);
+          $('body').css({marginTop:78});
           $('html').animate({marginTop:origHtmlMargin+78},300); 
         }
       }); 
