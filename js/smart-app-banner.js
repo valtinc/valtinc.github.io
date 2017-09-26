@@ -26,14 +26,14 @@ $(document).ready(function() {
           if (averageUserRating == null) { averageUserRating = 0; }
           if (averageUserRatingForCurrentVersion == null) { averageUserRatingForCurrentVersion = 0; }
 
-          var banner = '<header class="smart-banner">';  
+          var banner = '<div class="smart-banner">';  
           banner += '<a href="#" id="swb-close">X</a>';
           banner += '<img src="' + artworkUrl60 + '" alt="" class="smart-glossy-icon" />';
           banner += '<div id="swb-info"><strong>' + trackCensoredName + '</strong>';
           banner += '<span>' + artistName + '</span>';
           banner += '<span class="rating-static rating-' + averageUserRating.toString().replace(".", "") + '"></span>';
           banner += '<span>' + formattedPrice + '</span></div>';
-          banner += '<a href="' + artistViewUrl + '" id="swb-save">VIEW</a></header>';
+          banner += '<a href="' + artistViewUrl + '" id="swb-save">VIEW</a></div>';
 
           $('body').append(banner);    
           
@@ -43,7 +43,7 @@ $(document).ready(function() {
             $('html').animate({marginTop:origHtmlMargin},300);
           });
             
-          $('.smart-banner').stop().animate({top:0},300);
+          #$('.smart-banner').stop().animate({top:0},300);
           $('#nav2').affix({offset: {top: 78}});
 
           //$('.container').css({marginTop:78});
