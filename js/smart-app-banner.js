@@ -1,6 +1,7 @@
 var origHtmlMargin = parseFloat($('html').css('margin-top'));
 
-$(function() {      
+
+$(document).ready(function() {      
   var iPad = navigator.userAgent.match(/iPad/i) != null; // Check if using an iPad
   var iPhone = navigator.userAgent.match(/iPhone/i) != null; // Check if using an iPhone
   var safari = navigator.userAgent.match(/Safari/i) != null; // Check if using Safari
