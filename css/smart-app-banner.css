@@ -98,7 +98,7 @@
 			}
 			#swb-info em { font-style:normal; text-transform:uppercase; }
 
-			nav.affix {
+			#nav2.affix {
 			    position: fixed;
     			top: 0;
     			width: 100%;
