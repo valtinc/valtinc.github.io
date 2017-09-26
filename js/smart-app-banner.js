@@ -44,14 +44,12 @@ $(document).ready(function() {
           });
             
           $('.smart-banner').stop().animate({top:0},300);
-          /*$('.navbar').affix({
-              offset: {
-                top: 82
-              }
-            }); */
+          $('.navbar').affix({
+              offset: {top: 82}
+            }); 
 
           //$('.container').css({marginTop:78});
-          $('#page-top').animate({marginTop:origHtmlMargin+78},300); 
+          $('html').animate({marginTop:origHtmlMargin+78},300); 
         }
       }); 
     }
