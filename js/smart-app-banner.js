@@ -26,14 +26,14 @@ $(document).ready(function() {
           if (averageUserRating == null) { averageUserRating = 0; }
           if (averageUserRatingForCurrentVersion == null) { averageUserRatingForCurrentVersion = 0; }
 
-          var banner = '<div class="smart-banner">';  
+          var banner = '<header class="smart-banner">';  
           banner += '<a href="#" id="swb-close">X</a>';
           banner += '<img src="' + artworkUrl60 + '" alt="" class="smart-glossy-icon" />';
           banner += '<div id="swb-info"><strong>' + trackCensoredName + '</strong>';
           banner += '<span>' + artistName + '</span>';
           banner += '<span class="rating-static rating-' + averageUserRating.toString().replace(".", "") + '"></span>';
           banner += '<span>' + formattedPrice + '</span></div>';
-          banner += '<a href="' + artistViewUrl + '" id="swb-save">VIEW</a></div>';
+          banner += '<a href="' + artistViewUrl + '" id="swb-save">VIEW</a></header>';
 
           $('body').append(banner);    
           
@@ -44,10 +44,10 @@ $(document).ready(function() {
           });
             
           $('.smart-banner').stop().animate({top:0},300);
-          $('.navbar').css('position', 'relative');
+          $('nav').affix({offset: {top: 78}});
 
           //$('.container').css({marginTop:78});
-          $('html').animate({marginTop:origHtmlMargin+78},300); 
+          //$('html').animate({marginTop:origHtmlMargin+78},300); 
         }
       }); 
     }
