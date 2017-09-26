@@ -44,7 +44,7 @@ $(document).ready(function() {
           });
             
           $('.smart-banner').stop().animate({top:0},300);
-          $('html').css('position', 'relative');
+          $('.navbar').css('position', 'relative');
 
           //$('.container').css({marginTop:78});
           $('html').animate({marginTop:origHtmlMargin+78},300); 
