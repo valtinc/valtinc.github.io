@@ -6,10 +6,31 @@
     <description>Recent content on Valt - Passwords for People</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://valt.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introducing Valt</title>
+      <link>https://valt.io/blog/introducing-valt/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://valt.io/blog/introducing-valt/</guid>
+      <description>Introducing Valt  With Valt, pictures are your passwords.   You shop online, you pay your taxes online, you order food online and you talk to your friends online. Let’s face it, the details of your life are stored online.
+Now ask yourself, how many online accounts do you have? Is it 20? 30? 50? You might be surprised, but on average people have almost 140 accounts online and by 2020 it will exceed 200.</description>
+    </item>
+    
+    <item>
+      <title>Recognition Memory</title>
+      <link>https://valt.io/blog/recognition/</link>
+      <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://valt.io/blog/recognition/</guid>
+      <description>The Power of Recognition Memory Take a quick look at the six images below.
+ Now go back and imagine a single word description for each each.
+Did you really do it? One word for each image? Now, it may come as a surprise, but you are exceptionally good at recognizing images you&amp;rsquo;ve sen before. In fact, this is one reason Valt is so secure. We actually generate a random text-based password for you and then use your innate ability to recognize images to actually translate your random text-based password into a picture password.</description>
+    </item>
     
     <item>
       <title>Privacy</title>
@@ -56,6 +77,17 @@ What information does the Application obtain and how is it used? User Provided I
       
       <guid>https://valt.io/app/faq/</guid>
       <description>Frequently Asked Questions Overview What is Valt? Valt is a new approach to password management&amp;mdash;one that is visual and fun&amp;mdash;and gives you the freedom to surf without worry or distraction. We use NSA-approved encryption to securely lock your data behind a truly random master password. But here’s the thing&amp;mdash;your master password isn’t a sequence of characters&amp;mdash;it’s a set of pictures. We leverage your visual memory to keep your sensitive information secure.</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://valt.io/app/test/</link>
+      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://valt.io/app/test/</guid>
+      <description>Frequently Asked Questions
+ What is Valt Visual Password Manager? Valt Visual Password Manager is an iPhone app that provides a new approach to password management. It leverages your visual memory to keep your sensitive passwords secure. The images you learn via specific prompts on each image translate into a master password, which is used to unlock your Valt where all of your passwords are stored.
+How do I use it?</description>
     </item>
     
     <item>

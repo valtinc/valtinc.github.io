@@ -15,6 +15,114 @@ body {
 }
 
 /*****/
+.content { min-height: 100%; }
+
+@media screen and (max-width: 319px) {
+    .post-title {
+        font-size: 2rem;
+        max-height: 8rem;
+    }
+
+    h2 span {
+        line-height: 2.67rem;
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 543px) {
+    .post-title {
+        font-size: 2rem;
+        max-height: 8rem;
+    }
+
+    h2 span {
+        line-height: 2.67rem;
+    }
+}
+
+@media screen and (min-width: 544px) and (max-width: 767px) {
+    .post-title {
+        font-size: 2rem;
+        max-height: 8rem;
+    }
+
+    h2 span {
+        line-height: 2.67rem;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1095px) {
+    .post-title {
+        font-size: 2rem;
+        max-height: 8rem;
+    }
+
+    h2 span {
+        line-height: 2.67rem;
+    }
+}
+
+@media screen and (min-width: 1096px) and (max-width: 1391px) {
+    .post-title {
+        font-size: 2.5rem;
+        max-height: 8rem;
+    }
+
+    h2 span {
+        line-height: 2.67rem;
+    }
+}
+
+@media screen and (min-width: 1392px) {
+    .post-title {
+        font-size: 2.5rem;
+        max-height: 8rem;
+    }
+
+    h2 span {
+        line-height: 2.67rem;
+    }
+}
+
+.blog { margin: 5% 5% 0% 5%; }
+.nav-pad { padding-top: 70px; }
+
+.blog-col { width: 40%; }
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.image-hover {
+  position: relative;
+  overflow: hidden;
+}
+
+.image-hover img {
+  max-width: 100%;
+  -moz-transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.image-hover:hover img {
+  -moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.post-title {
+   bottom: 5%; 
+   left: 7%;
+   position: absolute;
+   width: calc(100% - 3rem);
+   max-width: 80%;
+   background-color: orange;
+   color: black;
+   overflow: hidden;
+}
+
+
 .text-left {
     margin-left: auto;
     margin-right: 0;
@@ -29,15 +137,6 @@ body {
     width: 600px;
     margin-left: 40px;
 }
-
-/*[class*='col-'] {
-    width: initial;
-}*/
-
-/*.row > div {
-  background: lightgrey;
-  border: 1px solid;
-}*/
 
 .input-form {
     max-width: 555px;
@@ -77,8 +176,16 @@ body {
 .content-width { width: 55%; }
 
 @media (max-width: 767px) {
-    .about-right, .about-left { width: 95%; margin: 0 auto;}
+    .post-title { }
 
+    /*
+    .blog-left, .blog-right, .blog-btm-left { margin: 5% 5% 0 5%; }
+    .blog-btm-right { margin: 5%; }
+    */
+    .blog { margin: 5% 5% 0% 5%; }
+    .blog-col { width: 100%; }
+    .nav-pad { padding-top: 50px; }
+    .about-right, .about-left { width: 95%; margin: 0 auto;}
     .about-row { min-width: 100%; }
 
     .text {
@@ -364,6 +471,7 @@ section#contact .form-group {
 }
 
 footer {
-    padding-top: 20px;
+    background-color: #1e1e1e;
+    padding-top: 0;
     text-align: center;
 }
