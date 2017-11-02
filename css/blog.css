@@ -1,0 +1,28 @@
+#wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px 40px 0px 40px;
+}
+
+figcaption {
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.post h2 { 
+	font-size: 35px;
+	margin: 30px 10px 50px 0px;
+ }
+
+.post h4 {
+	font-size: 15px;
+}
+
+.post li {
+	font-size: 20px;	
+}
+.post p {
+	font-size: 20px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}

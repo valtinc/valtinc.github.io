@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Valt - Passwords for People</title>
+    <link>https://valt.io/blog/</link>
+    <description>Recent content in Blogs on Valt - Passwords for People</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://valt.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introducing Valt</title>
+      <link>https://valt.io/blog/introducing-valt/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://valt.io/blog/introducing-valt/</guid>
+      <description>Introducing Valt  With Valt, pictures are your passwords.   You shop online, you pay your taxes online, you order food online and you talk to your friends online. Let’s face it, the details of your life are stored online.
+Now ask yourself, how many online accounts do you have? Is it 20? 30? 50? You might be surprised, but on average people have almost 140 accounts online and by 2020 it will exceed 200.</description>
+    </item>
+    
+    <item>
+      <title>Recognition Memory</title>
+      <link>https://valt.io/blog/recognition/</link>
+      <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://valt.io/blog/recognition/</guid>
+      <description>The Power of Recognition Memory Take a quick look at the six images below.
+ Now go back and imagine a single word description for each each.
+Did you really do it? One word for each image? Now, it may come as a surprise, but you are exceptionally good at recognizing images you&amp;rsquo;ve sen before. In fact, this is one reason Valt is so secure. We actually generate a random text-based password for you and then use your innate ability to recognize images to actually translate your random text-based password into a picture password.</description>
+    </item>
+    
+  </channel>
+</rss>
