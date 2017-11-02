@@ -14,9 +14,6 @@ body {
     font-family: "CamberRegular";
 }
 
-/*****/
-.content { min-height: 100%; }
-
 @media screen and (max-width: 319px) {
     .post-title {
         font-size: 2rem;
@@ -82,6 +79,8 @@ body {
         line-height: 2.67rem;
     }
 }
+
+.content { min-height: 100%; }
 
 .blog { margin: 5% 5% 0% 5%; }
 .nav-pad { padding-top: 70px; }
