@@ -1,3 +1,17 @@
+@font-face {
+    font-family: "Georgia";
+	/* src:url("../fonts/Camber/Emtype Foundry - Camber Regular Regular.otf") format("truetype"); */
+}
+
+.post {
+	font-family: "Georgia";	
+}
+
+.post h3, .post h2, .post h1, .post h4, .post h5 {
+	font-family: "Georgia";
+}
+
+
 #wrapper {
   max-width: 800px;
   margin: 0 auto;
@@ -24,10 +38,11 @@ figcaption {
 }
 
 .post li {
-	font-size: 20px;	
+	font-size: 18px;	
 }
+
 .post p {
-	font-size: 14px;
+	font-size: 18px;
 	margin-bottom: 20px;
 	margin-top: 20px;
 }
