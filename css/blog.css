@@ -4,7 +4,8 @@
 }
 
 .post {
-	font-family: "Georgia";	
+	font-family: "Georgia";
+	margin-bottom: 150px;	
 }
 
 .post h3, .post h2, .post h1, .post h4, .post h5 {
@@ -18,13 +19,18 @@
   padding: 20px 40px 0px 40px;
 }
 
-.post-figure {
+figure {
 	margin: 50px 0px 50px 0px;
 }
 
 figcaption {
+	font-family: "CamberRegular";
 	text-align: center;
 	margin-bottom: 30px;
+}
+
+.post figcaption p {
+	font-size: 15px;
 }
 
 .post h2 { 
