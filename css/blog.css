@@ -25,6 +25,9 @@ figure {
 
 figcaption {
 	font-family: "CamberRegular";
+	max-width: 80%;
+	margin-left: auto;
+	margin-right: auto;
 	text-align: center;
 	margin-bottom: 30px;
 }
@@ -34,7 +37,7 @@ figcaption {
 }
 
 .post h2 { 
-	font-size: 35px;
+	font-size: 40px;
 	margin: 30px 10px 30px 0px;
  }
 
@@ -43,16 +46,12 @@ figcaption {
 	margin-bottom: 20px;
 }
 
-.post h4 {
-	font-size: 15px;
-}
-
 .post li {
-	font-size: 18px;	
+	font-size: 20px;	
 }
 
 .post p {
-	font-size: 18px;
+	font-size: 20px;
 	margin-bottom: 20px;
 	margin-top: 20px;
 }
