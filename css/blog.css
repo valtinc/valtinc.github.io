@@ -18,6 +18,10 @@
   padding: 20px 40px 0px 40px;
 }
 
+.post-figure {
+	margin: 50px 0px 50px 0px;
+}
+
 figcaption {
 	text-align: center;
 	margin-bottom: 30px;
