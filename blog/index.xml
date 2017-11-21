@@ -6,10 +6,20 @@
     <description>Recent content in Blogs on Valt - Effortless Security through Visual Memory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://valt.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What Makes an Image Memorale</title>
+      <link>https://valt.io/blog/memorable/</link>
+      <pubDate>Sat, 18 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://valt.io/blog/memorable/</guid>
+      <description>What Makes An Image Memorable?  Many believe memorability is subjective – i.e. the same Facebook pictures will stand out for some but fade away for others. Yet decades of research have proven this false. The ability of an image to stick with someone over time is actually a function of its subject(s) and composition.
+Studies show we remember images in proportion to how distinct they are. Strange, counterintuitive pictures will make an impact—e.</description>
+    </item>
     
     <item>
       <title>Introducing Valt</title>
