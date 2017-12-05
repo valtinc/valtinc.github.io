@@ -1,0 +1,62 @@
+@font-face {
+    font-family: "Georgia";
+	/* src:url("../fonts/Camber/Emtype Foundry - Camber Regular Regular.otf") format("truetype"); */
+}
+
+.pceu-content { min-height: 20% }
+
+.post {
+	font-family: "Georgia";
+	margin-bottom: 150px;	
+}
+
+.post h3, .post h2, .post h1, .post h4, .post h5 {
+	font-family: "Georgia";
+}
+
+.responsive-pad {
+    padding: 10px 0 10px 0;
+}
+
+#wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px 40px 0px 40px;
+}
+
+figure {
+	margin: 50px 0px 50px 0px;
+}
+
+figcaption {
+	font-family: "CamberRegular";
+	max-width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.post figcaption p {
+	font-size: 15px;
+}
+
+.post h2 { 
+	font-size: 40px;
+	margin: 30px 10px 30px 0px;
+ }
+
+.post h3 {  
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+
+.post li {
+	font-size: 20px;	
+}
+
+.post p {
+	font-size: 20px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
