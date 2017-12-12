@@ -1,0 +1,113 @@
+<html>
+<head>
+<title>Valt Connection Failure</title>
+<style id="valt-connection-failure-styling">
+    @font-face {
+        font-family: 'Camber';
+        font-style: normal;
+        font-weight: normal;
+        src: url('camber_reg_reg.otf') format('opentype');
+    }
+
+    @font-face {
+        font-family: 'Camber';
+        font-style: normal;
+        font-weight: bold;
+        src: url('camber_med_reg.otf') format('opentype');
+    }
+
+    @font-face {
+        font-family: 'Camber';
+        font-style: normal;
+        font-weight: 200;
+        src: url('camber_ul_reg.otf') format('opentype');
+    }
+
+    body {
+        margin: 0;
+        padding: 0;
+    }
+
+    #valt-connection-failure-notification {
+        background-color: #ffffff;
+        width: 320px;
+        user-select: none;
+    }
+
+    #valt-connection-failure-notification div {
+        font-family: 'Camber', sans-serif;
+        text-align: center;
+        color: #414141;
+        line-height: normal;
+    }
+
+    #valt-connection-failure-header {
+        border-top-left-radius: 2px;
+        border-top-right-radius: 2px;
+        background-color: #14b57c;
+        height: 65px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #valt-connection-failure-body {
+        background-color: #ffffff;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        line-height: 18px;
+        padding: 10px;
+    }
+
+    #valt-connection-failure-body div {
+        padding: 10px;
+    }
+
+    #valt-connection-failure-notification #valt-connection-failure-title {
+        font-size: 17px;
+        font-weight: bold;
+        padding-bottom: 0;
+    }
+
+    #valt-connection-failure-notification #valt-connection-failure-body-text {
+        font-size: 15px;
+        font-weight: normal;
+    }
+
+    #valt-connection-failure-notification #valt-connection-failure-button {
+        background-color: #196bc5;
+        color: #ffffff;
+        border: none;
+        padding: 10px 24px;
+        border-radius: 5px;
+
+        font-family: 'Camber', sans-serif;
+        font-size: 13px;
+        cursor: pointer;
+    }
+</style>
+
+<script src="connection_popup.js"></script>
+</head>
+
+<body>
+<div id="valt-connection-failure-notification">
+    <div id="valt-connection-failure-header">
+        <img width="160px" height="44px" src="brand@2x.png">
+    </div>
+
+    <div id="valt-connection-failure-body">
+        <div id="valt-connection-failure-title">Start the Valt Mac app (dev)</div>
+
+        <div id="valt-connection-failure-body-text">The Valt Mac app needs to be running to use the Chrome extension.</div>
+
+        <div>
+            <form id="valt-connection-failure-form">
+                <input type="submit" value="Launch app" id="valt-connection-failure-button"/>
+            </form>
+        </div>
+    </div>
+</div>
+</body>
