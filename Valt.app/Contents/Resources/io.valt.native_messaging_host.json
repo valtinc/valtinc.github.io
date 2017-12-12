@@ -1,9 +1,0 @@
-{
-    "name": "io.valt.native_messaging_host",
-    "description": "Native Messaging Host for Valt Mac",
-    "path": "/Applications/Valt.app/Contents/Resources/NativeMessagingHost",
-    "type": "stdio",
-    "allowed_origins": [
-                        "chrome-extension://lhgionfipogjpiimcjkgkjbleanbpehe/"
-                        ]
-}
