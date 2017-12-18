@@ -9,15 +9,6 @@
       format("truetype");
     }
 
-    a {
-      text-decoration: none;
-      color: #fff;
-    }
-
-    a:hover {
-      color: #1754B9
-    }
-
     /* -------------------------------------
         RESPONSIVE AND MOBILE FRIENDLY STYLES
     ------------------------------------- */
@@ -68,16 +59,13 @@
         PRESERVE THESE STYLES IN THE HEAD
     ------------------------------------- */
     @media all {
-
-      .ExternalClass {
-        width: 100%;
+      a {
+        text-decoration: none;
+        color: #fff;
       }
-      .ExternalClass,
-            .ExternalClass p,
-            .ExternalClass span,
-            .ExternalClass font,
-            .ExternalClass td,
-            .ExternalClass div {
-        line-height: 100%;
+
+      a:hover {
+        color: #1754B9
+        background-color: #1754B9;
       }
     }
