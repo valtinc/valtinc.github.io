@@ -1,9 +1,5 @@
 
-    @font-face {
-      font-family: "CamberRegular";
-      src:url("https://valt.io/fonts/Camber/Emtype Foundry - Camber Regular Regular.otf") 
-      format("truetype");
-    }
+    
 
     a {
       text-decoration: none;
