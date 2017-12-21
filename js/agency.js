@@ -1,6 +1,6 @@
 
 // only display mobile icons when non-safari
-/*$(document).ready(function(){
+$(document).ready(function(){
   var ua = window.navigator.userAgent;
   var iOS = !!ua.match(/iPad/i) || !!ua.match(/iPhone/i);
   var webkit = !!ua.match(/WebKit/i);
@@ -9,7 +9,7 @@
     document.getElementById("mobile-icons").style.display = "none";
   }
 });
-*/
+
 
 // Highlight the top nav as scrolling occurs
 $('body').scrollspy({
