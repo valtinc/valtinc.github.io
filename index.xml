@@ -6,10 +6,20 @@
     <description>Recent content on Valt - Effortless Security through Visual Memory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://valt.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Valt :: Tales from the Flipside</title>
+      <link>https://valt.io/tales/</link>
+      <pubDate>Sun, 04 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://valt.io/tales/</guid>
+      <description>Thanks for listening to Tale from the Flipside. Use the link to download Valt!
+    </description>
+    </item>
     
     <item>
       <title>Valt :: Poop Culture Poll</title>
