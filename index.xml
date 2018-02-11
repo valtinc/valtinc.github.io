@@ -6,10 +6,19 @@
     <description>Recent content on Valt - Effortless Security through Visual Memory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://valt.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Valt :: Someone&#39;s Wrong on the Internet</title>
+      <link>https://valt.io/swoti/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://valt.io/swoti/</guid>
+      <description>     </description>
+    </item>
     
     <item>
       <title>Valt :: Tales from the Flipside</title>
@@ -36,6 +45,15 @@
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://valt.io/decade/</guid>
+      <description>     </description>
+    </item>
+    
+    <item>
+      <title>Valt :: Poop Culture Poll</title>
+      <link>https://valt.io/lonely/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://valt.io/lonely/</guid>
       <description>     </description>
     </item>
     
