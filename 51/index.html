@@ -19,8 +19,6 @@
   <title>Valt :: Hysteria 51 &middot; Valt - Effortless Security through Visual Memory</title>
   
   <!-- Stylesheets -->
-  <link href="https://valt.io/css/jquery.form-validator-v2.3.44/theme-default.min.css" 
-        rel="stylesheet">
   <link href="https://valt.io/css/bootstrap-v3.3.7/bootstrap.min.css" 
         rel="stylesheet">
   <link href="https://valt.io/css/agency.css" 
@@ -35,10 +33,6 @@
   
 
   
-
-  <!-- Custom Fonts -->
-  <link href="https://valt.io/font-awesome-v4.7.0/css/font-awesome.min.css" 
-        rel="stylesheet" type="text/css">
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -186,30 +180,66 @@
 
       </div>
     </div>
-    <form id="contactform" action="//formspree.io/signmeup@valt.io" method="POST">
-      <div class="input-form">
+
+
+    
+    <form action="https://valt.us17.list-manage.com/subscribe/post-json?u=d5717b8eb0c70c7767795578f&amp;id=b2fb8a631a" 
+          method="GET" id="contactForm" name="mc-embedded-subscribe-form" class="validate" 
+          target="_blank">
+
+    <div class="input-form">
         
-        <input class="form-control" id="name" required="required" type="text" name="name" placeholder="Full name" data-validation-error-msg="Please enter your name." style="text-align: center; height: 50px; font-size: 15px;">
+        <input class="form-control" id="email" required="required" type="email" name="EMAIL" 
+               autocomplete='email'
+               placeholder="E-mail" 
+               data-validation-error-msg="Please enter your email address." 
+               style="text-align: center; height: 50px; font-size: 15px;">
+        <p class="help-block text-danger"></p>
+        
+    </div>
+
+    <div class="input-form">
+        
+        <input class="form-control" id="fname" required="required" type="text" name="FNAME" 
+        autocomplete='given-name'
+        placeholder="First name" data-validation-error-msg="Please enter your first name." style="text-align: center; height: 50px; font-size: 15px;">
         <p class="help-block text-danger"></p>
         
       </div>
 
-      <div class="input-form">
+    <div class="input-form">
         
-        <input class="form-control" id="email" required="required" type="email" name="email" placeholder="E-mail" data-validation-error-msg="Please enter your email address." style="text-align: center; height: 50px; font-size: 15px;">
+        <input class="form-control" id="lname" required="required" type="text" name="LNAME" 
+        autocomplete='family-name' 
+        placeholder="Last name" data-validation-error-msg="Please enter your last name." style="text-align: center; height: 50px; font-size: 15px;">
         <p class="help-block text-danger"></p>
         
       </div>
-      
 
-      <div class="input-form">
-        <button id="submit" class="btn btn-xl" style="height: 50px; background-color: #14b57c; color: #fff; opacity: 1; font-size: 15px;">Sign me up</button>
-      </div>
-      <div class="g-recaptcha btn btn-xl" style="text-align: center;"
-           data-sitekey="6LfpKzIUAAAAAM4L2yNipFbZLhy5WJQe81HCVIj8"></div>
+        
+     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_d5717b8eb0c70c7767795578f_b2fb8a631a" tabindex="-1" value=""></div>
+
+
+    <div class="input-form">
+          <button id="submit" class="btn btn-xl" 
+                  style="height: 50px; background-color: #14b57c; color: #fff; opacity: 1; font-size: 15px;">Sign me up</button>
+    
+    <div class="text-success" id="success" style="display:none; text-align: center">
+          
+            Thank you for subscribg to Valt.  A welcome email will arrive from us shortly.
+          
+        </div>
+        <div class="text-danger" id="error" style="display:none; text-align: center">
+          
+            The message could not be sent.  Please contact us at feedback@valt.io for help.
+          
+        </div><br />
+    </div>
 
     </form>
-  </div>
+    </div>
+      
+
 </section>
 
     

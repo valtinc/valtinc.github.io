@@ -21,19 +21,34 @@ $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
 
-// Async contact form
-$('form[id=contactForm]').submit(function(){
-  $.post($(this).attr('action'), $(this).serialize(), function(res){
+// Display the form status
+var displayMailChimpStatus = function (data) {
+    console.log(data);
+
     $('form[id=contactForm] #success').hide();
     $('form[id=contactForm] #error').hide();
-    if (res.code == "200")
+  
+
+    if (data.result == "success") {
       $('form[id=contactForm] #success').show();
-    }).fail(function(){
-    $('form[id=contactForm] #success').hide();
-    $('form[id=contactForm] #error').hide();
-    $('form[id=contactForm] #error').show();
-  });
-  return false;
+    } else {
+      $('form[id=contactForm] #error').show();
+    }
+
+};
+
+// Async contact form
+$('form[id=contactForm]').submit(function(e) {
+
+  e.preventDefault();  
+  $.ajax({
+        type: "GET",
+        url: $(this).attr('action') + "&c=displayMailChimpStatus",
+        data: $(this).serialize(),
+        cache: false,
+        dataType: 'jsonp',
+        contentType: "application/json; charset=utf-8"
+      });
 });
 
 // Contact form validation
