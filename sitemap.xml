@@ -3,27 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://valt.io/swoti/</loc>
+    <loc>https://valt.io/promo/swoti/</loc>
     <lastmod>2018-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://valt.io/tales/</loc>
+    <loc>https://valt.io/promo/tales/</loc>
     <lastmod>2018-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://valt.io/lonely/</loc>
+    <loc>https://valt.io/promo/lonely/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://valt.io/band/</loc>
+    <loc>https://valt.io/promo/band/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://valt.io/decade/</loc>
+    <loc>https://valt.io/promo/decade/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://valt.io/jnt/</loc>
+    <loc>https://valt.io/promo/jnt/</loc>
     <lastmod>2017-11-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,57 +48,57 @@
   </url>
   
   <url>
-    <loc>https://valt.io/rewind/</loc>
+    <loc>https://valt.io/promo/rewind/</loc>
     <lastmod>2017-11-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://valt.io/beau/</loc>
+    <loc>https://valt.io/promo/beau/</loc>
     <lastmod>2017-11-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://valt.io/boondoggle/</loc>
+    <loc>https://valt.io/promo/boondoggle/</loc>
     <lastmod>2017-11-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://valt.io/broron/</loc>
+    <loc>https://valt.io/promo/broron/</loc>
     <lastmod>2017-11-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://valt.io/51/</loc>
+    <loc>https://valt.io/promo/51/</loc>
     <lastmod>2017-11-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://valt.io/moc/</loc>
+    <loc>https://valt.io/promo/moc/</loc>
     <lastmod>2017-11-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://valt.io/mockers/</loc>
+    <loc>https://valt.io/promo/mockers/</loc>
     <lastmod>2017-11-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://valt.io/pceu/</loc>
+    <loc>https://valt.io/promo/pceu/</loc>
     <lastmod>2017-11-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://valt.io/poop/</loc>
+    <loc>https://valt.io/promo/poop/</loc>
     <lastmod>2017-11-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://valt.io/fried/</loc>
+    <loc>https://valt.io/promo/fried/</loc>
     <lastmod>2017-11-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://valt.io/rangers/</loc>
+    <loc>https://valt.io/promo/rangers/</loc>
     <lastmod>2017-11-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -156,6 +156,12 @@
   
   <url>
     <loc>https://valt.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://valt.io/promo/</loc>
+    <lastmod>2018-02-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
