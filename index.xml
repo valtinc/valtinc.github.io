@@ -149,6 +149,24 @@ Now ask yourself, how many online accounts do you have? Is it 20? 30? 50? You mi
     </item>
     
     <item>
+      <title>Valt :: Email Confirmed</title>
+      <link>https://valt.io/backup/failure/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://valt.io/backup/failure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Valt :: Email Confirmed</title>
+      <link>https://valt.io/backup/success/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://valt.io/backup/success/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Valt :: Hysteria 51</title>
       <link>https://valt.io/promo/51/</link>
       <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
@@ -293,42 +311,6 @@ How do I use it?</description>
       
       <guid>https://valt.io/faq/</guid>
       <description>Frequently Asked Questions Overview What is Valt? Valt is a new approach to password management&amp;mdash;one that is visual and fun&amp;mdash;and gives you the freedom to surf without worry or distraction. We use NSA-approved encryption to securely lock your data behind a truly random master password. But here’s the thing&amp;mdash;your master password isn’t a sequence of characters&amp;mdash;it’s a set of pictures. We leverage your visual memory to keep your sensitive information secure.</description>
-    </item>
-    
-    <item>
-      <title>Valt :: Email Confirmed</title>
-      <link>https://valt.io/backup/dev/failure/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://valt.io/backup/dev/failure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Valt :: Email Confirmed</title>
-      <link>https://valt.io/backup/dev/success/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://valt.io/backup/dev/success/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Valt :: Email Confirmed</title>
-      <link>https://valt.io/backup/failure/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://valt.io/backup/failure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Valt :: Email Confirmed</title>
-      <link>https://valt.io/backup/success/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://valt.io/backup/success/</guid>
-      <description></description>
     </item>
     
   </channel>
