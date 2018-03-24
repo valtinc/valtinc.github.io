@@ -73,6 +73,16 @@
   </url>
   
   <url>
+    <loc>https://valt.io/backup/dev/failure/</loc>
+    <lastmod>2017-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://valt.io/backup/dev/success/</loc>
+    <lastmod>2017-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://valt.io/backup/failure/</loc>
     <lastmod>2017-11-02T00:00:00+00:00</lastmod>
   </url>

@@ -62,7 +62,7 @@
       <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://valt.io/support/sync/</guid>
-      <description>Valt Synchronization Valt Synchronization works by registering a device through email and then authorizing subsequent devices through other trusted sources&amp;mdash;phones, tablets and desktops that have been previously authorized.
+      <description>Valt Synchronization Valt Synchronization works by registering a device through email and then authorizing subsequent devices through trusted sources&amp;mdash;phones, tablets and desktops that you have previously authorized.
 It is important to initiate syncing using the device on which you created your Valt.
  To enable Valt syncing on your iOS or Mac Desktop, select the Enable backup and syncing option in Valt Preferences.
  You will be asked for your email address.</description>
@@ -146,6 +146,24 @@ Now ask yourself, how many online accounts do you have? Is it 20? 30? 50? You mi
       <guid>https://valt.io/promo/broron/</guid>
       <description>Thanks for listening to Bro Ron. Use the link below to download Valt!
     </description>
+    </item>
+    
+    <item>
+      <title>Valt :: Email Confirmed</title>
+      <link>https://valt.io/backup/dev/failure/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://valt.io/backup/dev/failure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Valt :: Email Confirmed</title>
+      <link>https://valt.io/backup/dev/success/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://valt.io/backup/dev/success/</guid>
+      <description></description>
     </item>
     
     <item>

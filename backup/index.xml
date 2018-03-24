@@ -13,6 +13,24 @@
     
     <item>
       <title>Valt :: Email Confirmed</title>
+      <link>https://valt.io/backup/dev/failure/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://valt.io/backup/dev/failure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Valt :: Email Confirmed</title>
+      <link>https://valt.io/backup/dev/success/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://valt.io/backup/dev/success/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Valt :: Email Confirmed</title>
       <link>https://valt.io/backup/failure/</link>
       <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
       
