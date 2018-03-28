@@ -493,12 +493,6 @@ section#contact .form-group {
     margin-bottom: 25px;
 }
 
-footer {
-    background-color: #1e1e1e;
-    padding-top: 0;
-    text-align: center;
-}
-
 
 /*  POSTS */
 
@@ -557,4 +551,35 @@ footer {
     font-size: 20px;
     margin-bottom: 20px;
     margin-top: 20px;
+}
+
+
+/* FOOTER */
+
+footer {
+    background-color: #1e1e1e;
+    padding: 25px 0;
+    text-align: center;
+}
+
+footer span.copyright {
+    text-transform: uppercase;
+    text-transform: none;
+    line-height: 40px;
+    color: #777;
+}
+
+footer ul.quicklinks {
+    margin-bottom: 0;
+    text-transform: uppercase;
+    text-transform: none;
+    line-height: 40px;
+}
+
+footer ul.quicklinks li {
+    padding: 0px 20px 0px 20px;
+}
+
+footer ul.quicklinks li a {
+    color: #777;
 }
