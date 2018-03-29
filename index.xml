@@ -57,13 +57,24 @@
     </item>
     
     <item>
-      <title>Valt Synchronization</title>
+      <title>Backing Up your Valt</title>
+      <link>https://valt.io/support/backup/</link>
+      <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://valt.io/support/backup/</guid>
+      <description>Backuping up your Valt Backup works by storing your encrypted Valt in the Valt cloud. Don&amp;rsquo;t worry, it&amp;rsquo;s not only guarded by your images, but also by your Valt Secret, which is like a booster shot of security.
+Backup allows Valt users with a single device to recover their Valt in case of a lost, stolen or broken device. Users who are syncing can often recover their Valt more easily by re-authorizing the device</description>
+    </item>
+    
+    <item>
+      <title>Syncing your Valt</title>
       <link>https://valt.io/support/sync/</link>
       <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://valt.io/support/sync/</guid>
-      <description>Syncing your Valt Syncing works by storing your encrypted Valt in the Valt Cloud. Don&amp;rsquo;t worry, it&amp;rsquo;s not only guarded by your images, but also by your Valt Secret, which is like a booster shot of security.
-Syncing works by first registering a device through email and then authorizing subsequent devices through trusted sources&amp;mdash;in this case, trusted sources means other phones, tablets and desktops that you have previously authorized.</description>
+      <description>Syncing your Valt Syncing works by securely propagating changes in your local Valt to other authorized clients. Not only are the changes encrypted with your images and your Valt Secret, but the communication is encrypted too.
+Syncing works by first registering a device through email and then authorizing subsequent devices through trusted sources&amp;mdash;in this case, trusted sources means other phones, tablets and desktops that you have already authorized.
+It is important that you initiate syncing on a device where your Valt arealdy exists.</description>
     </item>
     
     <item>
