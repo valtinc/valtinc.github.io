@@ -553,6 +553,33 @@ section#contact .form-group {
     margin-top: 20px;
 }
 
+/* ATTENTION */
+
+.attention {
+    border-left: 10px solid #00BF8F;
+    background-color: #00BF8F77;
+    padding: 10px;
+    margin: 20px 50px 20px 50px;
+    border-radius: 5px;
+    font-weight: bolder;
+    font-size: 105%
+}
+
+/* SUPPORT */
+
+.support {
+    font-family: "CamberRegular";
+    padding: 40px;
+}
+
+.support h1 {
+    margin-bottom: 30px;
+}
+
+.support li {
+    font-weight: bold;
+}
+
 
 /* FOOTER */
 

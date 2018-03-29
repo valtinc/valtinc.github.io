@@ -49,7 +49,7 @@
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header page-scroll">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" style="height: 50px">
-        <h5 style="color: #fff; margin: 0 5px 0 0;">Menu</h5>
+        <h5 style="color: #fff; margin: 0 5px 0 0;"><i class="fas fa-bars fa-2x"></i></h5>
       </button>
       
         <a class="navbar-brand page-scroll" href="https://valt.io/">
@@ -98,19 +98,28 @@
   <!-- /.container-fluid -->
 </nav>
 
+
 		<div class="content">
-		<div id="post-wrapper">
-		<article class="post">
+		<div class="row">
+		<div class="col-md-6 col-md-offset-3 support">
 
 		
 
-<h2 id="valt-synchronization">Valt Synchronization</h2>
+<h1 id="syncing-your-valt">Syncing your Valt</h1>
 
-<p>Valt Synchronization works by registering a device through
-email and then authorizing subsequent devices through trusted sources&mdash;phones, tablets and desktops that you have previously authorized.</p>
+<p>Syncing works by storing your encrypted Valt in the Valt Cloud.  Don&rsquo;t worry, it&rsquo;s not only guarded by your images, but also by your Valt Secret, which is like a booster shot of security.</p>
 
-<p>It is important to initiate syncing using the device on which
-you created your Valt.</p>
+<p>Syncing works by first registering a device through
+email and then authorizing subsequent devices through trusted sources&mdash;in this case, <em>trusted sources</em> means other phones, tablets and desktops that you have previously authorized.</p>
+
+
+
+<blockquote class="attention">
+  
+It is important that you initiate syncing on a device where your Valt arealdy exists.
+
+</blockquote>
+
 
 <ol>
 <li><p>To enable Valt syncing on your iOS or Mac Desktop, select the
@@ -119,7 +128,7 @@ you created your Valt.</p>
 <li><p>You will be asked for your email address.</p>
 
 <p>a.  If this is the first device you are authorizing, an email will
-be sent to that address.  Confirm by clicking on the <em>Confirm email</em> link.</p>
+be sent to that address.  Confirm the email by clicking on the link.</p>
 
 <p>b.  If this is not the first device you are authorizing, then an
 authoriziation request will be sent to all devices you have
@@ -131,40 +140,22 @@ authorized devices.</p></li>
 
 <h3 id="examples">Examples</h3>
 
-<h4 id="register-iphone-and-then-synchronize-with-valt-for-mac">Register iPhone and then synchronize with Valt for Mac</h4>
+<ol>
+<li><p><em>Register Valt on iOS and then synchronize with Valt for Mac</em></p>
 
-<p>Suppose you created your Valt on your iPhone.  You can register this Valt by enabling syncing and backup in the Settings (the gear icon in the upper right corner) and then confirming over email.  Now you can download <a href="https://geo.itunes.apple.com/us/app/valt/id1276031931?pt=118339834&amp;ct=Valt%20Website&amp;mt=12">Valt for Mac</a>.  When launching for the first time, choose to use an existing Valt, which will pompt you for your email address.  Because you already have a Valt registered under this address, Valt will send an authorization request to your iPhone.  Confirming this request on your phone will synchronize your iPhone Valt and your Mac Valt.</p>
+<p>Suppose you created your Valt on your iPhone.  You can register this Valt by enabling syncing and backup in the Settings (the cute gear icon in the upper right corner) and then confirming over email.  Now you can download <a href="https://geo.itunes.apple.com/us/app/valt/id1276031931?pt=118339834&amp;ct=Valt%20Website&amp;mt=12">Valt for Mac</a>.  When launching the Mac app for the first time, choose <em>I have a Valt arleady</em>, which will prompt you for your email address.  Because you already have a Valt registered under this address, Valt will send an authorization request to your iPhone.  Confirming this request on your phone will synchronize your iPhone Valt and your Mac Valt.</p></li>
 
+<li><p><em>Sync a new iOS device</em></p>
 
-
-<div class="downloadIcons parent desktop-only" style="margin: 50px auto">
-	
-		<a href = "https://geo.itunes.apple.com/us/app/valt/id1276031931?pt=118339834&ct=Valt%20Website&mt=12"
-		   style="height: 100%">
-	
-		<img src="/img/downloadMacOS@2x.png" 
-			 style="height: 100%; float: left; padding-right: 5px;">
-	</a>
-</div>
+<p>Suppose you already are syncing your Valt on several devices including an iPhone.  Your sister buys you a new iPad for sibling day.  You immediately <a href="https://itunes.apple.com/app/apple-store/id1275222446?pt=118339834&amp;ct=Valt%20Website&amp;mt=8">download Valt from the App store</a>.  After launching it you select <em>I have a Valt already</em>, enter your email address and then grab your iPhone to approve the authorization request.  Now you can unlock your Valt on your new iPad and enjoy all those passowrds.</p></li>
+</ol>
 
 
-<div id="mobile-icons" class="parent mobile-only" 
-     style="margin-top: 30px; margin-bottom: 15px">
-	
-	
-		<a href = "https://itunes.apple.com/app/apple-store/	id1275222446?pt=118339834&ct=Valt%20Website&mt=8">
-	
-		  <img src="/img/downloadiOS@2x.png" style="width: 195px; height: 60px; align-content: center; padding-right: 0px;">
-		</a>
-	
-</div>
-
-
-
-		</article>		
 		</div>
-		</div>	
-	
+		</div>
+		</div>
+
+		
     
       <!-- Contact Section -->
 <section id="contact" class="responsive-pad">
@@ -182,6 +173,7 @@ authorized devices.</p></li>
     </div>
 
 
+    <div class="row">
     
     <form action="https://valt.us17.list-manage.com/subscribe/post-json?u=d5717b8eb0c70c7767795578f&amp;id=b2fb8a631a" 
           method="GET" id="contactForm" name="mc-embedded-subscribe-form" class="validate" 
@@ -238,7 +230,7 @@ authorized devices.</p></li>
 
     </form>
     </div>
-      
+    </div>
 
 </section>
 
