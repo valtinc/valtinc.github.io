@@ -16,7 +16,7 @@
   
   <meta name="generator" content="Hugo 0.25.1" />
   
-  <title>Syncing your Valt &middot; Valt - Making Passwords Painless</title>
+  <title>Restoring your Valt &middot; Valt - Making Passwords Painless</title>
   
   <!-- Stylesheets -->
   <link href="https://valt.io/css/bootstrap-v3.3.7/bootstrap.min.css" 
@@ -105,74 +105,30 @@
 
 		
 
-<h1 id="syncing-your-valt">Syncing your Valt</h1>
+<h1 id="restoring-your-valt">Restoring your Valt</h1>
 
-<p>Backup and syncing works by storing your encrypted Valt in the Valt cloud.  Don&rsquo;t worry, not only is the Valt cloud safe, but your data is guarded by your images and by your Valt secret, which is like a booster shot of security. If you have multiple devices, syncing securely and efficiently propagates changes in your local Valt to other authorized clients through the Valt cloud.</p>
+<p>You can restore a Valt by either using your Valt secret (this is common when you only have a single device) or by <a href="https://valt.io/support/sync/#sync-examples">reauthorizing a device</a> if you are currently syncing and have access to device that was previously authorized.</p>
 
-
-
-<blockquote class="attention">
-  <p>Backup allows Valt users with a single device to recover their Valt in case of a lost, stolen or broken device.  Users who are syncing can often recover their Valt more easily by <a href="https://valt.io/support/sync/#sync-examples">reauthorizing the device</a>.</p>
-
-</blockquote>
-
-
-<p>To enable backup and syncing, first register and authenticate your device through email.  Make sure to write down your Valt secret on a sheet of paper.  Your Valt secret is composed of 12 words and follows the <a href="https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki">BIP-0039 Standard</a>. You can always find your Valt secret by going to Valt settings and selecting <em>Recovery Code and Valt secret</em>.  Here&rsquo;s what it looks like.</p>
-
-
-<figure class="text-center">
-    
-        <img src="/img/support/valt-secret.png" alt="You Valt secret is 12 words.  You should write these down and store them in a safe spot (like between the second and third towel in your linen closet)." width="40%" />
-    
-    
-</figure>
-
-
-<p>You can now authorize subsequent devices through trusted sources&mdash;phones, tablets and desktops that you have already authorized.</p>
-
-
-
-<blockquote class="attention">
-  
-It is important that you initiate syncing on a device where your Valt already exists.
-
-</blockquote>
-
-
-<hr />
-
-<h3 id="sync-instructions">Instructions</h3>
+<h3 id="restore-instructions-valt-secret">Instructions to restore using Valt secret</h3>
 
 <ol>
-<li><p>To enable Valt syncing and backup on iOS or Mac Desktop, head to Valt settings via the gear icon in the top right and (on iOS) select <em>Syncing</em> and then toggle the <em>Enable backup and syncing</em> option or (on MacOS) check the <em>Enable backup and syncing</em> option.</p></li>
-
-<li><p>You will be asked for your email address.</p>
-
-<p>a.  If this is the first device you are authorizing, an email will
-be sent to that address.  Confirm the email by clicking on the link.</p>
-
-<p>b.  If this is not the first device you are authorizing, then an
-authoriziation request will be sent to all devices you have
-previously authorized.  You must confirm the request on one of your
-authorized devices.</p></li>
+<li>To restore your Valt from backup using your Valt secret, select <em>Restore using my Valt secret</em> on the Valt splash screen (you can also restore a Valt from the <em>Incorrect Image Selection</em> screen).</li>
+<li>Enter your email address to authenticate this device for restoration.</li>
+<li>In your email, confirm by clicking the link.</li>
+<li>Valt will download your encrypted Valt from the Cloud and prompt you to enter your Valt secret.</li>
+<li>After entering your secret, you&rsquo;ll be free to unlock your Valt.</li>
 </ol>
 
 <hr />
 
-<h3 id="sync-examples">Examples</h3>
+<h3 id="restore-examples">Examples</h3>
 
 <ol>
-<li><p><em>Register Valt on iOS and then synchronize with Valt for Mac</em></p>
+<li><p><em>Restore your Valt after mistakenly deleting the App</em>
+Suppose your friend Huma accidently deletes your Valt app.  You download Valt again from the App Store and on the splash screen tap <em>Restore using my Valt secret</em>.  After entering your email and confirming, you grab your Valt secret from underneath your mattress and type in the 12 words.  Then you select your images and your Valt is restored.</p></li>
 
-<p>Suppose you created your Valt on your iPhone.  You can register this Valt by enabling syncing and backup in the Settings (the cute gear icon in the upper right corner) and then confirming over email.  Now you can download <a href="https://geo.itunes.apple.com/us/app/valt/id1276031931?pt=118339834&amp;ct=Valt%20Website&amp;mt=12">Valt for Mac</a>.  When launching the Mac app for the first time, choose <em>I have a Valt arleady</em>, which will prompt you for your email address.  Because you already have a Valt registered under this address, Valt will send an authorization request to your iPhone.  Confirming this request on your phone will synchronize your iPhone Valt and your Mac Valt.</p></li>
-
-<li><p><em>Sync a new iOS device</em></p>
-
-<p>Suppose you already are syncing your Valt on at least one other device (say it&rsquo;s an iPhone).  Your sister buys you a new iPad for sibling day.  You immediately <a href="https://itunes.apple.com/app/apple-store/id1275222446?pt=118339834&amp;ct=Valt%20Website&amp;mt=8">download Valt from the App store</a>.  After launching it you select <em>I have a Valt already</em>, enter your email address and then grab your iPhone to approve the authorization request.  Now you can unlock your Valt on your new iPad and enjoy all those passowrds.</p></li>
-
-<li><p><em>Sync a device that already has Valt installed</em></p>
-
-<p>Suppose you have backup and syncing enabled on your iPhone.  Your friend gives you her new iPhone X and it already has Valt installed.  However, you want to sync your Valt with this phone.  The easiest thing to do is delete Valt from the iPhone X, reinstall and folllow the instructions for <em>Sync a new iOS device</em> above.</p></li>
+<li><p><em>Restore your Valt when you don&rsquo;t have easy access to another device</em>
+Suppose you&rsquo;re syncing your Valt on your iPhone and your desktop but your desktop is away at the computer shop on repair. Your iPhone Valt gets corrupted because you spilled some beer on it.  Normally you would just <a href="https://valt.io/support/sync/#sync-examples">reauthorize your phone</a> because you&rsquo;re syncing, but unfortunately you don&rsquo;t easy access to your Mac.  Instead, you delete and re-install the app and follow the instructions for <em>restoring your Valt after mistakenly deleting the App</em> above.</p></li>
 </ol>
 
 

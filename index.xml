@@ -57,13 +57,13 @@
     </item>
     
     <item>
-      <title>Backing up your Valt</title>
-      <link>https://valt.io/support/backup/</link>
+      <title>Restoring your Valt</title>
+      <link>https://valt.io/support/restore/</link>
       <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://valt.io/support/backup/</guid>
-      <description>Backing up your Valt Backup works by storing your encrypted Valt in the Valt cloud. Don&amp;rsquo;t worry, it&amp;rsquo;s not only guarded by your images, but also by your Valt Secret, which is like a booster shot of security.
-Backup allows Valt users with a single device to recover their Valt in case of a lost, stolen or broken device. Users who are syncing can often recover their Valt more easily by re-authorizing the device</description>
+      <guid>https://valt.io/support/restore/</guid>
+      <description>Restoring your Valt You can restore a Valt by either using your Valt secret (this is common when you only have a single device) or by reauthorizing a device if you are currently syncing and have access to device that was previously authorized.
+Instructions to restore using Valt secret  To restore your Valt from backup using your Valt secret, select Restore using my Valt secret on the Valt splash screen (you can also restore a Valt from the Incorrect Image Selection screen).</description>
     </item>
     
     <item>
@@ -72,9 +72,7 @@ Backup allows Valt users with a single device to recover their Valt in case of a
       <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://valt.io/support/sync/</guid>
-      <description>Syncing your Valt Syncing works by securely propagating changes in your local Valt to other authorized clients. Not only are the changes encrypted with your images and your Valt Secret, but the communication is encrypted too.
-Syncing works by first registering a device through email and then authorizing subsequent devices through trusted sources&amp;mdash;in this case, trusted sources means other phones, tablets and desktops that you have already authorized.
-It is important that you initiate syncing on a device where your Valt arealdy exists.</description>
+      <description>Syncing your Valt Backup and syncing works by storing your encrypted Valt in the Valt cloud. Don&amp;rsquo;t worry, not only is the Valt cloud safe, but your data is guarded by your images and by your Valt secret, which is like a booster shot of security. If you have multiple devices, syncing securely and efficiently propagates changes in your local Valt to other authorized clients through the Valt cloud.</description>
     </item>
     
     <item>
