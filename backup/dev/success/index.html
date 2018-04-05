@@ -99,12 +99,15 @@
 </nav>
 
 
-        <script>
-        window.onload = function() {
-            window.location = 'valt-dev://app.com/?screen=xxxxx';
-        }
-        </script>
-    
+  <script>
+            $(document).ready(function() {
+              var ua = window.navigator.userAgent || navigator.vendor || window.opera;
+              var mobile = !!ua.match(/iPad|iPhone|iPod|windows phone|android/i)
+              if (mobile) {
+                    window.location = 'valt-dev://app.com/';
+              }
+            }
+        </script>    
         <div class="center-block text-center" 
              style="padding: 30px 0px 100px 0px; max-width: 300px;">
             <div style="width: 100px;" class="img-centered">
