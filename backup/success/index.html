@@ -100,10 +100,14 @@
 
 
         <script>
-        window.onload = function() {
-            window.location = 'valt://app.com/?screen=xxxxx';
-        }
-        </script>
+            window.onload = function() {
+              var ua = window.navigator.userAgent || navigator.vendor || window.opera;
+              var mobile = !!ua.match(/iPad|iPhone|iPod|windows phone|android/i)
+              if (mobile) {
+                    window.location = 'valt://app.com/';
+              }
+            }
+        </script>    
     
         <div class="center-block text-center" 
              style="padding: 30px 0px 100px 0px; max-width: 300px;">
