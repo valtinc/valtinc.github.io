@@ -99,10 +99,11 @@
 </nav>
 
 
-  <script>
-            $(document).ready(function() {
+      <script>
+            window.onload = function() {
               var ua = window.navigator.userAgent || navigator.vendor || window.opera;
               var mobile = !!ua.match(/iPad|iPhone|iPod|windows phone|android/i)
+              alert(mobile);
               if (mobile) {
                     window.location = 'valt-dev://app.com/';
               }
