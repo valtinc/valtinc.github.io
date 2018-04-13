@@ -57,6 +57,15 @@
     </item>
     
     <item>
+      <title>Backing up and Syncing your Valt</title>
+      <link>https://valt.io/support/sync/</link>
+      <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://valt.io/support/sync/</guid>
+      <description>Backing up and Syncing your Valt Backup and syncing works by storing your encrypted Valt in the Valt cloud. Don&amp;rsquo;t worry, not only is the Valt cloud safe, but your data is guarded by your images and by your Valt secret, which is like a booster shot of security. If you have multiple devices, syncing securely and efficiently propagates changes in your local Valt to other authorized clients through the Valt cloud.</description>
+    </item>
+    
+    <item>
       <title>Restoring your Valt</title>
       <link>https://valt.io/support/restore/</link>
       <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
@@ -64,15 +73,6 @@
       <guid>https://valt.io/support/restore/</guid>
       <description>Restoring your Valt You can restore a Valt by either using your Valt secret (this is common when you only have a single device) or by reauthorizing a device if you are currently syncing and have access to device that was previously authorized.
 Instructions to restore using Valt secret  To restore your Valt from backup using your Valt secret, select Restore using my Valt secret on the Valt splash screen (you can also restore a Valt from the Incorrect Image Selection screen).</description>
-    </item>
-    
-    <item>
-      <title>Syncing your Valt</title>
-      <link>https://valt.io/support/sync/</link>
-      <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://valt.io/support/sync/</guid>
-      <description>Syncing your Valt Backup and syncing works by storing your encrypted Valt in the Valt cloud. Don&amp;rsquo;t worry, not only is the Valt cloud safe, but your data is guarded by your images and by your Valt secret, which is like a booster shot of security. If you have multiple devices, syncing securely and efficiently propagates changes in your local Valt to other authorized clients through the Valt cloud.</description>
     </item>
     
     <item>

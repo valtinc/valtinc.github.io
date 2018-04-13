@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Supports on Valt - Making Passwords Painless</title>
+    <title>Support on Valt - Making Passwords Painless</title>
     <link>https://valt.io/support/</link>
-    <description>Recent content in Supports on Valt - Making Passwords Painless</description>
+    <description>Recent content in Support on Valt - Making Passwords Painless</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://valt.io/support/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Backing up and Syncing your Valt</title>
+      <link>https://valt.io/support/sync/</link>
+      <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://valt.io/support/sync/</guid>
+      <description>Backing up and Syncing your Valt Backup and syncing works by storing your encrypted Valt in the Valt cloud. Don&amp;rsquo;t worry, not only is the Valt cloud safe, but your data is guarded by your images and by your Valt secret, which is like a booster shot of security. If you have multiple devices, syncing securely and efficiently propagates changes in your local Valt to other authorized clients through the Valt cloud.</description>
+    </item>
     
     <item>
       <title>Restoring your Valt</title>
@@ -19,15 +28,6 @@
       <guid>https://valt.io/support/restore/</guid>
       <description>Restoring your Valt You can restore a Valt by either using your Valt secret (this is common when you only have a single device) or by reauthorizing a device if you are currently syncing and have access to device that was previously authorized.
 Instructions to restore using Valt secret  To restore your Valt from backup using your Valt secret, select Restore using my Valt secret on the Valt splash screen (you can also restore a Valt from the Incorrect Image Selection screen).</description>
-    </item>
-    
-    <item>
-      <title>Syncing your Valt</title>
-      <link>https://valt.io/support/sync/</link>
-      <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://valt.io/support/sync/</guid>
-      <description>Syncing your Valt Backup and syncing works by storing your encrypted Valt in the Valt cloud. Don&amp;rsquo;t worry, not only is the Valt cloud safe, but your data is guarded by your images and by your Valt secret, which is like a booster shot of security. If you have multiple devices, syncing securely and efficiently propagates changes in your local Valt to other authorized clients through the Valt cloud.</description>
     </item>
     
   </channel>
