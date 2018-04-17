@@ -12,14 +12,12 @@ $('.navbar-collapse ul li a').click(function() {
 
 // Display the form status
 var displayMailChimpStatus = function (data) {
-    console.log(data);
+    //console.log(data);
 
-    $('form[id=contactForm] #success').hide();
     $('form[id=contactForm] #error').hide();
   
-
     if (data.result == "success") {
-      $('form[id=contactForm] #success').show();
+        $('#confirm-contact-success').modal();
     } else {
       $('form[id=contactForm] #error').show();
     }

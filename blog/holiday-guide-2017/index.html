@@ -174,6 +174,32 @@
     
       <!-- Contact Section -->
 <section id="contact" class="responsive-pad">
+ 
+    
+    <div class="modal fade" id="confirm-contact-success" 
+         tabindex="-1" role="dialog" 
+         aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+            
+                <div class="modal-body">
+                  <button type="button" class="close" 
+                          data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                  </button>
+                  <div style="width: 100px;" class="img-centered">
+                    <img src = "/img/iconConfirmed@2x.png"  
+                         class="img-responsive img-centered">
+                  </div>
+                  </br>
+                  <p class="text-center">
+                    You've successfully signed up for Valt news.  We'll send you an email soon!
+                  </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center" style="white-space: nowrap;">
@@ -189,7 +215,9 @@
 
 
     <div class="row">
+
     
+
     <form action="https://valt.us17.list-manage.com/subscribe/post-json?u=d5717b8eb0c70c7767795578f&amp;id=b2fb8a631a" 
           method="GET" id="contactForm" name="mc-embedded-subscribe-form" class="validate" 
           target="_blank">
@@ -231,16 +259,12 @@
           <button id="submit" class="btn btn-xl" 
                   style="height: 50px; background-color: #14b57c; color: #fff; opacity: 1; font-size: 15px;">Sign me up</button>
     
-    <div class="text-success" id="success" style="display:none; text-align: center">
-          
-            Thank you for subscribing to Valt.  A welcome email will arrive from us shortly.
-          
-        </div>
         <div class="text-danger" id="error" style="display:none; text-align: center">
           
             The message could not be sent.  Please contact us at feedback@valt.io for help.
           
         </div><br />
+
     </div>
 
     </form>
