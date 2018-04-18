@@ -180,23 +180,25 @@
     
     <div class="modal fade" id="confirm-contact-success" 
          tabindex="-1" role="dialog" 
+         aria-labelledby="confirmContactSuccessModal"
          aria-hidden="true">
-        <div class="modal-dialog">
+        <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content">
-            
                 <div class="modal-body">
-                  <button type="button" class="close" 
-                          data-dismiss="modal" aria-label="Close">
-                  <span aria-hidden="true">&times;</span>
-                  </button>
-                  <div style="width: 100px;" class="img-centered">
+                  <div style="width: 100px;" class="img-centered" 
+                       id="confirmContactSuccessModal">
                     <img src = "/img/iconConfirmed@2x.png"  
                          class="img-responsive img-centered">
                   </div>
-                  </br>
+                  <br>
                   <p class="text-center">
                     You've successfully signed up for Valt news.  We'll send you an email soon!
                   </p>
+                </div>
+
+                <div class="modal-footer">
+                  <button type="button" data-dismiss="modal"
+                          class="btn btn-primary center-block">Got it!</button>
                 </div>
             </div>
         </div>
