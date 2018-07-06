@@ -6,10 +6,19 @@
     <description>Recent content in Blog on Valt - Making Passwords Painless</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://valt.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dual-Coding Theory</title>
+      <link>https://valt.io/blog/dual-coding/</link>
+      <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://valt.io/blog/dual-coding/</guid>
+      <description>Dual-Coding Theory 100 years ago in a galaxy not so far away, humans discovered that remembering images is easier and faster than remembering text. Despite this fact, billions of online accounts are guarded by strings of letters. To make matters worse, we are constantly advised to choose unique, long, and random character strings that are impossible to remember, one for each of our online accounts. Twenty years ago, researchers showed that more than 27% of people forget their passwords regularly and more than 81% of people forget one or more of their online passwords at least once.</description>
+    </item>
     
     <item>
       <title>Valt Holiday Guide to Security</title>
@@ -27,7 +36,7 @@ While now is a time to celebrate with loved ones, it can also be party season fo
       <pubDate>Sat, 18 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://valt.io/blog/memorable/</guid>
-      <description>What Makes An Image Memorable?  Many believe memorability is subjective – i.e. the same Facebook pictures will stand out for some but fade away for others. Yet decades of research have proven this false. The ability of an image to stick with someone over time is actually a function of its subject(s) and composition.
+      <description>What Makes An Image Memorable?   Many believe memorability is subjective – i.e. the same Facebook pictures will stand out for some but fade away for others. Yet decades of research have proven this false. The ability of an image to stick with someone over time is actually a function of its subject(s) and composition.
 Studies show we remember images in proportion to how distinct they are. Strange, counterintuitive pictures will make an impact—e.</description>
     </item>
     
@@ -37,7 +46,7 @@ Studies show we remember images in proportion to how distinct they are. Strange,
       <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://valt.io/blog/introducing-valt/</guid>
-      <description>Introducing Valt  You shop online, you pay your taxes online, you order food online and you talk to your friends online. Let’s face it, the details of your life are stored online.
+      <description>Introducing Valt   You shop online, you pay your taxes online, you order food online and you talk to your friends online. Let’s face it, the details of your life are stored online.
 Now ask yourself, how many online accounts do you have? Is it 20? 30? 50? You might be surprised, but on average people have almost 140 accounts online and by 2020 it will exceed 200. That’s a boatload of usernames and passwords.</description>
     </item>
     
@@ -47,9 +56,9 @@ Now ask yourself, how many online accounts do you have? Is it 20? 30? 50? You mi
       <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://valt.io/blog/recognition/</guid>
-      <description>Recognition Memory  Take a quick look at the six images below.
- Now go back and imagine a single word description for each one. Really, do it. Let me guess, Dancer, Wedding, Sunflower, Owls, Camera, Street. Okay, five out of six ain&amp;rsquo;t bad.
-At Valt, we know that humans are extraordinarily good at recognizing images they’ve seen before. In fact, this is one reason Valt is so secure. We generate a random text-based password for you and then translate that password into a set of images.</description>
+      <description>Recognition Memory   Take a quick look at the six images below.
+  Now go back and imagine a single word description for each one. Really, do it. Let me guess, Dancer, Wedding, Sunflower, Owls, Camera, Street. Okay, five out of six ain&amp;rsquo;t bad.
+At Valt, we know that humans are extraordinarily good at recognizing images they’ve seen before. In fact, this is one reason Valt is so secure.</description>
     </item>
     
   </channel>
