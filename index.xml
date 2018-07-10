@@ -6,10 +6,19 @@
     <description>Recent content on Valt - Making Passwords Painless</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://valt.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Contextual Gestures Re-innovated</title>
+      <link>https://valt.io/blog/contextual-swiping/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://valt.io/blog/contextual-swiping/</guid>
+      <description>Contextual Gestures Re-innovated   Starting now, Valt passwords pays attention to your gestures. From your list of accounts on your iOS device, swipe right or left on any one of them to reveal action buttons for copy username, view password, and copy password. If you’re in a hurry, swipe swiftly to the right, and we’ll copy your username straight away. Swipe deliberately to the left, and we’ll copy your password with no questions asked.</description>
+    </item>
     
     <item>
       <title>Dual-Coding Theory</title>
