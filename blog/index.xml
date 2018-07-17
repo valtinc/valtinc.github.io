@@ -6,10 +6,20 @@
     <description>Recent content in Blog on Valt - Making Passwords Painless</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://valt.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Grid Scramble</title>
+      <link>https://valt.io/blog/grid-scramble/</link>
+      <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://valt.io/blog/grid-scramble/</guid>
+      <description>Grid Scramble   As a child practicing my etudes, my teacher used to place two bowls on the piano: one filled with dry rice, the other empty. “Each time you play it correctly, put one grain in the empty bowl; for each mistake, take two grains out.”
+Brains are powerful, but frequent rehearsal and repetition are essential ingredients for any lasting memory. The Forgot Password button chortles every time you need to log in to a website you don&amp;rsquo;t visit often.</description>
+    </item>
     
     <item>
       <title>Contextual Gestures Re-innovated</title>
