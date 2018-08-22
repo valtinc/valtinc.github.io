@@ -47,6 +47,8 @@
     <!-- Navigation -->
 <nav class="navbar navbar-default navbar-fixed-top navbar-shrink">
   <div class="container">
+    <div class="row">
+        <div class="col-xs-10 col-xs-offset-1">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header page-scroll">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" style="height: 50px">
@@ -71,12 +73,10 @@
 	        </a>
         </li>
   
-        <li>
-          <a href="https://valt.io//company">
-	        Company
-	        </a>
-        </li>
         
+
+        
+
         <li>
           <a href="https://valt.io//support">
 	        Support
@@ -85,13 +85,15 @@
         
         <li>
             <p class="navbar-btn">
-                <a href="#" class="btn btn-default valt-btn">Get Valt</a>
+                <a href="#downloads" class="btn btn-default valt-btn page-scroll">Get Valt</a>
             </p>
           
         </li>
       
       </ul>
     </div>
+</div>    
+  </div>    
     <!-- /.navbar-collapse -->
   </div>
   <!-- /.container-fluid -->
@@ -109,12 +111,13 @@
                  srcset="/img/imageStack.png 1x, /img/imageStack@2x.png 2x">
         </div>
         <div class="col-sm-4 vcenter">
-            <span class="align-middle text-center">
-            <h4>Pictures for a Master Password</h4>
+            
+            <h4 class="align-middle text-center">Pictures for a Master Password</h4>
+            <p class="align-middle text-center">
             This is what separates Valt from other password managers. 
             Valt secures your passwords with a random master password
             represented by a series of images.
-            </span>
+            </p>
         </div>
         <div class="col-sm-2"></div>
     </div>
@@ -124,101 +127,134 @@
     
 
 <section id="works-tabs" class="img-responsive">
-<div class="container">
+<div class="container" style="margin-bottom: 75px;">
 <div class="row">
-<div class="col-xs-8 col-xs-offset-2">
- 
- <ul class="nav nav-tabs nav-justified" role="tablist">
+<div class="col-sm-8 col-sm-offset-2">
+    <div class="desktop-only">
     
-    <li role="presentation" class="active">
-        <a href="#works-capture"
-           aria-controls="works-capture" role="tab" data-toggle="tab">
-               <img src="/img/iconCapture@2x.png"
-                    style = "max-width: 100px;"
-                    srcset="/img/iconCapture.png 1x, /img/iconCapture@2x.png 2x"
-                    class="center-block img-responsive" id="img-capture">
-           <h4 style="padding-left: 10px; padding-right: 10px;">          
-           Capture passwords as you browse
-           </h4>
-        </a>
-    </li>
+    <ul class="nav nav-tabs nav-justified" role="tablist">
+        
+        <li role="presentation" class="active" id="li-capture">
+            <a href="#works-capture"
+            aria-controls="works-capture" role="tab" data-toggle="tab">
+                <img src="/img/iconCapture@2x.png"
+                        style = "max-width: 100px;"
+                        srcset="/img/iconCapture.png 1x, /img/iconCapture@2x.png 2x"
+                        class="center-block img-responsive" id="img-capture">
+            <p style="max-width: 150px;" class="center-block">
+            Capture passwords as you browse
+            </p>
+            </a>
+        </li>
 
-    <li role="presentation">
-        <a href="#works-need" 
-           aria-controls="works-need" role="tab" data-toggle="tab">
-            <img src="/img/iconNeedInactive@2x.png"
-                 srcset="/img/iconNeedInactive.png 1x, /img/iconNeedInactive@2x.png 2x"
-                 style="max-width: 100px;"
-                 class="img-responsive center-block" id="img-need">
-               <h4 style="padding-left: 10px; padding-right: 10px;">
-               Passwords when you need them
-               </h4>               
-        </a>
-    </li>
+        <li role="presentation" id="li-need">
+            <a href="#works-need" 
+            aria-controls="works-need" role="tab" data-toggle="tab">
+                <img src="/img/iconNeedInactive@2x.png"
+                    srcset="/img/iconNeedInactive.png 1x, /img/iconNeedInactive@2x.png 2x"
+                    style="max-width: 100px;"
+                    class="img-responsive center-block" id="img-need">
+                <p style="max-width: 150px;" class="center-block">
+                Passwords when you need them   
+                </p>               
+            </a>
+        </li>
 
-    <li role="presentation">
-        <a href="#works-sync" 
-           aria-controls="works-sync" role="tab" data-toggle="tab">
-          <img src="/img/iconSyncInactive@2x.png"
-               srcset="/img/iconSyncInactive.png 1x, /img/iconSyncInactive@2x.png 2x"
-               class="img-responsive center-block" id="img-sync"
-               style="max-width: 100px;">
-               <h4 style="padding-left: 10px; padding-right: 10px;"> 
-               Sync your devices with Valt Premium
-               </h4>               
-        </a>
-    </li>
-</ul>
+        <li role="presentation" id="li-sync">
+            <a href="#works-sync" 
+            aria-controls="works-sync" role="tab" data-toggle="tab">
+            <img src="/img/iconSyncInactive@2x.png"
+                srcset="/img/iconSyncInactive.png 1x, /img/iconSyncInactive@2x.png 2x"
+                class="img-responsive center-block" id="img-sync"
+                style="max-width: 100px;">
+                <p style="max-width: 150px;" class="center-block">
+                Sync your devices with Valt Premium
+                </p>               
+            </a>
+        </li>
+    </ul>
 
-  
-  <div class="tab-content">
+    
+    <div class="tab-content">
 
-    <div role="tabpanel" class="tab-pane active" id="works-capture">
-        <h4 class="text-center tab-content-text">
-        Desktop browser extensions fill your Valt with all your existing
-        passwords &mdash; just go about your normal browsing.
-        </h4>
-        <img class="img-responsive center-block" src="/img/worksCapture@2x.jpg"
-             srcset="/img/worksCapture.jpg 1x, /img/worksCapture@2x.jpg 2x"
-             style="margin-top: 50px;">
-    </div>
-
-    <div role="tabpanel" class="tab-pane" id="works-need">
-        <h4 class="text-center" style="padding-left: 50px; padding-right: 50px;">
-        Once a password is in your Valt it will be used each time you need it.        
-        </h4>    
-        <img class="img-responsive center-block" src="/img/worksNeed@2x.jpg"
-             srcset="/img/worksNeed.jpg 1x, /img/worksNeed@2x.jpg 2x"
-             style="margin-top: 50px;">
+        <div role="tabpanel" class="tab-pane active" id="works-capture">
+            <p class="text-center tab-content-text center-block" style="max-width: 375px;">
+            Desktop browser extensions fill your Valt with all your existing
+            passwords &mdash; just go about your normal browsing.
+            </p>
+            <img class="img-responsive center-block" src="/img/worksCapture@2x.jpg"
+                srcset="/img/worksCapture.jpg 1x, /img/worksCapture@2x.jpg 2x"
+                style="margin-top: 15px;">
         </div>
 
-    <div role="tabpanel" class="tab-pane" id="works-sync">
-        <h4 class="text-center" style="padding-left: 50px; padding-right: 50px;">
-        Use Valt on your Mac, iPhone and iPad together to always have access to your
-        passwords; whether you're at home, in the office or on the go.  Get a free 30 day trial.
-        Less than $2 / month after that.
-        </h4>                
-        <img class="img-responsive center-block" src="/img/worksSync@2x.jpg"
-             srcset="/img/worksSync.jpg 1x, /img/worksSync@2x.jpg 2x"
-             style="margin-top: 50px;">
+        <div role="tabpanel" class="tab-pane" id="works-need">
+            <p class="text-center tab-content-text center-block" style="max-width: 350px;">
+            Once a password is in your Valt it will automatically be used each time you need it.        
+            </p>    
+            <img class="img-responsive center-block" src="/img/worksNeed@2x.jpg"
+                srcset="/img/worksNeed.jpg 1x, /img/worksNeed@2x.jpg 2x"
+                style="margin-top: 15px;">
+            </div>
+
+        <div role="tabpanel" class="tab-pane" id="works-sync">
+            <p class="text-center tab-content-text" style="padding-left: 30px; padding-right: 30px;">
+            Use Valt on your Mac, iPhone and iPad together to always have access to your
+            passwords; whether you're at home, in the office or on the go.  Get a free 30 day trial.
+            Less than $2 / month after that.
+            </p>                
+            <img class="img-responsive center-block" src="/img/worksSync@2x.jpg"
+                srcset="/img/worksSync.jpg 1x, /img/worksSync@2x.jpg 2x"
+                style="margin-top: 25px;">
+        </div>
+
+    </div>
     </div>
 
-  </div>
+    <div class="mobile-only">
+        <div class="col-sm-12">
+                    <p class="text-center tab-content-text">
+                    Desktop browser extensions fill your Valt with all your existing
+                    passwords &mdash; just go about your normal browsing.
+                    </p>
+                    <img class="img-responsive center-block" src="/img/worksCapture@2x.jpg"
+                        srcset="/img/worksCapture.jpg 1x, /img/worksCapture@2x.jpg 2x"
+                        style="margin-top: 15px;">
+        
+        </div>    
+        <hr>
+        <div class="col-sm-12">
+                    <p class="text-center">
+                    Once a password is in your Valt it will automatically be used each time you need it.        
+                    </p>    
+                    <img class="img-responsive center-block" src="/img/worksNeed@2x.jpg"
+                        srcset="/img/worksNeed.jpg 1x, /img/worksNeed@2x.jpg 2x"
+                        style="margin-top: 15px;">
+        </div>
+        <hr>
+        <div class="col-sm-12">
+                    <p class="text-center">
+                    Use Valt on your Mac, iPhone and iPad together to always have access to your
+                    passwords; whether you're at home, in the office or on the go.  Get a free 30 day trial.
+                    Less than $2 / month after that.
+                    </p>                
+                    <img class="img-responsive center-block" src="/img/worksSync@2x.jpg"
+                        srcset="/img/worksSync.jpg 1x, /img/worksSync@2x.jpg 2x"
+                        style="margin-top: 15px;">
+        </div>
+        
+    </div>
 </div>
 </div>
-    
 </div>
   
 
 </section>
 
     <section id="learnmore">
-<div class="container">
+<div class="container" style="margin-bottom: 75px;">
 <div class="row">
-<div class="col-xm-8 col-xm-offset-2 col-sm-8 col-sm-offset-2">
-        
+<div class="col-xm-8 col-xm-offset-2 col-sm-8 col-sm-offset-2">        
         <h3>Learn more about how Valt works</h3>
-
         <div class="media">
             <div class="media-left">
                 <img src="/img/blogThumbIntroducing@2x.jpg" 
@@ -252,8 +288,8 @@
                 </p>
                 <a href = "/blog/recognition/">Read more</a>
             </div>
-        <hr>
         </div>
+        <hr>
     
         <div class="media">
             <div class="media-left">
@@ -269,7 +305,6 @@
                 </p>
                 <a href = "/blog/memorable/">Read more</a>
             </div>
-        <hr>
         </div>
 
 </div>
@@ -290,14 +325,16 @@
     </div>
     <div class="row">
         <div class="col-sm-6">
+            <a href = "https://itunes.apple.com/app/apple-store/id1275222446?pt=118339834&ct=Valt%20Website&mt=8">
             <img class="download-left"
                  src="/img/downloadiOS@2x.png" 
-                 srcset="/img/downloadiOS.png 1x, /img/downloadiOS@2x.png 2x">
+                 srcset="/img/downloadiOS.png 1x, /img/downloadiOS@2x.png 2x"></a>
         </div>
         <div class="col-sm-6">
+            <a href = "https://geo.itunes.apple.com/us/app/valt/id1276031931?pt=118339834&ct=Valt%20Website&mt=12">
             <img class="download-right"
                  src="/img/downloadMacOS@2x.png" 
-                 srcset="/img/downloadMacOS.png 1x, /img/downloadMacOS@2x.png 2x">
+                 srcset="/img/downloadMacOS.png 1x, /img/downloadMacOS@2x.png 2x"></a>
         </div>
     </div>
   </div>

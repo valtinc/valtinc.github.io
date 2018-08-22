@@ -1,4 +1,5 @@
 // Smooth scrolling via animate()
+/*
 $(document).ready(function(){
   $("a").on('click', function(event) {
     if (this.hash && window.location.pathname == "/") {
@@ -12,6 +13,7 @@ $(document).ready(function(){
     }
   });
 });
+*/
 
 // Navigation change on scroll
 $(document).ready(function(){
