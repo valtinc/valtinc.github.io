@@ -269,6 +269,7 @@ h6 {
     vertical-align: middle;
     float: none;
  }
+
 /** NAVBAR **/
 
 
@@ -461,6 +462,12 @@ section h3.section-subheading {
     }
 }
 
+/** STACKS **/
+
+section#stack .row:before { 
+    content: reset;
+}
+
 section#stack {
     background-color: rgb(244,244,244);
     padding-top: 80px;
@@ -629,6 +636,51 @@ section#learnmore h3 {
     max-width: 100px;
 }
 
+/* COMPANY DESCRIPTION */
+
+section#company-description {
+    background-color: #f7f7f7;
+    margin-top: 20px;
+    padding-top: 70px;
+    margin-bottom: 0px;
+    padding-bottom: 20px;
+}
+
+section#company-description h4 {
+    font-weight: 700;
+}
+
+/* TEAM */
+
+section#team {
+    margin-top: 0px;
+    padding-top: 30px;
+    margin-bottom: 0px;
+    padding-bottom: 60px;
+}
+
+section#team .person {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+section#team p {
+    font-size: 12px;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+
+section#team .name {
+    font-weight: 800;
+}
+
+section#team .mugshot {
+    max-width: 100px;
+}
+
+section#team .linkedin {
+    max-width: 15px;
+}
 
 /*  POSTS */
 
