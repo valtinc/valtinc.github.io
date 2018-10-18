@@ -6,10 +6,72 @@
     <description>Recent content on Valt - Making Passwords Painless</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://valt.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Contact us</title>
+      <link>https://valt.io/support/contact/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://valt.io/support/contact/</guid>
+      <description>Email Write to support@valt.io for personalized help from the very people who built the Valt app from the ground up. Email feedback@valt.io to help us make our products as excellent as they can be!
+App Store We read every review on the App Store. If you write to us on either the Mac App Store or the iOS App Store, we&amp;rsquo;ll see it and reply if needed. Plus, your reviews help out everyone: others downloading our app deserve your honest opinion so that they can make educated decisions, and Valt grows faster when more people endorse our work.</description>
+    </item>
+    
+    <item>
+      <title>Browser extension</title>
+      <link>https://valt.io/support/free-features/browser-extension/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://valt.io/support/free-features/browser-extension/</guid>
+      <description>Enable the extension Safari  Verify that you have installed the Mac app. Open Safari. Select Safari → Preferences from the menus on the upper left.  Within the popup, select Extensions from the menu bar.  In the left hand pane, find Valt and click the checkbox to toggle the extension on or off.
+ When enabled, the Valt icon appears just left of the search bar in the browser window.</description>
+    </item>
+    
+    <item>
+      <title>Backup and syncing</title>
+      <link>https://valt.io/support/valt-premium/backup-and-sync/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://valt.io/support/valt-premium/backup-and-sync/</guid>
+      <description>What are backups? Having a backup means that should anything happen to your device, you can recover all of your data from the Valt Cloud.
+A backup is an encrypted copy of your data held in a separate, safe location. When you enable backup and syncing, we package up your passwords into an encrypted block that can only be decrypted with your 12 word Valt Secret, and send them off to the Valt Cloud.</description>
+    </item>
+    
+    <item>
+      <title>Installing Valt</title>
+      <link>https://valt.io/support/getting-started/install/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://valt.io/support/getting-started/install/</guid>
+      <description>iOS App We support iPhones, iPads, and iPod touches running iOS &amp;gt;10.0.
+ Visit Valt&amp;rsquo;s App Store page on your iOS device. Select GET, and enter your Apple ID password.  Mac App We support all Apple computers running macOS &amp;gt;12.2 (all versions on or after Sierra).
+ Visit Valt&amp;rsquo;s App Store page on your computer. Select GET, and enter your Apple ID password.  Safari Browser Extension The Safari Browser Extension is installed automatically when you download the macOS app.</description>
+    </item>
+    
+    <item>
+      <title>Managing your subscription</title>
+      <link>https://valt.io/support/valt-premium/manage-subscription/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://valt.io/support/valt-premium/manage-subscription/</guid>
+      <description>Subscribing to Valt Premium  Open Valt on any device. Select the gear icon in the top right corner to open settings.  If you’re on iOS, select Account. Mac users go to the next step.  Select Purchase Subscription.
+ If you haven&amp;rsquo;t provided one, Valt will ask for an email.
+ Select how often you want your subscription to renew. Your first 30 days are free no matter your choice.</description>
+    </item>
+    
+    <item>
+      <title>Recovery</title>
+      <link>https://valt.io/support/recovery/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://valt.io/support/recovery/</guid>
+      <description>Forgotten images Use your recovery code to unlock your Valt. We provided you with a recovery code for safe keeping when you first learned your images. It has the form ABC-DEF-GHI. If you do not have your recovery code, you may have to reset your Valt.
+ Open Valt. Select the first aid kit on the bottom left.  On iOS, swipe left until you see “I forgot my images”.</description>
+    </item>
     
     <item>
       <title>Memory Boost</title>
@@ -81,25 +143,6 @@
       
       <guid>https://valt.io/promo/decade/</guid>
       <description>     </description>
-    </item>
-    
-    <item>
-      <title>Backing up and Syncing your Valt</title>
-      <link>https://valt.io/support/sync/</link>
-      <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://valt.io/support/sync/</guid>
-      <description>Backing up and Syncing your Valt Backup and syncing works by storing your encrypted Valt in the Valt cloud. Don&amp;rsquo;t worry, not only is the Valt cloud safe, but your data is guarded by your images and by your Valt secret, which is like a booster shot of security. If you have multiple devices, syncing securely and efficiently propagates changes in your local Valt to other authorized clients through the Valt cloud.</description>
-    </item>
-    
-    <item>
-      <title>Restoring your Valt</title>
-      <link>https://valt.io/support/restore/</link>
-      <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://valt.io/support/restore/</guid>
-      <description>Restoring your Valt You can restore a Valt by either using your Valt secret (this is common when you only have a single device) or by reauthorizing a device if you are currently syncing and have access to device that was previously authorized.
-Instructions to restore using Valt secret  To restore your Valt from backup using your Valt secret, select Restore using my Valt secret on the Valt splash screen (you can also restore a Valt from the Incorrect Image Selection screen).</description>
     </item>
     
     <item>

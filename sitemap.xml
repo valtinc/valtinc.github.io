@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://valt.io/support/contact/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://valt.io/support/free-features/browser-extension/</loc>
+    <lastmod>2018-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://valt.io/support/valt-premium/backup-and-sync/</loc>
+    <lastmod>2018-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://valt.io/support/getting-started/install/</loc>
+    <lastmod>2018-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://valt.io/support/valt-premium/manage-subscription/</loc>
+    <lastmod>2018-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://valt.io/support/recovery/</loc>
+    <lastmod>2018-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://valt.io/blog/memory-boost/</loc>
     <lastmod>2018-07-16T00:00:00+00:00</lastmod>
   </url>
@@ -40,16 +70,6 @@
   <url>
     <loc>https://valt.io/promo/decade/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://valt.io/support/sync/</loc>
-    <lastmod>2018-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://valt.io/support/restore/</loc>
-    <lastmod>2018-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -202,7 +222,7 @@
   
   <url>
     <loc>https://valt.io/support/</loc>
-    <lastmod>2018-01-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -213,7 +233,7 @@
   
   <url>
     <loc>https://valt.io/</loc>
-    <lastmod>2018-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
