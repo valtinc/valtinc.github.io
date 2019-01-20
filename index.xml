@@ -6,10 +6,19 @@
     <description>Recent content on Valt - Making Passwords Painless</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://valt.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Valt = Security &#43; Usability</title>
+      <link>https://valt.io/blog/security/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://valt.io/blog/security/</guid>
+      <description>Valt = Security + Usability   At Valt we know that usability is essential to security. An impenetrable encryption protocol doesn’t help anybody out if nobody uses it. That’s why we designed Valt Passwords from the ground up to both protect and delight. It starts with your first experience using Valt. Instead of authenticating with a text-based password that’s either hard to remember or easy to guess, we use images.</description>
+    </item>
     
     <item>
       <title>Contact us</title>
@@ -303,6 +312,16 @@ Now ask yourself, how many online accounts do you have? Is it 20? 30? 50? You mi
       <description>Recognition Memory   Take a quick look at the six images below.
   Now go back and imagine a single word description for each one. Really, do it. Let me guess, Dancer, Wedding, Sunflower, Owls, Camera, Street. Okay, five out of six ain&amp;rsquo;t bad.
 At Valt, we know that humans are extraordinarily good at recognizing images they’ve seen before. In fact, this is one reason Valt is so secure.</description>
+    </item>
+    
+    <item>
+      <title>Simpler Security: Single and Personalized Grids</title>
+      <link>https://valt.io/blog/single/</link>
+      <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://valt.io/blog/single/</guid>
+      <description>Simpler Security: Single and Personalized Grids   Valt’s fundamental design philosophy is simple: security products must be usable to be effective. The strongest security platform in the world doesn’t help anyone when nobody uses it. In support of this guiding principle, we’re pleased to announce two new changes to Valt––single grid authentication and personalized grids.
+Single Grid Authentication New Valt users will now unlock using a single grid. You can either construct a grid using your own images (see below for more details) or you can use our curated set.</description>
     </item>
     
     <item>

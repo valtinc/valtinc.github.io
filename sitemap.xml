@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://valt.io/blog/security/</loc>
+    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://valt.io/support/contact/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
   </url>
@@ -153,6 +158,11 @@
   </url>
   
   <url>
+    <loc>https://valt.io/blog/single/</loc>
+    <lastmod>2017-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://valt.io/app/privacy/</loc>
     <lastmod>2017-08-14T00:00:00+00:00</lastmod>
   </url>
@@ -200,7 +210,7 @@
   
   <url>
     <loc>https://valt.io/blog/</loc>
-    <lastmod>2018-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -233,7 +243,7 @@
   
   <url>
     <loc>https://valt.io/</loc>
-    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

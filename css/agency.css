@@ -781,6 +781,9 @@ section#team .linkedin {
     margin-top: 20px;
 }
 
+.post a {
+    color: navy;
+}
 
 /* BREADCRUMBS */
 ol.breadcrumbs {
