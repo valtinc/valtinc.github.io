@@ -225,6 +225,11 @@
   </url>
   
   <url>
+    <loc>https://valt.io/forward/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://valt.io/promo/</loc>
     <lastmod>2018-02-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -281,6 +286,10 @@
   
   <url>
     <loc>https://valt.io/howitworks/</loc>
+  </url>
+  
+  <url>
+    <loc>https://valt.io/forward/single/</loc>
   </url>
   
 </urlset>
