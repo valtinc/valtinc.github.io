@@ -6,10 +6,19 @@
     <description>Recent content in Support on Valt - Making Passwords Painless</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://valt.io/support/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Personalized grids</title>
+      <link>https://valt.io/support/personal-grids/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://valt.io/support/personal-grids/</guid>
+      <description>Creating a Personal Grid Valt mobile versions 2.1.1 and higher provide both new and existing users with the option to create a single, personal grid of their own images. To create a personalized grid, new users should select “Use my images” immediately after email entry during the Valt setup process. Users who created their Valt before February 2019 can opt to migrate from their existing 9 image, 3 grid set by selecting “Create my personalized grid” from the Settings menu.</description>
+    </item>
     
     <item>
       <title>Contact us</title>

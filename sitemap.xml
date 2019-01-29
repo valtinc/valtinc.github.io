@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://valt.io/support/personal-grids/</loc>
+    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://valt.io/blog/security/</loc>
     <lastmod>2019-01-15T00:00:00+00:00</lastmod>
   </url>
@@ -237,7 +242,7 @@
   
   <url>
     <loc>https://valt.io/support/</loc>
-    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -248,7 +253,7 @@
   
   <url>
     <loc>https://valt.io/</loc>
-    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

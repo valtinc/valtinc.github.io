@@ -19,7 +19,7 @@
 @media screen and (min-width: 500px) {
     .support-screenshot {
     	position: static;
-	    max-width: 350px;
+	    max-width: 300px;
     }
 }
 
