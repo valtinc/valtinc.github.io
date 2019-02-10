@@ -497,6 +497,7 @@ section#contact .form-group {
 }
 
 
+
 /** CAROUSEL **/
 
 .carousel {
@@ -682,6 +683,191 @@ section#team .mugshot {
 section#team .linkedin {
     max-width: 15px;
 }
+
+
+/* COWORK */
+
+section#cowork {
+    padding: 0px;
+}
+
+section#cowork .navbar-default.navbar-shrink {
+        background-color: rgba(255,255,255,0.8);
+}
+
+section#cowork .heading {
+    color: white;
+    margin-top: 120px;
+    margin-bottom: 50px;
+    font-size: 58px;
+
+}
+section#cowork .pitch {
+    /*min-height: 300px;*/
+    background-color: rgba(20, 181, 124, 0.8);
+    color: white;
+}
+
+section#cowork .email-octopus-success-message {
+    color: white;
+    font-size: 15px;
+}
+
+section#cowork .hero-image {
+    /* Use "linear-gradient" to add a darken 
+       background effect to the image (photographer.jpg). 
+       This will make the text easier to read */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), 
+                      url("/img/super_swing.jpg");
+    margin-top: -70px;
+
+    /* Set a specific height */
+    height: 700px;
+    
+    /* Position and center the image to scale nicely on all screens */
+    /* position: relative; */
+
+    background-position: top center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;    
+}
+
+
+/* SHARING */
+
+section#sharing {    
+    padding: 0px;
+}
+
+section#sharing .container {
+    max-width: 880px;
+    /* we want the max width to echo the default width of
+       of the largest element -- the app graphic */
+}
+
+section#sharing .hero-image {
+    background-image: url("/img/sharing/sharingHeroImage@2x.jpg") ;
+
+    /* Set a specific height */
+    height: 700px; 
+    
+    /* Position and center the image to scale nicely on all screens */
+    position: relative; 
+
+    background-position: top center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;    
+
+    background-color: white;
+}
+
+section#sharing .logo {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+section#sharing .heading {
+    color: white;
+    font-size:40px;
+    margin-left: 0px;   
+}
+
+section#sharing .smile {
+    max-width: 50px;
+}
+
+section#sharing .submit-button {
+    height: 50px; 
+    background-color: #14b57c; 
+    color: #fff; 
+    opacity: 1; 
+    font-size: 15px;
+    z-index: 10;
+}
+
+section#sharing .email {
+    height: 50px;
+    text-align: center;
+    font-size: 15px;
+}
+
+section#sharing .call-to-action-text {
+    color: white;
+    font-size: 20px;
+    font-weight: 100;
+    line-height: 25px;
+}
+
+section#sharing .help-block {
+    color:white;
+}
+section#sharing .form-wrapper {
+    margin: 40px 0px 0px 0px;
+}
+
+section#sharing-app {
+    padding-top: 0px;
+    padding-bottom: 20px;
+    z-index: -1;
+}
+section#sharing-app .container {
+    max-width: 880px;
+
+}
+
+section#sharing-app .app-image {
+    margin: auto;
+    display: block;
+    margin-top: -265px;
+    z-index: -1;
+}
+
+@media screen and (max-width: 996px) {
+    section#sharing-app .app-image {
+        margin-top: -80px;
+    }
+}
+
+section#sharing-features {
+    padding-top: 0px;  
+    padding-bottom: 50px; 
+}
+section#sharing-features .feature-icon {
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+
+section#sharing-features .container {
+    background-color: white;
+    max-width: 880px;
+    text-align: center;
+}
+
+section#sharing-features .feature {
+    
+}
+
+section#sharing-features h3 {
+    font-weight: 600;
+    font-size: 28px;    
+}
+section#sharing-features .heading {
+    font-weight: 800;
+    padding-bottom: 0px;
+    line-height: 0px;
+}
+
+section#sharing-features p {
+    line-height: 16px;
+}
+
+
 
 /*  POSTS */
 

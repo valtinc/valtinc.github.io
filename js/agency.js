@@ -53,9 +53,9 @@ var displayMailChimpStatus = function (data) {
 
 };
 
-// Async contact form
+// Async mailchimp contact form
 $('form[id=contactForm]').submit(function(e) {
-
+    
   e.preventDefault();  
   $.ajax({
         type: "GET",
@@ -67,6 +67,61 @@ $('form[id=contactForm]').submit(function(e) {
       });
 });
 
+$(document).ready(function() {
+
+    $('form[id=coworkForm]').submit(function(e) {
+        e.preventDefault();
+
+        var form = $(this);
+        var url = form.attr('action');
+
+        $.ajax({
+            type: "POST",
+            url: url,
+            contentType: 'application/json; charset=utf-8',
+            data: form.serialize(),
+            dataType: 'json',
+            success: function(res){
+                console.log("SUCCESS")
+                console.log(res)
+                $('form[id=coworkForm] #error').hide();
+                $('#confirm-contact-success').modal();
+            },
+            error: function(res){
+                console.log("ERROR")
+                console.log(res)
+                //$('form[id=contactForm] #error').show();
+            }
+        });
+
+    })
+
+});
+
+$(document).ready(function() {
+
+    window.onFormSharingRecpatcha = function() {
+        var form = $('form[id=sharingForm]');
+        var url = form.attr('action');
+        $.post(url, form.serialize()).done(function(response) {
+            console.log(response);
+            $('#confirm-contact-success').modal();
+        }).fail(function(textStatus) {
+            console.log(textStatus);
+        });
+    };
+});
+/*
+ajaxSubmit: function($form) {
+    $form.find(':submit').attr('disabled', true);
+    $.post($form.attr('action'), $form.serialize()).done(function(response) {
+        emailOctopus.ajaxSuccess($form, response);
+    }).fail(function(textStatus) {
+        emailOctopus.ajaxError($form, textStatus);
+    });
+},
+*/
+  
 // Contact form validation
 $.validate({
   modules : 'html5, toggleDisabled'
