@@ -172,14 +172,13 @@
                         <div class="row">
                         <div class="col-lg-12">
                             <div class="input-form">
-                            <input class="form-control form-style"
-                                   list="field_3" name="field_3" type="text" 
-                                   placeholder="Coworking space name">
-                                    <datalist id="field_3">
-                                    <option value="Click - Northampton, MA">
-                                    <option value="Cloud85 - North Adams, MA">
-                                    <option value="Framework - Pittsfield, MA">
-                                    </datalist>
+                            <select class="form-control form-style minimal"
+                                   list="field_3" name="field_3">
+                                    <option value="" selected disabled hidden>Select a coworking space</option>
+                                    <option value="click">Click - Northampton, MA</option>
+                                    <option value="cloud85">Cloud85 - North Adams, MA</option>
+                                    <option value="framework">Framework - Pittsfield, MA</option>
+                            </select>
                             <p class="help-block text-danger"></p>
                             </div>
                         </div>
@@ -241,12 +240,17 @@
         </div>
 
         <div class="row">
-            <div class="col-lg-12">
-                <p class="afterthought">
+            <div class="col-md-8">
+                <p class="afterthought">                        
                         Work on a team? You might be eligble for exclusive,
                         private access to <a href ="https://valt.io/marketing/sharing/">Valt sharing</a>.
+                        <br>
+                        Don't see your coworking space listed?  Tell your coworking space's
+                        executive or community director to email 
+                        <a href = "emailto:heeringa@valt.io">cowork@valt.io</a> about joining the program.
                 </p>
             </div>
+            <div class="col-md-4"></div>
         </div>
     
     </div>
