@@ -687,45 +687,24 @@ section#team .linkedin {
 
 /* COWORK */
 
-section#cowork {
+section#cowork {    
     padding: 0px;
 }
 
-section#cowork .navbar-default.navbar-shrink {
-        background-color: rgba(255,255,255,0.8);
-}
-
-section#cowork .heading {
-    color: white;
-    margin-top: 120px;
-    margin-bottom: 50px;
-    font-size: 58px;
-
-}
-section#cowork .pitch {
-    /*min-height: 300px;*/
-    background-color: rgba(20, 181, 124, 0.8);
-    color: white;
-}
-
-section#cowork .email-octopus-success-message {
-    color: white;
-    font-size: 15px;
+section#cowork .container {
+    max-width: 880px;
+    /* we want the max width to echo the default width of
+       of the largest element -- the app graphic */
 }
 
 section#cowork .hero-image {
-    /* Use "linear-gradient" to add a darken 
-       background effect to the image (photographer.jpg). 
-       This will make the text easier to read */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), 
-                      url("/img/super_swing.jpg");
-    margin-top: -70px;
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/img/cowork/super_swing.jpg");
 
     /* Set a specific height */
-    height: 700px;
+    min-height: 700px; 
     
     /* Position and center the image to scale nicely on all screens */
-    /* position: relative; */
+    position: relative; 
 
     background-position: top center;
     background-repeat: none;
@@ -733,8 +712,75 @@ section#cowork .hero-image {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;    
+    background-color: white;
 }
 
+section#cowork .logo {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+section#cowork .heading {
+    color: white;
+    font-size:40px;
+    margin-left: 0px;   
+}
+
+section#cowork .icon {
+    max-width: 50px;
+}
+
+section#cowork .submit-button {
+    height: 50px; 
+    background-color: #14b57c; 
+    color: #fff; 
+    opacity: 1; 
+    font-size: 15px;
+    z-index: 10;
+}
+
+section#cowork .form-style {
+    height: 50px;
+    text-align: center;
+    font-size: 15px;
+}
+
+section#cowork .call-to-action-text {
+    color: white;
+    font-size: 20px;
+    font-weight: 100;
+    line-height: 25px;
+    padding-bottom: 30px;
+}
+
+section#cowork 
+    a,
+    a:hover,
+    a:focus,
+    a:active,
+    a.active {
+        outline: 0;
+        color: white;
+        text-decoration: underline;
+    }
+
+section#cowork .afterthought {
+    color: white;
+    font-size: 14px;
+    font-weight: 100;
+    line-height: 25px;
+    padding-top: 10px;
+}
+
+section#cowork .help-block {
+    color:white;
+}
+section#cowork .form-wrapper {
+    margin: px 0px 0px 0px;
+}
+
+section#cowork .error {
+    color: white;
+}
 
 /* SHARING */
 
@@ -807,7 +853,7 @@ section#sharing .help-block {
     color:white;
 }
 section#sharing .form-wrapper {
-    margin: 40px 0px 0px 0px;
+    margin: 5px 0px 0px 0px;
 }
 
 section#sharing-app {
@@ -823,7 +869,7 @@ section#sharing-app .container {
 section#sharing-app .app-image {
     margin: auto;
     display: block;
-    margin-top: -265px;
+    margin-top: -300px;
     z-index: -1;
 }
 

@@ -16,7 +16,7 @@
   
   <meta name="generator" content="Hugo 0.45.1" />
   
-  <title>Valt :: Sharing &middot; Valt - Making Passwords Painless</title>
+  <title>Valt :: Cowork Partnership &middot; Valt - Making Passwords Painless</title>
   
   <!-- Stylesheets -->
   <link href="https://valt.io/css/bootstrap-v3.3.7/bootstrap.min.css" 
@@ -44,7 +44,7 @@
 </head>
 
 
-    <body>
+    <body style="background-color: #1e1e1e;">
 
     
     <div class="modal fade" id="confirm-contact-success" 
@@ -61,8 +61,9 @@
                   </div>
                   <br>
                   <p class="text-center">
-                    You've successfully signed up for Valt sharing.  Thank you!
-                    Check your email for more details.
+                    You've successfully signed up for free premium access to
+                    Valt compliments of your coworking space. Check your email 
+                    for more details.
                   </p>
                 </div>
 
@@ -76,30 +77,29 @@
 
         
     <!-- Sharing Section -->
-    <section id="sharing" class="responsive-pad">
-    <div class="hero-image">
+    <section id="cowork" class="responsive-pad">
     
+    <div class="hero-image">
     <div class="container">
         
         
         <div class="row">
             <div class="col-lg-12">
-                <img class="logo" width="72px" 
+                <a href = "https://valt.io/">
+                    <img class="logo" width="72px" 
                      src="/img/valtLogotype@2x.png"
-                     srcset="/img/valtLogotype@2x.png 2x, /img/valtLogotype.png 1x">
+                     srcset="/img/valtLogotype@2x.png 2x, /img/valtLogotype.png 1x"></a>
             </div>
         </div>
 
         
         
         <div class="row">
-                <div class="col-md-12">
+                <div class="col-sm-12">
                     <p class="heading">
-                        Sharing is Caring
-                        <img class="smile" 
-                             src="/img/sharing/smile@2x.png"
-                             srcset="/img/sharing/smile@2x.png 2x, 
-                                     /img/sharing/smile.png 1x">
+                        Elevate your security game
+                        <img class="icon" 
+                             src="/img/cowork/rocket.png">
                     </p>
                 </div>
         </div>
@@ -109,10 +109,12 @@
         <div class="row">
             <div class="col-md-8">
                 <p class="call-to-action-text">
-                  We're happy to announce that Valt's new sharing feature will
-                  be available soon!  Want to kick the tires a bit? Add your 
-                  email to the waiting list and we'll let you know when it's ready.
+                    Valt is parterning with select coworking spaces to provide 
+                    their members with complimentary access to Valt Premium.
+                    Interested in making security seamelss in your workflow?  
+                    Sign up today!
                 </p>
+
             </div>
             <div class="col-md-4">
                     
@@ -124,28 +126,74 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="form-wrapper">
-                    <form id="sharingForm"
+                    <form id="coworkForm"
                           method="POST"
-                          action="https://emailoctopus.com/lists/041d34fe-2e18-11e9-a3c9-06b79b628af2/members/embedded/1.3s/add"
+                          action="https://emailoctopus.com/lists/10b887f3-28a6-11e9-a3c9-06b79b628af2/members/embedded/1.3s/add"
                           target="_blank" 
                           class="validate">
                         
                         <div class="row">
                         <div class="col-lg-12">
-                            <div class="form-group">
-                            <input class="form-control email" 
+                            <div class="input-form">
+                            <input class="form-control form-style" 
                                    data-validation="email"
-                                   id="field_0" name="field_0" type="email" required="required" placeholder="Email"
+                                   autocomplete="email"
+                                   id="field_0" name="field_0" type="email" 
+                                   required="required" placeholder="Email"
                                    data-validation-error-msg="Please enter a valid email">                            
                             <p class="help-block text-danger"></p>
                             </div>
-                                    
+                        </div>
+                        </div>
+                            
+                        <div class="row">
+                        <div class="col-lg-12">
+                            <div class="input-form">
+                                <input class="form-control form-style" 
+                                       id="field_1" 
+                                       name="field_1" 
+                                       type="text" placeholder="First name">
+                            <p class="help-block text-danger"></p>
+                            </div>
+                        </div>
+                        </div>
+
+                        <div class="row">
+                        <div class="col-lg-12">
+                            <div class="input-form">
+                            <input class="form-control form-style"
+                                   id="field_2" name="field_2" type="text" 
+                                   placeholder="Last name">
+                            <p class="help-block text-danger"></p>
+                            </div>
+                        </div>
+                        </div>
+
+                        <div class="row">
+                        <div class="col-lg-12">
+                            <div class="input-form">
+                            <input class="form-control form-style"
+                                   list="field_3" name="field_3" type="text" 
+                                   placeholder="Coworking space name">
+                                    <datalist id="field_3">
+                                    <option value="Click - Northampton, MA">
+                                    <option value="Cloud85 - North Adams, MA">
+                                    <option value="Framework - Pittsfield, MA">
+                                    </datalist>
+                            <p class="help-block text-danger"></p>
+                            </div>
+                        </div>
+                        </div>
+
+                        <div class="row">
+                        <div class="col-lg-12">                            
+
                             <div aria-hidden="true">
                             
                                 <input type="text"
                                         class="form-control" 
                                         style="display: none;"
-                                        name="hp041d34fe-2e18-11e9-a3c9-06b79b628af2"
+                                        name="hp10b887f3-28a6-11e9-a3c9-06b79b628af2"
                                         tabindex="-1"
                                         autocomplete="nope">
                                 <input type="hidden"
@@ -161,16 +209,14 @@
                                     data-size="invisible" 
                                     data-type="image"
                                     data-sitekey="6LdYsmsUAAAAAPXVTt-ovRsPIJ_IVhvYBBhGvRV6"
-                                    data-callback="onSharingRecpatchaSuccess">
+                                    data-callback="onCoworkRecpatchaSucces">
                             </div>
-                        </div>
-                        </div>  
 
-                        <div class="row">
-                        <div class="col-lg-12">                            
-                            <div class="form-group">
-                                <button id="sharing-form-submit" 
-                                        class="btn btn-xl form-control submit-button">JOIN WAITING LIST</button>
+                            <div class="input-form">
+                                <button id="cowork-form-submit" 
+                                        class="btn btn-xl form-control submit-button">
+                                Get Complimentary Access!
+                            </button>
                             </div>
 
                             <div class="text-danger" 
@@ -180,102 +226,32 @@
                                       The message could not be sent.  Please contact us at feedback@valt.io for help.
                                     
                             </div>
-
+                          
 
                         </div>
                         </div>
 
                     </form>
-                </div>
-
+                </div>    
             </div>
 
             <div class="col-md-6">
                 
             </div>
         </div>
-    </div>
-    </div>
-    </section>
 
-    <section id="sharing-app">
-        <div class="container">
         <div class="row">
-            <div class="col-md-12">
-                <img class="app-image center block img-responsive" src="/img/sharing/sharingUI.png">
+            <div class="col-lg-12">
+                <p class="afterthought">
+                        Work on a team? You might be eligble for exclusive,
+                        private access to <a href ="https://valt.io/marketing/sharing/">Valt sharing</a>.
+                </p>
             </div>
         </div>
-        </div>
-    </section>
-
-    <section id="sharing-features">
-        <div class="container">
-        <div class="row">
-            <div class="col-sm-12">
-            <div class="features">
-            <h3 class="text-center">Password sharing made easy.</h3>
-            
-            <div class="row">
-                <div class="center-block text-center col-sm-4 feature">
-                        <img class="feature-icon" 
-                        src="/img/sharing/icon1@2x.png"
-                        srcset="/img/sharing/icon1@2x.png 2x, 
-                                /img/sharing/icon1.png 1x">
-
-                    <p class="heading">
-                        Streamline your digital life
-                    </p>
-                    <div class="container" style="text-align: center; max-width: 200px;">
-                        <div class="row">
-                        Share passwords with friends, family 
-                        and coworkers for quick online access.
-                        </div>
-                    </div>
-                </div>
-
-                <div class="center-block text-center col-sm-4 feature">
-                        <img class="center-block feature-icon" 
-                        src="/img/sharing/icon2@2x.png"
-                        srcset="/img/sharing/icon2@2x.png 2x, 
-                                /img/sharing/icon2.png 1x">
-
-                    <p class="heading">
-                        Keep things organized
-                    </p>
-                    <div class="container" style="text-align: center; max-width: 200px;">
-                    <div class="row">
-                        Use customizable folders to easily
-                        find the passwords you need.
-                    </div>
-                    </div>
-                </div>
-
-                <div class="center-block text-center col-sm-4 feature">
-                        <img class="feature-icon" 
-                             src="/img/sharing/icon3@2x.png"
-                             srcset="/img/sharing/icon3@2x.png 2x, 
-                                     /img/sharing/icon3.png 1x">
-
-                    <p class="heading">
-                        Control access
-                    </p>
-                    <div class="container" style="text-align: center; max-width: 200px;">
-                    <div class="row">
-                        Customize permissions to allow
-                        some to view passwords and others
-                        to modify passwords.
-                    </div>
-                    </div>              
-                </div>
-            </div>
-            </div>
-        </div>
-    </section>
-
     
     </div>
+    </div>
     </section>
-
 
 
     
@@ -340,35 +316,34 @@
 
     <script type="application/javascript">
 
-        
+    
 
-        $(document).ready(function() {
-    
-            window.onSharingRecpatchaSuccess = function() {
-                var form = $('form[id=sharingForm]');
-                var url = form.attr('action');
-                $('form[id=sharingForm] #error').hide();
-                $.post(url, form.serialize()).done(function(response) {
-                    console.log(response);
-                    $('#confirm-contact-success').modal();
-                    form.get(0).reset();
-                    grecaptcha.reset();
-                }).fail(function(textStatus) {
-                    console.log(textStatus);
-                    $('form[id=sharingForm] #error').show();        
-                });
-            };
-        });
-    
-        $.validate({
-            modules : 'html5, toggleDisabled',
-            form: '#sharingForm',
-            onSuccess : function($form) {
-                grecaptcha.execute();
-                return false;
-            }
-        });
-    
+    $(document).ready(function() {
+
+        window.onCoworkRecpatchaSucces = function() {
+            var form = $('form[id=coworkForm]');
+            var url = form.attr('action');
+            $('form[id=contactForm] #error').hide();
+            $.post(url, form.serialize()).done(function(response) {
+                console.log(response);
+                $('#confirm-contact-success').modal();
+                form.get(0).reset();
+                grecaptcha.reset();
+            }).fail(function(textStatus) {
+                console.log(textStatus);
+                $('form[id=coworkForm] #error').show();        
+            });
+        };
+    });
+
+    $.validate({
+        modules : 'html5, toggleDisabled',
+        onSuccess : function($form) {
+            grecaptcha.execute();
+            return false;
+        }
+    });
+
     </script>
 
     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
