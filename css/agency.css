@@ -702,7 +702,7 @@ section#cowork .hero-image {
     background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/img/cowork/super_swing.jpg");
 
     /* Set a specific height */
-    min-height: 700px; 
+    min-height: 800px; 
     
     /* Position and center the image to scale nicely on all screens */
     position: relative; 
