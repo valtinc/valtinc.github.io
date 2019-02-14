@@ -141,7 +141,6 @@
                                    id="field_0" name="field_0" type="email" 
                                    required="required" placeholder="Email"
                                    data-validation-error-msg="Please enter a valid email">                            
-                            <p class="help-block text-danger"></p>
                             </div>
                         </div>
                         </div>
@@ -152,11 +151,9 @@
                                 <input class="form-control form-style" 
                                        id="field_1" 
                                        name="field_1"
-                                       data-validation="text"
                                        required="required" 
                                        data-validation-error-msg="Please enter your first name"
                                        type="text" placeholder="First name">
-                            <p class="help-block text-danger"></p>
                             </div>
                         </div>
                         </div>
@@ -167,7 +164,6 @@
                             <input class="form-control form-style"
                                    id="field_2" name="field_2" type="text" 
                                    placeholder="Last name">
-                            <p class="help-block text-danger"></p>
                             </div>
                         </div>
                         </div>
@@ -176,13 +172,14 @@
                         <div class="col-lg-12">
                             <div class="input-form">
                             <select class="form-control form-style minimal"
-                                   list="field_3" name="field_3">
+                                   list="field_3" name="field_3"
+                                   required="required"
+                                   data-validation-error-msg="Please select a coworking location">
                                     <option value="" selected disabled hidden>Select a coworking space</option>
-                                    <option value="click">Click - Northampton, MA</option>
-                                    <option value="cloud85">Cloud85 - North Adams, MA</option>
-                                    <option value="framework">Framework - Pittsfield, MA</option>
+                                    <option value="Click">Click - Northampton, MA</option>
+                                    <option value="Cloud85">Cloud85 - North Adams, MA</option>
+                                    <option value="Framework">Framework - Pittsfield, MA</option>
                             </select>
-                            <p class="help-block text-danger"></p>
                             </div>
                         </div>
                         </div>

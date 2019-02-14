@@ -128,6 +128,7 @@ html, body {
 
 .input-form {
     max-width: 555px;
+    margin-bottom: 10px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -775,10 +776,10 @@ section#cowork .help-block {
     color:white;
 }
 section#cowork .form-wrapper {
-    margin: px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
 }
 
-section#cowork .error {
+section#cowork .form-error {
     color: white;
 }
 
