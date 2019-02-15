@@ -705,9 +705,9 @@ section#cowork .hero-image {
     min-height: 800px; 
     
     /* Position and center the image to scale nicely on all screens */
-    position: relative; 
+    position: relative;
 
-    background-position: top center;
+    background-position: top center; 
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
