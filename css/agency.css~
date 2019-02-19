@@ -128,6 +128,7 @@ html, body {
 
 .input-form {
     max-width: 555px;
+    margin-bottom: 10px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -497,6 +498,7 @@ section#contact .form-group {
 }
 
 
+
 /** CAROUSEL **/
 
 .carousel {
@@ -683,6 +685,307 @@ section#team .linkedin {
     max-width: 15px;
 }
 
+
+/* COWORK */
+
+section#cowork {    
+    padding: 0px;
+}
+
+section#cowork .container {
+    max-width: 880px;
+    /* we want the max width to echo the default width of
+       of the largest element -- the app graphic */
+}
+
+section#cowork .hero-image {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/img/cowork/super_swing.jpg");
+
+    /* Set a specific height */
+    min-height: 800px; 
+    
+    /* Position and center the image to scale nicely on all screens */
+    position: relative;
+
+    background-position: top center; 
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;    
+    background-color: white;
+}
+
+section#cowork .logo {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+section#cowork .heading {
+    color: white;
+    font-size:40px;
+    margin-left: 0px;   
+}
+
+section#cowork .icon {
+    max-width: 50px;
+}
+
+section#cowork .submit-button {
+    height: 50px; 
+    background-color: #14b57c; 
+    color: #fff; 
+    opacity: 1; 
+    font-size: 15px;
+    z-index: 10;
+}
+
+section#cowork .form-style {
+    height: 50px;
+    text-align: center;
+    font-size: 15px;
+}
+
+section#cowork .call-to-action-text {
+    color: white;
+    font-size: 20px;
+    font-weight: 100;
+    line-height: 25px;
+    padding-bottom: 30px;
+}
+
+section#cowork 
+    a,
+    a:hover,
+    a:focus,
+    a:active,
+    a.active {
+        outline: 0;
+        color: white;
+        text-decoration: underline;
+    }
+
+section#cowork .afterthought {
+    color: white;
+    font-size: 14px;
+    font-weight: 100;
+    line-height: 25px;
+    padding-top: 10px;
+}
+
+section#cowork .help-block {
+    color:white;
+}
+section#cowork .form-wrapper {
+    margin: 0px 0px 0px 0px;
+}
+
+section#cowork .form-error {
+    color: white;
+}
+
+section#cowork select {
+
+    /* styling */
+    background-color: white;
+    /* border: thin solid blue; */
+    /* border-radius: 4px; */
+    display: inline-block;
+    font: inherit;
+    /* line-height: 2.5em; */
+    /* padding: 0.5em 3.5em 0.5em 1em; */
+
+    /* reset */
+  
+    margin: 0;      
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+  }
+  
+section#cowork select.minimal {
+  background-image:
+    linear-gradient(45deg, transparent 50%, gray 50%),
+    linear-gradient(135deg, gray 50%, transparent 50%),
+    linear-gradient(to right, #ccc, #ccc);
+  background-position:
+    calc(100% - 20px) calc(1em + 2px),
+    calc(100% - 15px) calc(1em + 2px),
+    calc(100% - 2.5em) 0.5em;
+  background-size:
+    5px 5px,
+    5px 5px,
+    1px 1.5em;
+  background-repeat: no-repeat;
+}
+
+section#coworking select.minimal:focus {
+  background-image:
+    linear-gradient(45deg, green 50%, transparent 50%),
+    linear-gradient(135deg, transparent 50%, green 50%),
+    linear-gradient(to right, #ccc, #ccc);
+  background-position:
+    calc(100% - 15px) 1em,
+    calc(100% - 20px) 1em,
+    calc(100% - 2.5em) 0.5em;
+  background-size:
+    5px 5px,
+    5px 5px,
+    1px 1.5em;
+  background-repeat: no-repeat;
+  border-color: green;
+  outline: 0;
+}
+
+
+select:-moz-focusring {
+  color: transparent;
+  text-shadow: 0 0 0 #000;
+}
+
+/* SHARING */
+
+section#sharing {    
+    padding: 0px;
+}
+
+section#sharing .container {
+    max-width: 880px;
+    /* we want the max width to echo the default width of
+       of the largest element -- the app graphic */
+}
+
+section#sharing .hero-image {
+    background-image: url("/img/sharing/sharingHeroImage@2x.jpg") ;
+
+    /* Set a specific height */
+    height: 700px; 
+    
+    /* Position and center the image to scale nicely on all screens */
+    position: relative; 
+
+    background-position: top center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;    
+
+    background-color: white;
+}
+
+section#sharing .logo {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+section#sharing .heading {
+    color: white;
+    font-size:40px;
+    margin-left: 0px;   
+}
+
+section#sharing .afterthought {
+    color: white;
+    font-size: 14px;
+    font-weight: 100;
+    line-height: 25px;
+    padding-top: 10px;
+}
+
+section#sharing .smile {
+    max-width: 50px;
+}
+
+section#sharing .submit-button {
+    height: 50px; 
+    background-color: #14b57c; 
+    color: #fff; 
+    opacity: 1; 
+    font-size: 15px;
+    z-index: 10;
+}
+
+section#sharing .email {
+    height: 50px;
+    text-align: center;
+    font-size: 15px;
+}
+
+section#sharing .call-to-action-text {
+    color: white;
+    font-size: 20px;
+    font-weight: 100;
+    line-height: 25px;
+}
+
+section#sharing .help-block {
+    color:white;
+}
+section#sharing .form-wrapper {
+    margin: 5px 0px 0px 0px;
+}
+
+section#sharing-app {
+    padding-top: 0px;
+    padding-bottom: 20px;
+    z-index: -1;
+}
+section#sharing-app .container {
+    max-width: 880px;
+
+}
+
+section#sharing-app .app-image {
+    margin: auto;
+    display: block;
+    margin-top: -300px;
+    z-index: -1;
+    width: 890px;
+}
+
+@media screen and (max-width: 996px) {
+    section#sharing-app .app-image {
+        margin-top: -80px;
+    }
+}
+
+section#sharing-features {
+    padding-top: 0px;  
+    padding-bottom: 50px; 
+}
+section#sharing-features .feature-icon {
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+
+section#sharing-features .container {
+    background-color: white;
+    max-width: 880px;
+    text-align: center;
+}
+
+section#sharing-features .feature {
+    
+}
+
+section#sharing-features h3 {
+    font-weight: 600;
+    font-size: 28px;    
+}
+section#sharing-features .heading {
+    font-weight: 800;
+    padding-bottom: 0px;
+    line-height: 0px;
+}
+
+section#sharing-features p {
+    line-height: 16px;
+}
+
+
+
 /*  POSTS */
 
 
@@ -781,6 +1084,9 @@ section#team .linkedin {
     margin-top: 20px;
 }
 
+.post a {
+    color: navy;
+}
 
 /* BREADCRUMBS */
 ol.breadcrumbs {

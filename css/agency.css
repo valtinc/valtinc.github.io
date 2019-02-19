@@ -850,6 +850,17 @@ section#sharing {
     padding: 0px;
 }
 
+section#sharing 
+    a,
+    a:hover,
+    a:focus,
+    a:active,
+    a.active {
+        outline: 0;
+        color: white;
+        text-decoration: underline;
+    }
+
 section#sharing .container {
     max-width: 880px;
     /* we want the max width to echo the default width of
@@ -883,6 +894,14 @@ section#sharing .heading {
     color: white;
     font-size:40px;
     margin-left: 0px;   
+}
+
+section#sharing .afterthought {
+    color: white;
+    font-size: 14px;
+    font-weight: 100;
+    line-height: 25px;
+    padding-top: 10px;
 }
 
 section#sharing .smile {
@@ -931,7 +950,7 @@ section#sharing-app .container {
 section#sharing-app .app-image {
     margin: auto;
     display: block;
-    margin-top: -300px;
+    margin-top: -250px;
     z-index: -1;
     width: 890px;
 }
