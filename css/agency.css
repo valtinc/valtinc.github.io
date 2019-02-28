@@ -574,6 +574,7 @@ section#downloads {
         display: block;
         margin-left: auto;
         margin-right: auto;
+        padding: 5px;        
     }
 }
 
@@ -582,6 +583,12 @@ section#downloads {
         float: right !important;
     }
 }
+
+section#grey-downloads {
+    padding: 20px;
+    background: rgb(111,112,113);
+}
+
 
 /* HOW IT WORKS */
 
@@ -867,26 +874,40 @@ section#sharing .container {
        of the largest element -- the app graphic */
 }
 
-section#sharing .hero-image {
-    /* background-image: url("/img/sharing/sharingHeroImage@2x.jpg") ;*/
-    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/img/sharing/hero.jpg");
-
-    /* Set a specific height */
-    height: 700px; 
+@media (max-width: 767px) {
     
-    /* Position and center the image to scale nicely on all screens */
-    position: relative; 
+    section#sharing .hero-image {
+        background-color: #1b2d2d;
+        background-image: url();
+        height: 700px;
+    }    
 
-    background-position: top center;
-    background-repeat: none;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;    
-
-    background-color: white;
+    section#sharing .icon {
+        display: none;
+    }
 }
 
+@media (min-width: 768px) {
+
+    section#sharing .hero-image {
+        background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/img/sharing/sharingHeroImage@2x.jpg") ;
+
+        /* Set a specific height */
+        height: 700px; 
+        
+        /* Position and center the image to scale nicely on all screens */
+        position: relative; 
+
+        background-position: top center;
+        background-repeat: none;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;    
+
+        background-color: white;
+    }
+}
 section#sharing .logo {
     padding-top: 30px;
     padding-bottom: 50px;
@@ -907,6 +928,7 @@ section#sharing .afterthought {
 
 section#sharing .icon {
     max-width: 50px;
+    margin-top: -15px;
 }
 
 section#sharing .submit-button {
@@ -964,7 +986,7 @@ section#sharing-app .app-image {
 
 section#sharing-features {
     padding-top: 0px;  
-    padding-bottom: 50px; 
+    padding-bottom: 100px; 
 }
 section#sharing-features .feature-icon {
     text-align: center;
