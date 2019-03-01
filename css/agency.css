@@ -918,6 +918,14 @@ section#sharing .heading {
     margin-left: 0px;   
 }
 
+@media screen and (max-width: 996px) {
+    section#sharing .heading {
+        color: white;
+        font-size:36px;
+        margin-left: 0px;   
+    }
+}
+
 section#sharing .afterthought {
     color: white;
     font-size: 14px;
@@ -983,6 +991,14 @@ section#sharing-app .app-image {
         margin-top: -80px;
     }
 }
+
+@media screen and (max-width: 767px) {
+    section#sharing-app .app-image {
+        margin-top: -120px;
+    }
+}
+
+
 
 section#sharing-features {
     padding-top: 0px;  
