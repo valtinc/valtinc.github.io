@@ -46,37 +46,50 @@
 
     <body>
 
+
+        
+    <!-- Sharing Section -->
+    <section id="sharing" class="responsive-pad">
+
     
     <div class="modal fade" id="confirm-contact-success" 
          tabindex="-1" role="dialog" 
          aria-labelledby="confirmContactSuccessModal"
          aria-hidden="true">
-        <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-dialog" role="document">
             <div class="modal-content">
+                <div class="modal-header">
+                <h4 class="modal-title text-center" 
+                    id="sharing-modal">
+                    Thanks for requesting access!
+                </h4>
+                </div>
                 <div class="modal-body">
-                  <div style="width: 100px;" class="img-centered" 
-                       id="confirmContactSuccessModal">
-                    <img src = "/img/iconConfirmed@2x.png"  
-                         class="img-responsive img-centered">
-                  </div>
-                  <br>
-                  <p class="text-center">
-                    You've successfully signed up for Valt sharing.  Thank you!
-                    Check your email for more details.
+                  <h5 class="text-center">
+                    Want to move up the list? Take a quick 
+                    two minute survey to tell us a bit more about 
+                    how you share passwords. 
+                  </h5>
+
+                 <p class="text-center">
+                        <a class="typeform-share button btn btn-seconday" 
+                           href="https://valtpasswords.typeform.com/to/xN0UMD" 
+                           data-mode="popup" 
+                           role="button">Take the Survey</a>
+                           <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
+
                   </p>
                 </div>
 
                 <div class="modal-footer">
-                  <button type="button" data-dismiss="modal"
-                          class="btn btn-primary center-block">Got it!</button>
+                    <button type="button" data-dismiss="modal"
+                          class="btn btn-primary">Close</button>
                 </div>
             </div>
         </div>
     </div>
 
-        
-    <!-- Sharing Section -->
-    <section id="sharing" class="responsive-pad">
+
     <div class="hero-image">
     
     <div class="container">
@@ -108,9 +121,10 @@
         <div class="row">
             <div class="col-md-8">
                 <p class="call-to-action-text">
-                  We're happy to announce that Valt's new sharing feature will
-                  be available soon!  Want to kick the tires a bit? Add your 
-                  email to the waiting list and we'll let you know when it's ready.
+                    Valt is the easiest solution out there for sharing passwords with 
+                    family, coworkers and friends. To maintain our commitment to quality 
+                    and customer service we are rolling Valt Sharing out to a new group 
+                    of select users each week. Reserve your place on the list now!
                 </p>
             </div>
             <div class="col-md-4">
@@ -169,7 +183,7 @@
                         <div class="col-lg-12">                            
                             <div class="form-group">
                                 <button id="sharing-form-submit" 
-                                        class="btn btn-xl form-control submit-button">JOIN WAITING LIST</button>
+                                        class="btn btn-xl form-control submit-button">Request Access</button>
                             </div>
 
                             <div class="text-danger" 
@@ -192,17 +206,6 @@
             <div class="col-md-6">
                 
             </div>
-        </div>
-
-        <div class="row">
-            <div class="col-md-8">
-                <p class="afterthought">                        
-		  Ever share passwords with coworkers? <a href="https://valt.io/marketing/survey/">Tell us a
-		  little bit about your team</a> and get access to the Valt Sharing for
-		  Teams private beta.
-                </p>
-            </div>
-            <div class="col-md-4"></div>
         </div>
 
     </div>

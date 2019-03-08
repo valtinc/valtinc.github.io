@@ -874,6 +874,16 @@ section#sharing .container {
        of the largest element -- the app graphic */
 }
 
+section#sharing .modal-body .btn {
+    background-color: #14b57c;
+    outline: 1;
+}
+
+section#sharing .modal a, a:hover, a:focus, a:active {
+    text-decoration: none;
+}
+
+
 @media (max-width: 767px) {
     
     section#sharing .hero-image {
