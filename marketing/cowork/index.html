@@ -128,7 +128,7 @@
                 <div class="form-wrapper">
                     <form id="coworkForm"
                           method="POST"
-                          action="https://emailoctopus.com/lists/10b887f3-28a6-11e9-a3c9-06b79b628af2/members/embedded/1.3s/add"
+                          action="https://emailoctopus.com/lists/10b887f3-28a6-11e9-a3c9-06b79b628af2/members/embedded/1.3/add"
                           target="_blank" 
                           class="validate">
                         
@@ -202,14 +202,6 @@
                         
                             </div>
 
-                            
-                            <div class="g-recaptcha"
-                                    data-theme="light"
-                                    data-size="invisible" 
-                                    data-type="image"
-                                    data-sitekey="6LdYsmsUAAAAAPXVTt-ovRsPIJ_IVhvYBBhGvRV6"
-                                    data-callback="onCoworkRecpatchaSucces">
-                            </div>
 
                             <div class="input-form">
                                 <button id="cowork-form-submit" 
@@ -317,39 +309,24 @@
 
 
 
-    <script type="application/javascript">
-
-    
-
-    $(document).ready(function() {
-
-        window.onCoworkRecpatchaSucces = function() {
+    <script>
+    $.validate({
+        modules : 'html5, toggleDisabled',
+        onSuccess : function($form) {
             var form = $('form[id=coworkForm]');
             var url = form.attr('action');
             $('form[id=contactForm] #error').hide();
             $.post(url, form.serialize()).done(function(response) {
-                console.log(response);
                 $('#confirm-contact-success').modal();
                 form.get(0).reset();
-                grecaptcha.reset();
             }).fail(function(textStatus) {
-                console.log(textStatus);
                 $('form[id=coworkForm] #error').show();        
             });
-        };
-    });
-
-    $.validate({
-        modules : 'html5, toggleDisabled',
-        onSuccess : function($form) {
-            grecaptcha.execute();
             return false;
         }
     });
 
     </script>
-
-    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </body>
 
 <!-- Google analytics -->

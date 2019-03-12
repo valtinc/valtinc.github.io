@@ -59,31 +59,30 @@
         <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-header">
-                <h4 class="modal-title text-center" 
+                <h3 class="modal-title text-center" 
                     id="sharing-modal">
                     Thanks for requesting access!
-                </h4>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span style="font-size: 45px;" aria-hidden="true">&times;</span>
+                </button>
+                </h3>
+
                 </div>
                 <div class="modal-body">
-                  <h5 class="text-center">
+                  <h4 class="text-center">
                     Want to move up the list? Take a quick 
                     two minute survey to tell us a bit more about 
                     how you share passwords. 
-                  </h5>
-
+                  </h4>
+                <br>
                  <p class="text-center">
-                        <a class="typeform-share button btn btn-seconday" 
+                        <a class="typeform-share button btn btn-lg btn-seconday" 
                            href="https://valtpasswords.typeform.com/to/xN0UMD" 
                            data-mode="popup" 
                            role="button">Take the Survey</a>
                            <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
 
                   </p>
-                </div>
-
-                <div class="modal-footer">
-                    <button type="button" data-dismiss="modal"
-                          class="btn btn-primary">Close</button>
                 </div>
             </div>
         </div>
@@ -139,8 +138,9 @@
                 <div class="form-wrapper">
                     <form id="sharingForm"
                           method="POST"
-                          action="https://emailoctopus.com/lists/041d34fe-2e18-11e9-a3c9-06b79b628af2/members/embedded/1.3s/add"
-                          target="_blank" 
+                          action="https://emailoctopus.com/lists/041d34fe-2e18-11e9-a3c9-06b79b628af2/members/embedded/1.3/add"
+                          target="_blank"
+                          data-sitekey="6LdYsmsUAAAAAPXVTt-ovRsPIJ_IVhvYBBhGvRV6" 
                           class="validate">
                         
                         <div class="row">
@@ -166,15 +166,6 @@
                                         name="successRedirectUrl"
                                         value="">           
                         
-                            </div>
-
-                            
-                            <div class="g-recaptcha"
-                                    data-theme="light"
-                                    data-size="invisible" 
-                                    data-type="image"
-                                    data-sitekey="6LdYsmsUAAAAAPXVTt-ovRsPIJ_IVhvYBBhGvRV6"
-                                    data-callback="onSharingRecpatchaSuccess">
                             </div>
                         </div>
                         </div>  
@@ -374,38 +365,25 @@
 
     <script type="application/javascript">
 
-        
-
-        $(document).ready(function() {
-    
-            window.onSharingRecpatchaSuccess = function() {
-                var form = $('form[id=sharingForm]');
-                var url = form.attr('action');
-                $('form[id=sharingForm] #error').hide();
-                $.post(url, form.serialize()).done(function(response) {
-                    console.log(response);
-                    $('#confirm-contact-success').modal();
-                    form.get(0).reset();
-                    grecaptcha.reset();
-                }).fail(function(textStatus) {
-                    console.log(textStatus);
-                    $('form[id=sharingForm] #error').show();        
-                });
-            };
-        });
-    
         $.validate({
             modules : 'html5, toggleDisabled',
             form: '#sharingForm',
             onSuccess : function($form) {
-                grecaptcha.execute();
+                var form = $('form[id=sharingForm]');
+                var url = form.attr('action');
+                $('form[id=sharingForm] #error').hide();
+                $.post(url, form.serialize()).done(function(response) {
+                    $('#confirm-contact-success').modal();
+                    form.get(0).reset();
+                }).fail(function(textStatus) {
+                    $('form[id=sharingForm] #error').show();        
+                });
                 return false;
             }
         });
     
     </script>
 
-    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </body>
 
 <!-- Google analytics -->
