@@ -239,8 +239,9 @@ a,
 a:hover,
 a:focus,
 a:active,
-a.active {
+a:active {
     outline: 0;
+    color: #14b57c;
 }
 
 h1,
@@ -606,6 +607,7 @@ section#works-tabs {
     border: 1px solid transparent;
     border-bottom: 1px solid grey;
     border-radius: 4px 4px 0 0;
+    color: black;
 }
 
 @media (max-width: 480px) {
@@ -760,12 +762,11 @@ section#cowork .call-to-action-text {
     padding-bottom: 30px;
 }
 
-section#cowork 
-    a,
-    a:hover,
-    a:focus,
-    a:active,
-    a.active {
+section#cowork a,
+section#cowork a:hover,
+section#cowork a:focus,
+section#cowork a:active,
+section#cowork a:active {
         outline: 0;
         color: white;
         text-decoration: underline;
@@ -857,16 +858,14 @@ section#sharing {
     padding: 0px;
 }
 
-section#sharing 
-    a,
-    a:hover,
-    a:focus,
-    a:active,
-    a.active {
+section#sharing a,
+section#cowork a:hover,
+section#cowork a:focus,
+section#cowork a:active {
         outline: 0;
         color: white;
         text-decoration: underline;
-    }
+}
 
 section#sharing .container {
     max-width: 880px;
@@ -1244,5 +1243,9 @@ footer ul.quicklinks li {
 }
 
 footer ul.quicklinks li a {
+    color: #777;
+}
+
+footer ul.social-buttons li a {
     color: #777;
 }
