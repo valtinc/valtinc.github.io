@@ -852,6 +852,153 @@ select:-moz-focusring {
   text-shadow: 0 0 0 #000;
 }
 
+/* SIMPLIFY */
+
+section#simplify {
+    padding: 0px;
+}
+
+section#simplify a,
+section#simplify a:hover,
+section#simplify a:focus,
+section#simplify a:active {
+        outline: 0;
+        color: white;
+        text-decoration: underline;
+}
+
+section#simplify .container {
+    max-width: 880px;
+    /* we want the max width to echo the default width of
+       of the largest element -- the app graphic */
+}
+
+section#simplify .modal a, a:hover, a:focus, a:active {
+    text-decoration: none;
+}
+
+
+@media (max-width: 767px) {
+    
+    section#simplify .hero-image {
+        background-color: #1b2d2d;
+        background-image: url();
+        height: 600px;
+    }    
+
+}
+
+@media (min-width: 768px) {
+
+    section#simplify .hero-image {
+        background-image: linear-gradient( rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url("/img/sharingLandBg@2x.jpg") ;
+
+        /* Set a specific height */
+        height: 700px; 
+        
+        /* Position and center the image to scale nicely on all screens */
+        position: relative; 
+
+        background-position: top center;
+        background-repeat: none;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;    
+
+        background-color: white;
+    }
+}
+section#simplify .logo {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+section#simplify .heading {
+    color: white;
+    font-size:40px;
+    margin-left: 0px;   
+}
+
+@media screen and (max-width: 996px) {
+    section#simplify .heading {
+        color: white;
+        font-size:36px;
+        margin-left: 0px;   
+    }
+}
+
+
+section#simplify .call-to-action-text {
+    color: white;
+    font-size: 20px;
+    font-weight: 100;
+    line-height: 25px;
+}
+
+
+section#simplify-app {
+    padding-top: 0px;
+    padding-bottom: 20px;
+    z-index: -1;
+}
+section#simplify-app .container {
+    max-width: 880px;
+
+}
+
+section#simplify-app .app-image {
+    margin: auto;
+    display: block;
+    margin-top: -350px;
+    z-index: -1;
+    width: 890px;
+}
+
+
+@media screen and (max-width: 767px) {
+    section#simplify-app .app-image {
+        margin-top: -200px;
+    }
+} 
+
+@media screen and (max-width: 410px) {
+    section#simplify-app .app-image {
+        margin-top: -120px;
+    }
+} 
+
+section#simplify-features {
+    padding-top: 0px;  
+    padding-bottom: 100px; 
+}
+section#simplify-features .feature-icon {
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+
+section#simplify-features .container {
+    background-color: white;
+    max-width: 880px;
+    text-align: center;
+}
+
+section#simplify-features .feature {
+    
+}
+
+section#simplify-features .heading {
+    font-weight: 800;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+section#simplify-features p {
+    line-height: 16px;
+}
+
+
+
 /* SHARING */
 
 section#sharing {    
