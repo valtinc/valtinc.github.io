@@ -202,12 +202,9 @@
                 and would love to add you to the list.
             </li>
         </ol>
-
-        
-            
-            
         <p class="text-left">
                 <a class="btn submit-button btn-lg" 
+                   id="request-button"
                    href="https://valtpasswords.typeform.com/to/xN0UMD" 
                    data-mode="popup" 
                    role="button">Request access</a>
@@ -369,6 +366,15 @@
 
 
 
+
+
+    <script type="text/javascript">
+        $("#request-button").on('click', function(event) {
+            event.preventDefault();
+            fbq('track', 'Lead');
+            window.location.href = "https://valtpasswords.typeform.com/to/xN0UMD";
+        });
+    </script>
 
   </body>
 
