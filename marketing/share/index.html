@@ -71,7 +71,7 @@
                          srcset="/img/valtLogotype@2x.gif 2x, /img/valtLogotype.gif 1x">
                     <br>
                     <p>
-                    Organize your digital life
+                    Simplify your life
                     </p>
                 </div>
 
@@ -109,7 +109,7 @@
                         </li>
                         <li>
                             <span>
-                            Enable backup access for yourself on the accounts
+                            Enable backup access for yourself and on the accounts
                             of your teens (Instagram, Snapchat, WhatsApp, 
                             Fortnite) and aging parents (iCloud, Gmail, Wifi,
                                 utilities, financial services, Medicare)
@@ -150,8 +150,8 @@
                          srcset="/img/iconShare@2x.png 2x, /img/iconShare.png 1x">
                     <h4>Share</h4>
                     <p>
-                        Valt allows you to group passwords into folders
-                        and share those folders with whoever you want.
+                        Group passwords into folders
+                        and share those folders with whomever you want.
                     </p>
                     </div>
                     <div class="col-sm-1"></div>
@@ -168,9 +168,8 @@
                          srcset="/img/iconOrganize@2x.png 2x, /img/iconOrganize.png 1x">
                     <h4>Organize</h4>
                     <p>
-                        You can create as many folders as you like, and you can 
-                        add and remove both people and passwords from those folders
-                        as you like.
+                        Create as many folders as you like.  Add 
+                        and remove both people and passwords to the folders.
                     </p>
                     </div>
                     <div class="col-sm-3"></div>
@@ -195,18 +194,24 @@
             <li>
                 If someone you know has access already ask them to share a password 
                 with you.  Once you've received a share, you'll have access to the 
-                full suite of sharing features within the Valt app.
+                full suite of sharing features.
             </li>
             <li>
                 Sign up here!  We're constantly rolling out sharing to more users
                 and would love to add you to the list.
             </li>
         </ol>
+
+
         <p class="text-left">
-                <a class="btn submit-button btn-lg" 
-                   id="request-button"
-                   href="https://valtpasswords.typeform.com/to/K5QGtq" 
-                   role="button">Request access</a>
+            <a class="typeform-share button btn submit-button btn-lg" 
+            href="https://valtpasswords.typeform.com/to/K5QGtq" 
+            data-mode="popup" 
+            role="button"
+            id="request-button"
+            target="_blank">Request access</a> 
+            <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
+            
         </p>
 
 
@@ -367,10 +372,9 @@
 
 
     <script type="text/javascript">
+        
         $("#request-button").on('click', function(event) {
-            event.preventDefault();
             fbq('track', 'Lead');
-            window.location.href = "https://valtpasswords.typeform.com/to/K5QGtq";
         });
     </script>
 
