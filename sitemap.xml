@@ -8,6 +8,24 @@
   </url>
   
   <url>
+    <loc>https://valt.io/support/</loc>
+    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://valt.io/</loc>
+    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://valt.io/blog/</loc>
+    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://valt.io/blog/security/</loc>
     <lastmod>2019-01-15T00:00:00+00:00</lastmod>
   </url>
@@ -55,6 +73,12 @@
   <url>
     <loc>https://valt.io/blog/dual-coding/</loc>
     <lastmod>2018-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://valt.io/promo/</loc>
+    <lastmod>2018-02-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -168,6 +192,12 @@
   </url>
   
   <url>
+    <loc>https://valt.io/app/</loc>
+    <lastmod>2017-08-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://valt.io/app/privacy/</loc>
     <lastmod>2017-08-14T00:00:00+00:00</lastmod>
   </url>
@@ -203,19 +233,7 @@
   </url>
   
   <url>
-    <loc>https://valt.io/app/</loc>
-    <lastmod>2017-08-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://valt.io/backup/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://valt.io/blog/</loc>
-    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -240,25 +258,7 @@
   </url>
   
   <url>
-    <loc>https://valt.io/promo/</loc>
-    <lastmod>2018-02-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://valt.io/support/</loc>
-    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://valt.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://valt.io/</loc>
-    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
