@@ -6,10 +6,19 @@
     <description>Recent content in Blog on Valt - Making Passwords Painless</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://valt.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A letter from our founder: Valt &#43; Dropbox</title>
+      <link>https://valt.io/blog/dropbox/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://valt.io/blog/dropbox/</guid>
+      <description>A letter from our founder: Valt + Dropbox   In 2017, Valt set out to build a new style of password manager that was both elegant and functional. Originally inspired by research I’d done as a professor in computer science, our team of five worked hard to build a product that was unlike any other in the market. Our goal was to keep your information safe and available no matter where you were or what device you were using.</description>
+    </item>
     
     <item>
       <title>Valt = Security &#43; Usability</title>
